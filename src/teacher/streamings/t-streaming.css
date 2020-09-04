@@ -1,0 +1,26 @@
+
+/*StreamingTeacherScreen*/
+.t-streaming-to-home {margin: 0 auto}
+.t-streaming-container { width : 1800px; height:1000px; margin : 0 auto}
+.t-streaming-streaming-container { width : 78%; height:100%; float: left;}
+.t-streaming-video-container {width : 100%; height:85%;}
+.t-streaming-video-component {margin: auto;width:100%; height :100%; background-color : black}
+.t-streaming-comment-container {width: 100%; height: 15%; text-align: center}
+.t-streaming-items-container { width :20%; margin : 1% auto;  height :100%; float : right}
+.t-streaming-member-list-container { width : 100%; height:70%;}
+.t-streaming-member-list-title {text-align: center}
+.t-streaming-member-list-table {width: 100%; margin: 0 auto; text-align: center}
+.t-streaming-lecture-meterials-title {text-align: center}
+.t-streaming-lecture-meterials-container {width : 100%; height:27%;}
+.t-streaming-lecture-meterials-table {width: 100%; margin: 0 auto; text-align: center}
+.t-streaming-button-to-student-streaming {position : fixed; top : 1%; right : 5%;}
+
+/*StreamingStudentScreen*/
+.t-streaming-student-container {width: 100%; height: 100%;}
+.t-streaming-student-video {text-align: center;}
+.t-streaming-student-video tr td {width : 200px;}
+.t-streaming-button-to-teacher-streaming {position : fixed; top : 1%; right : 5%;}
+
+/*StreamingStudentComponent*/
+.t-streaming-student-name {margin-bottom: 0px}
+.t-streaming-student-video-component {background-color: black; width: 300px; height: 200px}

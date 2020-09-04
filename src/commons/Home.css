@@ -1,0 +1,25 @@
+.main-streaming-container {
+    width : 100%;
+    display:inline-block;
+}
+.main-video-container {
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.main-video-component {
+    margin: auto;
+    width: 100%;
+    height :100%;
+    background-color : black
+}
+.main-streaming-div {
+    text-align: center;
+}
+.main-fontsize15 {
+    font-size: 15px;
+}
+.main-div-padding {
+    padding-top: 10px;
+}

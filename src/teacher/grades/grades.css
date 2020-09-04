@@ -1,0 +1,43 @@
+.t-grade-div-right {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 8%;
+}
+.t-grade-div-left {
+    width: 50%;
+    padding-left: 8%;
+    padding-right: 5%;
+}
+.t-grade-div-btn {
+    text-align: center;
+}
+.t-grade-padding-top {
+    padding-top: 3px;
+}
+.t-grade-ok {
+    color: green;
+}
+.t-grade-fail {
+    color: red;
+}
+.t-grade-class-left {
+    width: 30%;
+    padding-right: 2%;
+}
+.t-grade-class-right {
+    width: 30%;
+    padding-right: 2%;
+}
+.t-grade-class-btn {
+    width: 32%;
+    padding-right: 8%;
+}
+.t-grade-class-title {
+    width: 8%;
+    padding-left: 2%;
+}
+.t-grade-class-data{
+    float: right;
+    font-size: large;
+    color: red;
+}

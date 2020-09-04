@@ -1,0 +1,17 @@
+.s-notice-font-size25{font-size: 25px}
+.s-notice-height300{height: 300px}
+.s-notice-width130{width: 130px}
+.s-notice-width100{width: 100px}
+.s-notice-width90{width: 90px}
+.s-notice-color-grey{color: grey}
+.s-notice-margin0{margin: 0px auto}
+.s-notice-textAlign-center{text-align: center}
+.s-notice-selectbox {
+    width: 130px; /* 원하는 너비설정 */
+    padding: .5em .5em; /* 여백으로 높이 설정 */
+    border: 0px solid #999;
+}
+.s-notice-comment {
+    font-size: x-small;
+    color: red;
+}

@@ -1,0 +1,33 @@
+
+/*TeacherStreaming*/
+.s-streaming-container { width: 100%; height: 100%; padding : 2% 2% 2% 2%;margin: 0 auto}
+.s-streaming-streaming-container { width : 78%; height:100%; float: left;}
+.s-streaming-video-container {width : 100%; height:85%;}
+.s-streaming-teacher-video {width: 100%; height: 70%; background-color: black}
+.s-streaming-comment-container {width: 100%; height: 15%; margin-top: 0%; text-align: center}
+
+.s-streaming-items-container { width : 20%; height :106.5%; float : right}
+.s-streaming-member-list-container { width : 100%; height:30%; margin-bottom: 1px}
+.s-streaming-member-list-title {margin: 0 auto; text-align: center}
+.s-streaming-member-list-table {width: 100%; margin: 0 auto; text-align: center}
+.s-streaming-lecture-meterials-container {width: 100%; height: 30%; margin-bottom: 1px}
+.s-streaming-lecture-meterials-table {width: 100%; margin: 0 auto; text-align: center}
+.s-streaming-student-video { width : 100%;height: 25%; background-color: black}
+.s-streaming-lecture-meterials-title {text-align: center}
+
+@media only screen and (max-width: 1300px) {
+    .s-streaming-container { width: 100%; height: 70%; padding : 2% 2% 2% 2%;margin: 0 auto}
+    .s-streaming-streaming-container { width : 100%; height:78%; float: left;margin : auto}
+    .s-streaming-video-container {width : 100%; height:85%; position: relative}
+    .s-streaming-teacher-video {width: 100%; height: 100%; background-color: black}
+    .s-streaming-comment-container {width: 100%; height: 15%; margin-top: 0%; text-align: center}
+
+    .s-streaming-items-container { width : 100%; height :30%; padding-top: 1%; margin: 0 auto}
+    .s-streaming-member-list-container { width : 35%; height:100%; margin-bottom: 1px; float: left}
+    .s-streaming-member-list-title {margin: 0 auto; text-align: center}
+    .s-streaming-member-list-table {width: 100%; margin: 0 auto; text-align: center}
+    .s-streaming-lecture-meterials-container {width: 35%; height: 100%; margin-bottom: 1px; float: left}
+    .s-streaming-lecture-meterials-table {width: 100%; margin: 0 auto; text-align: center}
+    .s-streaming-student-video { width : 30%;height: 100%; background-color: black; float: right; position: relative; bottom: 0; right: 0}
+    .s-streaming-lecture-meterials-title {text-align: center}
+}

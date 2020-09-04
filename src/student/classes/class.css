@@ -1,0 +1,306 @@
+
+.s_c_header{
+    padding-top: 10px;
+    color: #12441b;
+    font-size: 30px;
+}
+
+.s_c_main{
+    padding-top: 25px;
+}
+.s_class_col_left{
+
+}
+
+.s_class_calendar{
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 20px;
+    background: linear-gradient(160deg,#86b250,#6fad4f,#57a84b,#44a435,#3da32a,#49a936,#3ba450,#2b9667,#2e9967,#34a063);
+
+
+}
+
+.s_class_calendar_r{
+    font-size: 25px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 30px;
+    width: 100%;
+    height: 80px;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 20px;
+    background: linear-gradient(160deg,#86b250,#6fad4f,#57a84b,#44a435,#3da32a,#49a936,#3ba450,#2b9667,#2e9967,#34a063);
+
+
+}
+
+.s_class_clock{
+    padding-left: 15px;
+    padding-top: 10px;
+    flex:1;
+    float: left;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #ffffff;
+    text-shadow: 0px 10px 15px  rgba(0, 0, 0, 0.04);
+}
+
+
+
+.Calendar__day.-selected {
+    border-radius: 0%;
+}
+.Calendar__day.-today:not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween) {
+    font-weight: 600;
+    color: #184f90;
+    color: #000;
+    position: relative;
+}
+.Calendar {
+    --cl-color-black: #444444;
+    --cl-color-disabled: #d4d4d4;
+    --cl-color-error: #ff2929;
+    font-size: 10px;
+    background: #fff;
+    box-shadow: 0 1em 4em rgba(0, 0, 0, 0.07);
+    border-radius: 1em;
+    position: relative;
+    user-select: none;
+    padding-top: 1.2em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 90vm;
+    z-index: 10;
+    boder: none;
+}
+
+.s_class_card1{
+    padding-bottom: 20px;
+}
+
+.s_class_container1{
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    min-width: 1000px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: initial;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    height: 60px;
+}
+
+
+.s_class_name{
+    font-size: 20px;
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+
+.s_class_con_main{
+    float: left;
+}
+
+.s_class_card_main{
+    max-width: 800px;
+
+}
+.s_class_tr{
+
+}
+
+
+
+.s_class_time1{
+    width: 7%;
+    margin-left: 15px;
+}
+
+.s_table_head{
+    border-bottom: 5px solid #ffffff;
+    border-radius: 15px 0px 0px 0px;
+    margin-left: 20px;
+    height: 85px;
+    width: 30px;
+    //border: 3px solid #0a7623;
+    background: rgba(144, 198, 140, 0.55);
+
+
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.s_class_time{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 23px;
+}
+.s_class_tbody{
+    width: 600px;
+}
+
+
+
+
+
+
+.s_class_timetable_frame_l{
+    width: 80%;
+    height: 600px;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    padding-bottom: 20px;
+    min-width: 50%;
+    overflow: initial;
+    margin-left: 10%;
+    float: contour;
+}
+
+.s_class_timetable_frame_r{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    padding-bottom: 20px;
+    min-width: 50%;
+    overflow: initial;
+    float: contour;
+}
+
+.s_g_result_tt{
+    width: 80%;
+    height: 600px;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    padding-bottom: 20px;
+    min-width: 50%;
+    overflow: initial;
+    margin-left: 10%;
+}
+
+
+.s_class_timebody{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.s_class_timetable{
+    float: contour;
+
+}
+
+
+.s_empty_cube {
+    font-size: 17px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    width: 17%;
+    /*text-shadow: 1px 1px 1px rgba(75, 109, 80, 0.58);*/
+    background: rgba(201, 224, 177, 0.4);
+    border-bottom: 5px solid #ffffff;
+    border-left: 5px solid #ffffff;
+    border-radius: 0px 14px 0px 0px;
+}
+
+
+.s_class_subTitle{
+    width: 100%;
+    height: 50px;
+    border: solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 10px;
+}
+
+.s_class_subDetail{
+    width: 100%;
+    height: 420px;
+    border: solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 10px;
+
+
+}
+
+.timetable_board{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width : 100%;
+    height : 380px;
+}
+
+.s_timetable_subject_detail{
+    padding: 5px;
+    width : 100%;
+    height : auto;
+}
+
+.s_class_detail_title{
+    font-size: 17px;
+    word-break: keep-all;
+}
+
+.curriculum_list text{
+    font-size: 15px;
+}
+
+.s_class_countdown{
+    margin-top: 40px;
+    padding-left: 35%;
+}
+.s_c_title{
+    width: 15%;
+    word-break: keep-all;
+}
+
+
+
+.s_class_btn{
+    background: linear-gradient(160deg,#86b250,#6fad4f,#57a84b,#44a435,#3da32a,#49a936,#3ba450,#2b9667,#2e9967,#34a063);
+    margin-top: 20px;
+    height: 70px !important;
+    width: 400px;
+    border : 2px #6fb327;
+    margin-left: 24%;
+    margin-bottom: 10px;
+    border-radius: 4.75rem;
+    min-width: 50%;
+    overflow: initial;
+    float: contour;
+    shadow: 0 1em 4em rgba(0, 0, 0, 0.07);
+}
+
+.s_class_btn_txt{
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.s_class_detail_frame{
+    float: right;
+    margin-top: 20px;
+}
+.s_c_listBtn{
+    border-radius: 4.75rem;
+    border : 2px #6fb327;
+    background: linear-gradient(160deg,#86b250,#6fad4f,#57a84b,#44a435,#3da32a,#49a936,#3ba450,#2b9667,#2e9967,#34a063);
+    height: 40px;
+    width: 60px;
+    color: #ffffff;
+    font-size: 15px;
+}

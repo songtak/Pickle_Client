@@ -1,0 +1,9 @@
+@import "./_mixins.scss";
+@import "./_gogo.style.scss";
+@import "./_plugins.scss";
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@400;700&family=Nanum+Gothic:wght@400;700;800&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+.font_Nanum_Gothic{font-family: 'Nanum Gothic', sans-serif;}
+.font_Noto_Serif_KR{font-family: 'Noto Serif KR', serif;}
+.font_Noto_Sans_KR{font-family: 'Noto Sans KR', sans-serif;}
+.font_Nanum_Gothic_Coding{font-family: 'Nanum Gothic Coding', monospace;}

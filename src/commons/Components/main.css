@@ -1,0 +1,17 @@
+.mypage-font-size25{font-size: 25px}
+.mypage-height300{height: 300px}
+.mypage-width350{width: 350px}
+.mypage-width100{width: 100px}
+.mypage-width90{width: 90px}
+.mypage-btn{
+    text-align: left;
+}
+.mypage-align{
+    text-align: center;
+}
+.mypage-ok {
+    color: green;
+}
+.mypage-fail {
+    color: red;
+}

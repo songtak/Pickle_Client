@@ -1,0 +1,144 @@
+.s_g_header{
+    padding-top: 10px;
+    color: #12441b;
+    font-size: 30px;
+}
+
+.s_grade_aside {
+    float: right;
+}
+.s_grade_section{
+    float: left;
+    position: relative;
+    width: 70%;
+    height: 470px;
+    margin-right: 15px;
+}
+
+.s_grade_search{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.s_grade_cb{
+    padding-bottom: 0px !important;
+}
+
+.Card{
+    border-radius: .75rem;
+}
+
+.s_g_result_t{
+    font-size: 20px;
+}
+.s_a_noneBoder{
+    border:none;
+}
+table.greyGridTable {
+    width: 100%;
+    text-align: left;
+    margin-left: 20px;
+}
+table.greyGridTable td, table.greyGridTable th {
+    border: 1px solid #FFFFFF;
+    padding: 3px 4px;
+}
+table.greyGridTable tbody td {
+    font-size: 19px;
+    margin-left: 20px;
+}
+table.greyGridTable thead {
+    font-size: 20px;
+}
+table.greyGridTable thead th {
+    font-weight: bold;
+    text-align: left;
+}
+
+.s_grade_td_lb{
+    font-size: 20px;
+    color: #0e3e19;
+    text-align: right;
+    margin-top: 20px;
+}
+.s_g_result{
+    margin-bottom: 20px;
+}
+
+
+.s_g_mainC{
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+
+.s_grade_label2{
+    font-size: 13px;
+}
+.s_grade_form-container {
+    height: 365px;
+    border-radius: 4px;
+    box-shadow: 0px -10px 15px 10px rgba(0, 0, 0, 0.04);
+    padding: 20px;
+    border-color: rgba(162, 239, 157, 0.77);;
+}
+.s_grade_h2{
+    padding-left: 30px;
+}
+
+.s_grade_div1{
+    padding-left: 8px;
+}
+.s_grade_div2{
+    padding-top: 15px;
+}
+
+.s_grade_btn {
+    float: right;
+    height: 40px;
+    width: 60px;
+    letter-spacing: 0.05rem;
+    padding: 0.4rem 0.6rem 0.4rem 0.6rem;
+    border-radius: 50px;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #6c9e37;
+
+}
+.s_grade_selectSize {
+    width: 170px;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+.s_grade_td{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.s_grade_text{
+    font-size: 12px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.s_grade_sub{
+    max-width: 250px;
+
+}
+
+.s_grade_click{
+    padding-right: 10px;
+}
+
+
+
+.s_grade_col_left{
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.s_grade_col_right{
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+}
+.s_grade_center{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,46 @@
+.t-notice-font-size25{font-size: 25px}
+.t-notice-height250{height: 250px}
+.t-notice-width200{width: 200px}
+.t-notice-width150{width: 150px}
+.t-notice-width130{width: 130px}
+.t-notice-width100{width: 100px}
+.t-notice-width90{width: 90px}
+.t-notice-color-grey{color: grey}
+.t-notice-margin0{margin: 0px auto}
+.t-notice-textAlign-center{text-align: center}
+.t-notice-textAlign-left{text-align: left}
+.t-notice-comment {
+    font-size: x-small;
+    color: red;
+}
+.t-notice-selectbox {
+    width: 130px; /* 원하는 너비설정 */
+    padding: .5em .5em; /* 여백으로 높이 설정 */
+    border: 0px solid #999;
+}
+#t-notice-table {
+    text-align: center;
+}
+.t-notice-detail-td1{
+    width: 90%;
+    text-align: left;
+}
+.t-notice-detail-td2{
+    width: 10%;
+}
+.t-notice-form-div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.t-notice-table {
+    text-align: right;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.t-notice-cursor {
+    cursor: pointer;
+    color: red;
+}
+.t-notice-ok {
+    color: green;
+}

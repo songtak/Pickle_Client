@@ -1,0 +1,83 @@
+.detail_wrapper{
+    margin: 0 auto;
+    text-align: center;
+    height:800px;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    z-index: 1;
+}
+.detail_header{
+    width : 100%;
+    height : 6%;
+    display: flex;
+}
+.detail_toggle_container{
+    width : 91%;
+    height: 98%;
+    text-align: left ;
+    padding: 0.1rem;
+    border-radius: 15px;
+    display: flex;
+    float: left;
+}
+.detail_glyphicon_container{
+    width : 8%;
+    height: 98%;
+    margin-top: 0.2rem;
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    float: right;
+}
+#search>button{
+    width: 7%;
+    height: 65%;
+    margin-top: 0.4rem;
+    margin-right: 0.3rem;
+    border-radius: 15px;
+    border : 3px solid #6fb327;
+    background-color: #65992d;
+    color : white;
+}
+.searchbox_container{
+    width : 100%;
+    height: 7%;
+    float: right;
+}
+.table_container{
+    width : 100%;
+    height : 720px;
+    text-align: center ;
+    background-color: white;
+    box-shadow: 3px 3px 15px 3px rgb(206, 205, 205);
+    border-radius: 13px;
+    margin-top : 0.3rem;
+    padding : 0.2rem;
+    
+}
+.attendance_table{
+    width : 97%;
+    height : auto;
+    margin : 0.9rem;
+    margin-top: 1rem;
+    background-color: #00365a42;
+}
+.attendance_search_button{
+    width : 10%;
+    height: 100%;
+    background-color: #00365A;
+    color: whitesmoke;
+    text-decoration: whitesmoke;
+    border-radius: 15px;
+    float:right;
+}
+#attendance_table>thead>td{
+    border-collapse: collapse;
+    border : 1px solid black;
+}
+#attendance_table>tbody>td{
+    border-collapse: collapse;
+    border : 1px solid black;
+}

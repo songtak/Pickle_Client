@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@400;700&family=Nanum+Gothic:wght@400;700;800&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+.font_Nanum_Gothic{font-family: 'Nanum Gothic', sans-serif;}
+.font_Noto_Serif_KR{font-family: 'Noto Serif KR', serif;}
+.font_Noto_Sans_KR{font-family: 'Noto Sans KR', sans-serif;}
+.font_Nanum_Gothic_Coding{font-family: 'Nanum Gothic Coding', monospace;}
+#chatbot{
+    float: right;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 0px;
+    border-radius: 30px;
+/*    box-shadow: 3px 3px 1px darkgrey;*/
+}
+.chat-float{
+    position:fixed;
+    bottom:150px;
+    right:150px;
+    background-color:#0C9;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    box-shadow: 2px 2px 3px #999;
+}
+#main-page{
+    text-align: center;
+}
+#main-title{
+    padding: 50px;
+}
+.main-img{
+    padding: 5%;
+    color: black;
+    cursor: pointer;
+}
+.main-select {
+    color: black;
+}
+#main-streaming-container {
+    width : 70%;
+    padding : 3% 2% 2% 3%;
+    display:inline-block;
+}
+.main-video-container {
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.main-video-component {
+    margin: auto;
+    width: 100%;
+    height :100%;
+    background-color : black
+}
+.main-visible-div {
+    text-align: center;
+    width: 25%;
+}
+.main-gobtn {
+    background: #1e7e34;
+    color: white;
+}
+.main-login {
+    color: red;
+    padding: 20px;
+}

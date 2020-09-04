@@ -1,0 +1,197 @@
+.s_a_header{
+    padding-top: 10px;
+    color: #12441b;
+    font-size: 30px;
+}
+
+
+.s_atte_header{
+    padding-top: 10px;
+}
+
+.s_atte_topatte{
+    min-width: 800px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.s_atte_div{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.s_a_semester{
+    float: left;
+    margin-right: 10px;
+    font-size: 10px;
+    color: #c3dcaa;
+}
+
+.s_a_header_con{
+    float: contour;
+    width: 220px;
+}
+
+
+
+.s_atte_circle_1 {
+    width: 70px;
+    height:70px;
+    border-radius:50%;
+    border: 3px solid #58bf33;
+    font-size: 23px;
+    text-align: center;
+    line-height: 70px;
+    color: #206123;
+}
+
+
+.s_attendance_1{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 70px;
+    font-size: 23px;
+    color: #10790c;
+}
+
+.s_atte_circle_2{
+    width: 70px;
+    height:70px;
+    border-radius:50%;
+    border: 3px solid #efbd28;
+    font-size: 23px;
+    text-align: center;
+    line-height: 70px;
+    color: #de9607;
+}
+.s_attendance_2{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 70px;
+    font-size: 23px;
+    color: #de9607;
+}
+.s_atte_circle_3{
+    width: 70px;
+    height:70px;
+    border-radius:50%;
+    border: 3px solid #ff6e6e;
+    font-size: 23px;
+    text-align: center;
+    line-height: 70px;
+    color: #e54545;
+}
+.s_attendance_3{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 70px;
+    font-size: 23px;
+    color: #d7163d;
+}
+
+
+
+.s_atte_timetable {
+    width: 100%;
+    border-radius: 2px;
+    box-shadow: 0px 0px 15px 10px rgba(0, 0, 0, 0.04);
+}
+
+
+.s_class_col_left{
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+.s_class_col_right{
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+.s_atte_calendar{
+    height: 372px !important;
+    width: 500px !important;
+}
+
+
+.s_atte_date{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.s_atte_scroll{
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    min-width: 400px;
+    text-align: center;
+}
+
+
+.Calendar__day.-selected {
+    border-radius: 0%;
+}
+.Calendar__day.-today:not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween) {
+    font-weight: 600;
+    color: #52c912;
+    color: #000;
+    position: relative;
+}
+.Calendar {
+    --cl-color-black: #444444;
+    --cl-color-disabled: #d4d4d4;
+    --cl-color-error: #ff2929;
+    font-size: 10px;
+    background: #fff;
+    box-shadow: 0 1em 4em rgba(0, 0, 0, 0.07);
+    border-radius: 1em;
+    position: relative;
+    user-select: none;
+    padding-top: 1.2em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 90vm;
+    z-index: 10;
+}
+
+.s_atte_col_right{
+    height: 475px;
+}
+
+.s_a_main{
+    margin-top: 10px;
+}
+
+.timetable_subject_detail{
+    padding-right: 10px;
+    width: 450px;
+    height: 350px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.s_a_day{
+    text-align: center;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    height: 370px;
+}
+
+
+.s_a_center{
+    text-align: center;
+}
+
+
+.curriculum_list{
+    width: 250px;
+    margin: 10px;
+}
+
+.className{
+    width: 50px;
+}
+.s_a_doughnut{
+    height: 300px !important;
+}

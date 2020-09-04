@@ -1,0 +1,9426 @@
+[
+  {
+    "schoolCode": 1000,
+    "schoolName": "선유고등학교"
+  },
+  {
+    "schoolCode": 1001,
+    "schoolName": "서울대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 1002,
+    "schoolName": "가락고등학교"
+  },
+  {
+    "schoolCode": 1003,
+    "schoolName": "개포고등학교"
+  },
+  {
+    "schoolCode": 1004,
+    "schoolName": "경기고등학교"
+  },
+  {
+    "schoolCode": 1005,
+    "schoolName": "경동고등학교"
+  },
+  {
+    "schoolCode": 1006,
+    "schoolName": "경복고등학교"
+  },
+  {
+    "schoolCode": 1007,
+    "schoolName": "경인고등학교"
+  },
+  {
+    "schoolCode": 1008,
+    "schoolName": "고척고등학교"
+  },
+  {
+    "schoolCode": 1009,
+    "schoolName": "공항고등학교"
+  },
+  {
+    "schoolCode": 1010,
+    "schoolName": "관악고등학교"
+  },
+  {
+    "schoolCode": 1011,
+    "schoolName": "광남고등학교"
+  },
+  {
+    "schoolCode": 1012,
+    "schoolName": "광양고등학교"
+  },
+  {
+    "schoolCode": 1013,
+    "schoolName": "구로고등학교"
+  },
+  {
+    "schoolCode": 1014,
+    "schoolName": "구일고등학교"
+  },
+  {
+    "schoolCode": 1015,
+    "schoolName": "압구정고등학교"
+  },
+  {
+    "schoolCode": 1016,
+    "schoolName": "금천고등학교"
+  },
+  {
+    "schoolCode": 1017,
+    "schoolName": "당곡고등학교"
+  },
+  {
+    "schoolCode": 1018,
+    "schoolName": "대영고등학교"
+  },
+  {
+    "schoolCode": 1019,
+    "schoolName": "독산고등학교"
+  },
+  {
+    "schoolCode": 1020,
+    "schoolName": "동작고등학교"
+  },
+  {
+    "schoolCode": 1021,
+    "schoolName": "둔촌고등학교"
+  },
+  {
+    "schoolCode": 1022,
+    "schoolName": "면목고등학교"
+  },
+  {
+    "schoolCode": 1023,
+    "schoolName": "반포고등학교"
+  },
+  {
+    "schoolCode": 1024,
+    "schoolName": "삼성고등학교"
+  },
+  {
+    "schoolCode": 1025,
+    "schoolName": "상계고등학교"
+  },
+  {
+    "schoolCode": 1026,
+    "schoolName": "서울고등학교"
+  },
+  {
+    "schoolCode": 1027,
+    "schoolName": "서초고등학교"
+  },
+  {
+    "schoolCode": 1028,
+    "schoolName": "석관고등학교"
+  },
+  {
+    "schoolCode": 1029,
+    "schoolName": "성동고등학교"
+  },
+  {
+    "schoolCode": 1030,
+    "schoolName": "수락고등학교"
+  },
+  {
+    "schoolCode": 1031,
+    "schoolName": "신림고등학교"
+  },
+  {
+    "schoolCode": 1032,
+    "schoolName": "신목고등학교"
+  },
+  {
+    "schoolCode": 1033,
+    "schoolName": "양재고등학교"
+  },
+  {
+    "schoolCode": 1034,
+    "schoolName": "언남고등학교"
+  },
+  {
+    "schoolCode": 1035,
+    "schoolName": "여의도고등학교"
+  },
+  {
+    "schoolCode": 1036,
+    "schoolName": "영등포고등학교"
+  },
+  {
+    "schoolCode": 1037,
+    "schoolName": "영신고등학교"
+  },
+  {
+    "schoolCode": 1038,
+    "schoolName": "오금고등학교"
+  },
+  {
+    "schoolCode": 1039,
+    "schoolName": "노원고등학교"
+  },
+  {
+    "schoolCode": 1040,
+    "schoolName": "용산고등학교"
+  },
+  {
+    "schoolCode": 1041,
+    "schoolName": "인헌고등학교"
+  },
+  {
+    "schoolCode": 1042,
+    "schoolName": "자양고등학교"
+  },
+  {
+    "schoolCode": 1043,
+    "schoolName": "잠신고등학교"
+  },
+  {
+    "schoolCode": 1044,
+    "schoolName": "잠실고등학교"
+  },
+  {
+    "schoolCode": 1045,
+    "schoolName": "중경고등학교"
+  },
+  {
+    "schoolCode": 1046,
+    "schoolName": "중화고등학교"
+  },
+  {
+    "schoolCode": 1047,
+    "schoolName": "창동고등학교"
+  },
+  {
+    "schoolCode": 1048,
+    "schoolName": "청담고등학교"
+  },
+  {
+    "schoolCode": 1049,
+    "schoolName": "청량고등학교"
+  },
+  {
+    "schoolCode": 1050,
+    "schoolName": "태릉고등학교"
+  },
+  {
+    "schoolCode": 1051,
+    "schoolName": "경기여자고등학교"
+  },
+  {
+    "schoolCode": 1052,
+    "schoolName": "금옥여자고등학교"
+  },
+  {
+    "schoolCode": 1053,
+    "schoolName": "명일여자고등학교"
+  },
+  {
+    "schoolCode": 1054,
+    "schoolName": "무학여자고등학교"
+  },
+  {
+    "schoolCode": 1055,
+    "schoolName": "서울여자고등학교"
+  },
+  {
+    "schoolCode": 1056,
+    "schoolName": "수도여자고등학교"
+  },
+  {
+    "schoolCode": 1057,
+    "schoolName": "여의도여자고등학교"
+  },
+  {
+    "schoolCode": 1058,
+    "schoolName": "영등포여자고등학교"
+  },
+  {
+    "schoolCode": 1059,
+    "schoolName": "창덕여자고등학교"
+  },
+  {
+    "schoolCode": 1060,
+    "schoolName": "혜화여자고등학교"
+  },
+  {
+    "schoolCode": 1061,
+    "schoolName": "누원고등학교"
+  },
+  {
+    "schoolCode": 1062,
+    "schoolName": "방산고등학교"
+  },
+  {
+    "schoolCode": 1063,
+    "schoolName": "신현고등학교"
+  },
+  {
+    "schoolCode": 1064,
+    "schoolName": "자운고등학교"
+  },
+  {
+    "schoolCode": 1065,
+    "schoolName": "도봉고등학교"
+  },
+  {
+    "schoolCode": 1066,
+    "schoolName": "등촌고등학교"
+  },
+  {
+    "schoolCode": 1067,
+    "schoolName": "경일고등학교"
+  },
+  {
+    "schoolCode": 1068,
+    "schoolName": "월계고등학교"
+  },
+  {
+    "schoolCode": 1069,
+    "schoolName": "불암고등학교"
+  },
+  {
+    "schoolCode": 1070,
+    "schoolName": "세현고등학교"
+  },
+  {
+    "schoolCode": 1071,
+    "schoolName": "신서고등학교"
+  },
+  {
+    "schoolCode": 1072,
+    "schoolName": "효문고등학교"
+  },
+  {
+    "schoolCode": 1073,
+    "schoolName": "원묵고등학교"
+  },
+  {
+    "schoolCode": 1074,
+    "schoolName": "상암고등학교"
+  },
+  {
+    "schoolCode": 1075,
+    "schoolName": "구현고등학교"
+  },
+  {
+    "schoolCode": 1076,
+    "schoolName": "문정고등학교"
+  },
+  {
+    "schoolCode": 1077,
+    "schoolName": "은평고등학교"
+  },
+  {
+    "schoolCode": 1078,
+    "schoolName": "진관고등학교"
+  },
+  {
+    "schoolCode": 1079,
+    "schoolName": "신도림고등학교"
+  },
+  {
+    "schoolCode": 1080,
+    "schoolName": "수명고등학교"
+  },
+  {
+    "schoolCode": 1081,
+    "schoolName": "성수고등학교"
+  },
+  {
+    "schoolCode": 1082,
+    "schoolName": "미양고등학교"
+  },
+  {
+    "schoolCode": 1083,
+    "schoolName": "강일고등학교"
+  },
+  {
+    "schoolCode": 1084,
+    "schoolName": "문현고등학교"
+  },
+  {
+    "schoolCode": 1085,
+    "schoolName": "신도고등학교"
+  },
+  {
+    "schoolCode": 1086,
+    "schoolName": "선사고등학교"
+  },
+  {
+    "schoolCode": 1087,
+    "schoolName": "삼각산고등학교"
+  },
+  {
+    "schoolCode": 1088,
+    "schoolName": "구암고등학교"
+  },
+  {
+    "schoolCode": 1089,
+    "schoolName": "잠일고등학교"
+  },
+  {
+    "schoolCode": 1090,
+    "schoolName": "휘봉고등학교"
+  },
+  {
+    "schoolCode": 1091,
+    "schoolName": "가재울고등학교"
+  },
+  {
+    "schoolCode": 1092,
+    "schoolName": "도선고등학교"
+  },
+  {
+    "schoolCode": 1093,
+    "schoolName": "금호고등학교"
+  },
+  {
+    "schoolCode": 1094,
+    "schoolName": "강동고등학교"
+  },
+  {
+    "schoolCode": 1095,
+    "schoolName": "강서고등학교"
+  },
+  {
+    "schoolCode": 1096,
+    "schoolName": "건국대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1097,
+    "schoolName": "경문고등학교"
+  },
+  {
+    "schoolCode": 1098,
+    "schoolName": "경성고등학교"
+  },
+  {
+    "schoolCode": 1099,
+    "schoolName": "경신고등학교"
+  },
+  {
+    "schoolCode": 1100,
+    "schoolName": "경희고등학교"
+  },
+  {
+    "schoolCode": 1101,
+    "schoolName": "고려대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1102,
+    "schoolName": "광문고등학교"
+  },
+  {
+    "schoolCode": 1103,
+    "schoolName": "광성고등학교"
+  },
+  {
+    "schoolCode": 1104,
+    "schoolName": "광신고등학교"
+  },
+  {
+    "schoolCode": 1105,
+    "schoolName": "광영고등학교"
+  },
+  {
+    "schoolCode": 1106,
+    "schoolName": "남강고등학교"
+  },
+  {
+    "schoolCode": 1107,
+    "schoolName": "단국대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1108,
+    "schoolName": "대광고등학교"
+  },
+  {
+    "schoolCode": 1109,
+    "schoolName": "대성고등학교"
+  },
+  {
+    "schoolCode": 1110,
+    "schoolName": "대신고등학교"
+  },
+  {
+    "schoolCode": 1111,
+    "schoolName": "대원고등학교"
+  },
+  {
+    "schoolCode": 1112,
+    "schoolName": "대일고등학교"
+  },
+  {
+    "schoolCode": 1113,
+    "schoolName": "대진고등학교"
+  },
+  {
+    "schoolCode": 1114,
+    "schoolName": "동국대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1115,
+    "schoolName": "동북고등학교"
+  },
+  {
+    "schoolCode": 1116,
+    "schoolName": "동성고등학교"
+  },
+  {
+    "schoolCode": 1117,
+    "schoolName": "마포고등학교"
+  },
+  {
+    "schoolCode": 1118,
+    "schoolName": "명덕고등학교"
+  },
+  {
+    "schoolCode": 1119,
+    "schoolName": "명지고등학교"
+  },
+  {
+    "schoolCode": 1120,
+    "schoolName": "문일고등학교"
+  },
+  {
+    "schoolCode": 1121,
+    "schoolName": "배명고등학교"
+  },
+  {
+    "schoolCode": 1122,
+    "schoolName": "성덕고등학교"
+  },
+  {
+    "schoolCode": 1123,
+    "schoolName": "배문고등학교"
+  },
+  {
+    "schoolCode": 1124,
+    "schoolName": "배재고등학교"
+  },
+  {
+    "schoolCode": 1125,
+    "schoolName": "백암고등학교"
+  },
+  {
+    "schoolCode": 1126,
+    "schoolName": "보성고등학교"
+  },
+  {
+    "schoolCode": 1127,
+    "schoolName": "상문고등학교"
+  },
+  {
+    "schoolCode": 1128,
+    "schoolName": "서라벌고등학교"
+  },
+  {
+    "schoolCode": 1129,
+    "schoolName": "서울미술고등학교"
+  },
+  {
+    "schoolCode": 1130,
+    "schoolName": "서울세종고등학교"
+  },
+  {
+    "schoolCode": 1131,
+    "schoolName": "선덕고등학교"
+  },
+  {
+    "schoolCode": 1132,
+    "schoolName": "선정고등학교"
+  },
+  {
+    "schoolCode": 1133,
+    "schoolName": "성남고등학교"
+  },
+  {
+    "schoolCode": 1134,
+    "schoolName": "성보고등학교"
+  },
+  {
+    "schoolCode": 1135,
+    "schoolName": "세화고등학교"
+  },
+  {
+    "schoolCode": 1136,
+    "schoolName": "송곡고등학교"
+  },
+  {
+    "schoolCode": 1137,
+    "schoolName": "숭문고등학교"
+  },
+  {
+    "schoolCode": 1138,
+    "schoolName": "숭실고등학교"
+  },
+  {
+    "schoolCode": 1139,
+    "schoolName": "신일고등학교"
+  },
+  {
+    "schoolCode": 1140,
+    "schoolName": "양정고등학교"
+  },
+  {
+    "schoolCode": 1141,
+    "schoolName": "양천고등학교"
+  },
+  {
+    "schoolCode": 1142,
+    "schoolName": "영동고등학교"
+  },
+  {
+    "schoolCode": 1143,
+    "schoolName": "영락고등학교"
+  },
+  {
+    "schoolCode": 1144,
+    "schoolName": "영일고등학교"
+  },
+  {
+    "schoolCode": 1145,
+    "schoolName": "영훈고등학교"
+  },
+  {
+    "schoolCode": 1146,
+    "schoolName": "오산고등학교"
+  },
+  {
+    "schoolCode": 1147,
+    "schoolName": "용문고등학교"
+  },
+  {
+    "schoolCode": 1148,
+    "schoolName": "우신고등학교"
+  },
+  {
+    "schoolCode": 1149,
+    "schoolName": "인창고등학교"
+  },
+  {
+    "schoolCode": 1150,
+    "schoolName": "장충고등학교"
+  },
+  {
+    "schoolCode": 1151,
+    "schoolName": "장훈고등학교"
+  },
+  {
+    "schoolCode": 1152,
+    "schoolName": "재현고등학교"
+  },
+  {
+    "schoolCode": 1153,
+    "schoolName": "중동고등학교"
+  },
+  {
+    "schoolCode": 1154,
+    "schoolName": "중산고등학교"
+  },
+  {
+    "schoolCode": 1155,
+    "schoolName": "중앙고등학교"
+  },
+  {
+    "schoolCode": 1156,
+    "schoolName": "중앙대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1157,
+    "schoolName": "청원고등학교"
+  },
+  {
+    "schoolCode": 1158,
+    "schoolName": "충암고등학교"
+  },
+  {
+    "schoolCode": 1159,
+    "schoolName": "한가람고등학교"
+  },
+  {
+    "schoolCode": 1160,
+    "schoolName": "한광고등학교"
+  },
+  {
+    "schoolCode": 1161,
+    "schoolName": "한국삼육고등학교"
+  },
+  {
+    "schoolCode": 1162,
+    "schoolName": "한서고등학교"
+  },
+  {
+    "schoolCode": 1163,
+    "schoolName": "한성고등학교"
+  },
+  {
+    "schoolCode": 1164,
+    "schoolName": "한영고등학교"
+  },
+  {
+    "schoolCode": 1165,
+    "schoolName": "현대고등학교"
+  },
+  {
+    "schoolCode": 1166,
+    "schoolName": "홍익대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1167,
+    "schoolName": "화곡고등학교"
+  },
+  {
+    "schoolCode": 1168,
+    "schoolName": "환일고등학교"
+  },
+  {
+    "schoolCode": 1169,
+    "schoolName": "휘문고등학교"
+  },
+  {
+    "schoolCode": 1170,
+    "schoolName": "경복여자고등학교"
+  },
+  {
+    "schoolCode": 1171,
+    "schoolName": "경희여자고등학교"
+  },
+  {
+    "schoolCode": 1172,
+    "schoolName": "계성고등학교"
+  },
+  {
+    "schoolCode": 1173,
+    "schoolName": "광영여자고등학교"
+  },
+  {
+    "schoolCode": 1174,
+    "schoolName": "이화여자대학교사범대학부속이화금란고등학교"
+  },
+  {
+    "schoolCode": 1175,
+    "schoolName": "대원여자고등학교"
+  },
+  {
+    "schoolCode": 1176,
+    "schoolName": "대진여자고등학교"
+  },
+  {
+    "schoolCode": 1177,
+    "schoolName": "덕성여자고등학교"
+  },
+  {
+    "schoolCode": 1178,
+    "schoolName": "덕원여자고등학교"
+  },
+  {
+    "schoolCode": 1179,
+    "schoolName": "동덕여자고등학교"
+  },
+  {
+    "schoolCode": 1180,
+    "schoolName": "동명여자고등학교"
+  },
+  {
+    "schoolCode": 1181,
+    "schoolName": "동일여자고등학교"
+  },
+  {
+    "schoolCode": 1182,
+    "schoolName": "명덕여자고등학교"
+  },
+  {
+    "schoolCode": 1183,
+    "schoolName": "동국대학교사범대학부속여자고등학교"
+  },
+  {
+    "schoolCode": 1184,
+    "schoolName": "서울문영여자고등학교"
+  },
+  {
+    "schoolCode": 1185,
+    "schoolName": "미림여자고등학교"
+  },
+  {
+    "schoolCode": 1186,
+    "schoolName": "배화여자고등학교"
+  },
+  {
+    "schoolCode": 1187,
+    "schoolName": "보성여자고등학교"
+  },
+  {
+    "schoolCode": 1188,
+    "schoolName": "보인고등학교"
+  },
+  {
+    "schoolCode": 1189,
+    "schoolName": "상명대학교사범대학부속여자고등학교"
+  },
+  {
+    "schoolCode": 1190,
+    "schoolName": "상명고등학교"
+  },
+  {
+    "schoolCode": 1191,
+    "schoolName": "상일여자고등학교"
+  },
+  {
+    "schoolCode": 1192,
+    "schoolName": "서문여자고등학교"
+  },
+  {
+    "schoolCode": 1193,
+    "schoolName": "선일여자고등학교"
+  },
+  {
+    "schoolCode": 1194,
+    "schoolName": "성신여자고등학교"
+  },
+  {
+    "schoolCode": 1195,
+    "schoolName": "성심여자고등학교"
+  },
+  {
+    "schoolCode": 1196,
+    "schoolName": "세화여자고등학교"
+  },
+  {
+    "schoolCode": 1197,
+    "schoolName": "송곡여자고등학교"
+  },
+  {
+    "schoolCode": 1198,
+    "schoolName": "숙명여자고등학교"
+  },
+  {
+    "schoolCode": 1199,
+    "schoolName": "숭의여자고등학교"
+  },
+  {
+    "schoolCode": 1200,
+    "schoolName": "신광여자고등학교"
+  },
+  {
+    "schoolCode": 1201,
+    "schoolName": "목동고등학교"
+  },
+  {
+    "schoolCode": 1202,
+    "schoolName": "염광고등학교"
+  },
+  {
+    "schoolCode": 1203,
+    "schoolName": "영동일고등학교"
+  },
+  {
+    "schoolCode": 1204,
+    "schoolName": "영신여자고등학교"
+  },
+  {
+    "schoolCode": 1205,
+    "schoolName": "영파여자고등학교"
+  },
+  {
+    "schoolCode": 1206,
+    "schoolName": "예일여자고등학교"
+  },
+  {
+    "schoolCode": 1207,
+    "schoolName": "용화여자고등학교"
+  },
+  {
+    "schoolCode": 1208,
+    "schoolName": "은광여자고등학교"
+  },
+  {
+    "schoolCode": 1209,
+    "schoolName": "이화여자고등학교"
+  },
+  {
+    "schoolCode": 1210,
+    "schoolName": "잠실여자고등학교"
+  },
+  {
+    "schoolCode": 1211,
+    "schoolName": "정신여자고등학교"
+  },
+  {
+    "schoolCode": 1212,
+    "schoolName": "정의여자고등학교"
+  },
+  {
+    "schoolCode": 1213,
+    "schoolName": "중앙여자고등학교"
+  },
+  {
+    "schoolCode": 1214,
+    "schoolName": "진명여자고등학교"
+  },
+  {
+    "schoolCode": 1215,
+    "schoolName": "진선여자고등학교"
+  },
+  {
+    "schoolCode": 1216,
+    "schoolName": "창문여자고등학교"
+  },
+  {
+    "schoolCode": 1217,
+    "schoolName": "청원여자고등학교"
+  },
+  {
+    "schoolCode": 1218,
+    "schoolName": "풍문고등학교"
+  },
+  {
+    "schoolCode": 1219,
+    "schoolName": "한성여자고등학교"
+  },
+  {
+    "schoolCode": 1220,
+    "schoolName": "한양대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1221,
+    "schoolName": "혜성여자고등학교"
+  },
+  {
+    "schoolCode": 1222,
+    "schoolName": "혜원여자고등학교"
+  },
+  {
+    "schoolCode": 1223,
+    "schoolName": "홍익대학교사범대학부속여자고등학교"
+  },
+  {
+    "schoolCode": 1224,
+    "schoolName": "휘경여자고등학교"
+  },
+  {
+    "schoolCode": 1225,
+    "schoolName": "오류고등학교"
+  },
+  {
+    "schoolCode": 1226,
+    "schoolName": "해성여자고등학교"
+  },
+  {
+    "schoolCode": 1227,
+    "schoolName": "하나고등학교"
+  },
+  {
+    "schoolCode": 1228,
+    "schoolName": "동양고등학교"
+  },
+  {
+    "schoolCode": 1229,
+    "schoolName": "서울체육고등학교"
+  },
+  {
+    "schoolCode": 1230,
+    "schoolName": "서울과학고등학교"
+  },
+  {
+    "schoolCode": 1231,
+    "schoolName": "한성과학고등학교"
+  },
+  {
+    "schoolCode": 1232,
+    "schoolName": "세종과학고등학교"
+  },
+  {
+    "schoolCode": 1233,
+    "schoolName": "국립국악고등학교"
+  },
+  {
+    "schoolCode": 1234,
+    "schoolName": "국립전통예술고등학교"
+  },
+  {
+    "schoolCode": 1235,
+    "schoolName": "덕원예술고등학교"
+  },
+  {
+    "schoolCode": 1236,
+    "schoolName": "서울예술고등학교"
+  },
+  {
+    "schoolCode": 1237,
+    "schoolName": "선화예술고등학교"
+  },
+  {
+    "schoolCode": 1238,
+    "schoolName": "서울공연예술고등학교"
+  },
+  {
+    "schoolCode": 1239,
+    "schoolName": "대원외국어고등학교"
+  },
+  {
+    "schoolCode": 1240,
+    "schoolName": "대일외국어고등학교"
+  },
+  {
+    "schoolCode": 1241,
+    "schoolName": "명덕외국어고등학교"
+  },
+  {
+    "schoolCode": 1242,
+    "schoolName": "서울외국어고등학교"
+  },
+  {
+    "schoolCode": 1243,
+    "schoolName": "한영외국어고등학교"
+  },
+  {
+    "schoolCode": 1244,
+    "schoolName": "이화여자외국어고등학교"
+  },
+  {
+    "schoolCode": 1245,
+    "schoolName": "서울국제고등학교"
+  },
+  {
+    "schoolCode": 1246,
+    "schoolName": "서울로봇고등학교"
+  },
+  {
+    "schoolCode": 1247,
+    "schoolName": "강서공업고등학교"
+  },
+  {
+    "schoolCode": 1248,
+    "schoolName": "경기기계공업고등학교"
+  },
+  {
+    "schoolCode": 1249,
+    "schoolName": "서울방송고등학교"
+  },
+  {
+    "schoolCode": 1250,
+    "schoolName": "서울공업고등학교"
+  },
+  {
+    "schoolCode": 1251,
+    "schoolName": "서울도시과학기술고등학교"
+  },
+  {
+    "schoolCode": 1252,
+    "schoolName": "서울전자고등학교"
+  },
+  {
+    "schoolCode": 1253,
+    "schoolName": "성동공업고등학교"
+  },
+  {
+    "schoolCode": 1254,
+    "schoolName": "성수공업고등학교"
+  },
+  {
+    "schoolCode": 1255,
+    "schoolName": "송파공업고등학교"
+  },
+  {
+    "schoolCode": 1256,
+    "schoolName": "용산공업고등학교"
+  },
+  {
+    "schoolCode": 1257,
+    "schoolName": "한강미디어고등학교"
+  },
+  {
+    "schoolCode": 1258,
+    "schoolName": "휘경공업고등학교"
+  },
+  {
+    "schoolCode": 1259,
+    "schoolName": "광운전자공업고등학교"
+  },
+  {
+    "schoolCode": 1260,
+    "schoolName": "단국공업고등학교"
+  },
+  {
+    "schoolCode": 1261,
+    "schoolName": "대진디자인고등학교"
+  },
+  {
+    "schoolCode": 1262,
+    "schoolName": "서울디자인고등학교"
+  },
+  {
+    "schoolCode": 1263,
+    "schoolName": "덕일전자공업고등학교"
+  },
+  {
+    "schoolCode": 1264,
+    "schoolName": "리라아트고등학교"
+  },
+  {
+    "schoolCode": 1265,
+    "schoolName": "미림여자정보과학고등학교"
+  },
+  {
+    "schoolCode": 1266,
+    "schoolName": "상일미디어고등학교"
+  },
+  {
+    "schoolCode": 1267,
+    "schoolName": "미래산업과학고등학교"
+  },
+  {
+    "schoolCode": 1268,
+    "schoolName": "수도전기공업고등학교"
+  },
+  {
+    "schoolCode": 1269,
+    "schoolName": "세명컴퓨터고등학교"
+  },
+  {
+    "schoolCode": 1270,
+    "schoolName": "신진과학기술고등학교"
+  },
+  {
+    "schoolCode": 1271,
+    "schoolName": "염광여자메디텍고등학교"
+  },
+  {
+    "schoolCode": 1272,
+    "schoolName": "영등포공업고등학교"
+  },
+  {
+    "schoolCode": 1273,
+    "schoolName": "유한공업고등학교"
+  },
+  {
+    "schoolCode": 1274,
+    "schoolName": "서울아이티고등학교"
+  },
+  {
+    "schoolCode": 1275,
+    "schoolName": "은평메디텍고등학교"
+  },
+  {
+    "schoolCode": 1276,
+    "schoolName": "인덕공업고등학교"
+  },
+  {
+    "schoolCode": 1277,
+    "schoolName": "서울디지텍고등학교"
+  },
+  {
+    "schoolCode": 1278,
+    "schoolName": "한세사이버보안고등학교"
+  },
+  {
+    "schoolCode": 1279,
+    "schoolName": "한양공업고등학교"
+  },
+  {
+    "schoolCode": 1280,
+    "schoolName": "경기상업고등학교"
+  },
+  {
+    "schoolCode": 1281,
+    "schoolName": "덕수고등학교"
+  },
+  {
+    "schoolCode": 1282,
+    "schoolName": "서울문화고등학교"
+  },
+  {
+    "schoolCode": 1283,
+    "schoolName": "서울금융고등학교"
+  },
+  {
+    "schoolCode": 1284,
+    "schoolName": "선린인터넷고등학교"
+  },
+  {
+    "schoolCode": 1285,
+    "schoolName": "성동글로벌경영고등학교"
+  },
+  {
+    "schoolCode": 1286,
+    "schoolName": "경기여자상업고등학교"
+  },
+  {
+    "schoolCode": 1287,
+    "schoolName": "동구마케팅고등학교"
+  },
+  {
+    "schoolCode": 1288,
+    "schoolName": "서울컨벤션고등학교"
+  },
+  {
+    "schoolCode": 1289,
+    "schoolName": "서일국제경영고등학교"
+  },
+  {
+    "schoolCode": 1290,
+    "schoolName": "동산정보산업고등학교"
+  },
+  {
+    "schoolCode": 1291,
+    "schoolName": "서울여자상업고등학교"
+  },
+  {
+    "schoolCode": 1292,
+    "schoolName": "선일이비즈니스고등학교"
+  },
+  {
+    "schoolCode": 1293,
+    "schoolName": "신정여자상업고등학교"
+  },
+  {
+    "schoolCode": 1294,
+    "schoolName": "서울영상고등학교"
+  },
+  {
+    "schoolCode": 1295,
+    "schoolName": "영락의료과학고등학교"
+  },
+  {
+    "schoolCode": 1296,
+    "schoolName": "일신여자상업고등학교"
+  },
+  {
+    "schoolCode": 1297,
+    "schoolName": "정화여자상업고등학교"
+  },
+  {
+    "schoolCode": 1298,
+    "schoolName": "경복비즈니스고등학교"
+  },
+  {
+    "schoolCode": 1299,
+    "schoolName": "고명경영고등학교"
+  },
+  {
+    "schoolCode": 1300,
+    "schoolName": "서울관광고등학교"
+  },
+  {
+    "schoolCode": 1301,
+    "schoolName": "광신정보산업고등학교"
+  },
+  {
+    "schoolCode": 1302,
+    "schoolName": "예림디자인고등학교"
+  },
+  {
+    "schoolCode": 1303,
+    "schoolName": "대경상업고등학교"
+  },
+  {
+    "schoolCode": 1304,
+    "schoolName": "대동세무고등학교"
+  },
+  {
+    "schoolCode": 1305,
+    "schoolName": "대일관광고등학교"
+  },
+  {
+    "schoolCode": 1306,
+    "schoolName": "동명여자정보산업고등학교"
+  },
+  {
+    "schoolCode": 1307,
+    "schoolName": "동일여자상업고등학교"
+  },
+  {
+    "schoolCode": 1308,
+    "schoolName": "서서울생활과학고등학교"
+  },
+  {
+    "schoolCode": 1309,
+    "schoolName": "성암국제무역고등학교"
+  },
+  {
+    "schoolCode": 1310,
+    "schoolName": "송곡관광고등학교"
+  },
+  {
+    "schoolCode": 1311,
+    "schoolName": "이화여자대학교병설미디어고등학교"
+  },
+  {
+    "schoolCode": 1312,
+    "schoolName": "해성국제컨벤션고등학교"
+  },
+  {
+    "schoolCode": 1313,
+    "schoolName": "화곡보건경영고등학교"
+  },
+  {
+    "schoolCode": 1314,
+    "schoolName": "서울항공비즈니스고등학교"
+  },
+  {
+    "schoolCode": 1315,
+    "schoolName": "홍익디자인고등학교"
+  },
+  {
+    "schoolCode": 1316,
+    "schoolName": "선정국제관광고등학교"
+  },
+  {
+    "schoolCode": 1317,
+    "schoolName": "세그루패션디자인고등학교"
+  },
+  {
+    "schoolCode": 1318,
+    "schoolName": "영신간호비즈니스고등학교"
+  },
+  {
+    "schoolCode": 1319,
+    "schoolName": "예일디자인고등학교"
+  },
+  {
+    "schoolCode": 1320,
+    "schoolName": "브니엘여자고등학교"
+  },
+  {
+    "schoolCode": 1321,
+    "schoolName": "부산진고등학교"
+  },
+  {
+    "schoolCode": 1322,
+    "schoolName": "부산대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 1323,
+    "schoolName": "경일고등학교"
+  },
+  {
+    "schoolCode": 1324,
+    "schoolName": "구덕고등학교"
+  },
+  {
+    "schoolCode": 1325,
+    "schoolName": "덕문고등학교"
+  },
+  {
+    "schoolCode": 1326,
+    "schoolName": "남산고등학교"
+  },
+  {
+    "schoolCode": 1327,
+    "schoolName": "정관고등학교"
+  },
+  {
+    "schoolCode": 1328,
+    "schoolName": "경원고등학교"
+  },
+  {
+    "schoolCode": 1329,
+    "schoolName": "경남고등학교"
+  },
+  {
+    "schoolCode": 1330,
+    "schoolName": "경남여자고등학교"
+  },
+  {
+    "schoolCode": 1331,
+    "schoolName": "영도여자고등학교"
+  },
+  {
+    "schoolCode": 1332,
+    "schoolName": "혜화여자고등학교"
+  },
+  {
+    "schoolCode": 1333,
+    "schoolName": "기장고등학교"
+  },
+  {
+    "schoolCode": 1334,
+    "schoolName": "부경고등학교"
+  },
+  {
+    "schoolCode": 1335,
+    "schoolName": "금곡고등학교"
+  },
+  {
+    "schoolCode": 1336,
+    "schoolName": "금정고등학교"
+  },
+  {
+    "schoolCode": 1337,
+    "schoolName": "금정여자고등학교"
+  },
+  {
+    "schoolCode": 1338,
+    "schoolName": "부산여자고등학교"
+  },
+  {
+    "schoolCode": 1339,
+    "schoolName": "낙동고등학교"
+  },
+  {
+    "schoolCode": 1340,
+    "schoolName": "개금고등학교"
+  },
+  {
+    "schoolCode": 1341,
+    "schoolName": "내성고등학교"
+  },
+  {
+    "schoolCode": 1342,
+    "schoolName": "만덕고등학교"
+  },
+  {
+    "schoolCode": 1343,
+    "schoolName": "다대고등학교"
+  },
+  {
+    "schoolCode": 1344,
+    "schoolName": "동래고등학교"
+  },
+  {
+    "schoolCode": 1345,
+    "schoolName": "문현여자고등학교"
+  },
+  {
+    "schoolCode": 1346,
+    "schoolName": "반여고등학교"
+  },
+  {
+    "schoolCode": 1347,
+    "schoolName": "동천고등학교"
+  },
+  {
+    "schoolCode": 1348,
+    "schoolName": "성도고등학교"
+  },
+  {
+    "schoolCode": 1349,
+    "schoolName": "부산고등학교"
+  },
+  {
+    "schoolCode": 1350,
+    "schoolName": "부산남고등학교"
+  },
+  {
+    "schoolCode": 1351,
+    "schoolName": "부산남일고등학교"
+  },
+  {
+    "schoolCode": 1352,
+    "schoolName": "부산동여자고등학교"
+  },
+  {
+    "schoolCode": 1353,
+    "schoolName": "부산서여자고등학교"
+  },
+  {
+    "schoolCode": 1354,
+    "schoolName": "성모여자고등학교"
+  },
+  {
+    "schoolCode": 1355,
+    "schoolName": "부산백양고등학교"
+  },
+  {
+    "schoolCode": 1356,
+    "schoolName": "금명여자고등학교"
+  },
+  {
+    "schoolCode": 1357,
+    "schoolName": "사상고등학교"
+  },
+  {
+    "schoolCode": 1358,
+    "schoolName": "센텀고등학교"
+  },
+  {
+    "schoolCode": 1359,
+    "schoolName": "부산장안고등학교"
+  },
+  {
+    "schoolCode": 1360,
+    "schoolName": "부산중앙고등학교"
+  },
+  {
+    "schoolCode": 1361,
+    "schoolName": "명호고등학교"
+  },
+  {
+    "schoolCode": 1362,
+    "schoolName": "신정고등학교"
+  },
+  {
+    "schoolCode": 1363,
+    "schoolName": "부산중앙여자고등학교"
+  },
+  {
+    "schoolCode": 1364,
+    "schoolName": "부흥고등학교"
+  },
+  {
+    "schoolCode": 1365,
+    "schoolName": "개성고등학교"
+  },
+  {
+    "schoolCode": 1366,
+    "schoolName": "분포고등학교"
+  },
+  {
+    "schoolCode": 1367,
+    "schoolName": "사직고등학교"
+  },
+  {
+    "schoolCode": 1368,
+    "schoolName": "부산강서고등학교"
+  },
+  {
+    "schoolCode": 1369,
+    "schoolName": "신도고등학교"
+  },
+  {
+    "schoolCode": 1370,
+    "schoolName": "양운고등학교"
+  },
+  {
+    "schoolCode": 1371,
+    "schoolName": "주례여자고등학교"
+  },
+  {
+    "schoolCode": 1372,
+    "schoolName": "충렬고등학교"
+  },
+  {
+    "schoolCode": 1373,
+    "schoolName": "화명고등학교"
+  },
+  {
+    "schoolCode": 1374,
+    "schoolName": "연제고등학교"
+  },
+  {
+    "schoolCode": 1375,
+    "schoolName": "해강고등학교"
+  },
+  {
+    "schoolCode": 1376,
+    "schoolName": "가야고등학교"
+  },
+  {
+    "schoolCode": 1377,
+    "schoolName": "건국고등학교"
+  },
+  {
+    "schoolCode": 1378,
+    "schoolName": "경혜여자고등학교"
+  },
+  {
+    "schoolCode": 1379,
+    "schoolName": "대덕여자고등학교"
+  },
+  {
+    "schoolCode": 1380,
+    "schoolName": "광명고등학교"
+  },
+  {
+    "schoolCode": 1381,
+    "schoolName": "금성고등학교"
+  },
+  {
+    "schoolCode": 1382,
+    "schoolName": "남성여자고등학교"
+  },
+  {
+    "schoolCode": 1383,
+    "schoolName": "대동고등학교"
+  },
+  {
+    "schoolCode": 1384,
+    "schoolName": "대명여자고등학교"
+  },
+  {
+    "schoolCode": 1385,
+    "schoolName": "대연고등학교"
+  },
+  {
+    "schoolCode": 1386,
+    "schoolName": "덕문여자고등학교"
+  },
+  {
+    "schoolCode": 1387,
+    "schoolName": "데레사여자고등학교"
+  },
+  {
+    "schoolCode": 1388,
+    "schoolName": "동래여자고등학교"
+  },
+  {
+    "schoolCode": 1389,
+    "schoolName": "동아고등학교"
+  },
+  {
+    "schoolCode": 1390,
+    "schoolName": "삼정고등학교"
+  },
+  {
+    "schoolCode": 1391,
+    "schoolName": "동인고등학교"
+  },
+  {
+    "schoolCode": 1392,
+    "schoolName": "배정고등학교"
+  },
+  {
+    "schoolCode": 1393,
+    "schoolName": "부산대저고등학교"
+  },
+  {
+    "schoolCode": 1394,
+    "schoolName": "부산동고등학교"
+  },
+  {
+    "schoolCode": 1395,
+    "schoolName": "동주여자고등학교"
+  },
+  {
+    "schoolCode": 1396,
+    "schoolName": "부산동성고등학교"
+  },
+  {
+    "schoolCode": 1397,
+    "schoolName": "부산진여자고등학교"
+  },
+  {
+    "schoolCode": 1398,
+    "schoolName": "브니엘고등학교"
+  },
+  {
+    "schoolCode": 1399,
+    "schoolName": "사직여자고등학교"
+  },
+  {
+    "schoolCode": 1400,
+    "schoolName": "삼성여자고등학교"
+  },
+  {
+    "schoolCode": 1401,
+    "schoolName": "성일여자고등학교"
+  },
+  {
+    "schoolCode": 1402,
+    "schoolName": "한얼고등학교"
+  },
+  {
+    "schoolCode": 1403,
+    "schoolName": "양정고등학교"
+  },
+  {
+    "schoolCode": 1404,
+    "schoolName": "예문여자고등학교"
+  },
+  {
+    "schoolCode": 1405,
+    "schoolName": "용인고등학교"
+  },
+  {
+    "schoolCode": 1406,
+    "schoolName": "이사벨고등학교"
+  },
+  {
+    "schoolCode": 1407,
+    "schoolName": "성지고등학교"
+  },
+  {
+    "schoolCode": 1408,
+    "schoolName": "장안제일고등학교"
+  },
+  {
+    "schoolCode": 1409,
+    "schoolName": "지산고등학교"
+  },
+  {
+    "schoolCode": 1410,
+    "schoolName": "지구촌고등학교"
+  },
+  {
+    "schoolCode": 1411,
+    "schoolName": "학산여자고등학교"
+  },
+  {
+    "schoolCode": 1412,
+    "schoolName": "부산국제외국어고등학교"
+  },
+  {
+    "schoolCode": 1413,
+    "schoolName": "해동고등학교"
+  },
+  {
+    "schoolCode": 1414,
+    "schoolName": "해운대고등학교"
+  },
+  {
+    "schoolCode": 1415,
+    "schoolName": "해운대여자고등학교"
+  },
+  {
+    "schoolCode": 1416,
+    "schoolName": "혜광고등학교"
+  },
+  {
+    "schoolCode": 1417,
+    "schoolName": "부산체육고등학교"
+  },
+  {
+    "schoolCode": 1418,
+    "schoolName": "부산과학고등학교"
+  },
+  {
+    "schoolCode": 1419,
+    "schoolName": "한국과학영재학교"
+  },
+  {
+    "schoolCode": 1420,
+    "schoolName": "부산일과학고등학교"
+  },
+  {
+    "schoolCode": 1421,
+    "schoolName": "부산예술고등학교"
+  },
+  {
+    "schoolCode": 1422,
+    "schoolName": "한국조형예술고등학교"
+  },
+  {
+    "schoolCode": 1423,
+    "schoolName": "브니엘예술고등학교"
+  },
+  {
+    "schoolCode": 1424,
+    "schoolName": "부산외국어고등학교"
+  },
+  {
+    "schoolCode": 1425,
+    "schoolName": "부일외국어고등학교"
+  },
+  {
+    "schoolCode": 1426,
+    "schoolName": "부산국제고등학교"
+  },
+  {
+    "schoolCode": 1427,
+    "schoolName": "동래원예고등학교"
+  },
+  {
+    "schoolCode": 1428,
+    "schoolName": "부산기계공업고등학교"
+  },
+  {
+    "schoolCode": 1429,
+    "schoolName": "경남공업고등학교"
+  },
+  {
+    "schoolCode": 1430,
+    "schoolName": "대진전자통신고등학교"
+  },
+  {
+    "schoolCode": 1431,
+    "schoolName": "부산공업고등학교"
+  },
+  {
+    "schoolCode": 1432,
+    "schoolName": "부산자동차고등학교"
+  },
+  {
+    "schoolCode": 1433,
+    "schoolName": "부산산업과학고등학교"
+  },
+  {
+    "schoolCode": 1434,
+    "schoolName": "부산전자공업고등학교"
+  },
+  {
+    "schoolCode": 1435,
+    "schoolName": "해운대공업고등학교"
+  },
+  {
+    "schoolCode": 1436,
+    "schoolName": "서부산공업고등학교"
+  },
+  {
+    "schoolCode": 1437,
+    "schoolName": "대광발명과학고등학교"
+  },
+  {
+    "schoolCode": 1438,
+    "schoolName": "부산디지털고등학교"
+  },
+  {
+    "schoolCode": 1439,
+    "schoolName": "경성전자고등학교"
+  },
+  {
+    "schoolCode": 1440,
+    "schoolName": "금정전자공업고등학교"
+  },
+  {
+    "schoolCode": 1441,
+    "schoolName": "대양전자통신고등학교"
+  },
+  {
+    "schoolCode": 1442,
+    "schoolName": "동명공업고등학교"
+  },
+  {
+    "schoolCode": 1443,
+    "schoolName": "동아공업고등학교"
+  },
+  {
+    "schoolCode": 1444,
+    "schoolName": "동의공업고등학교"
+  },
+  {
+    "schoolCode": 1445,
+    "schoolName": "부일전자디자인고등학교"
+  },
+  {
+    "schoolCode": 1446,
+    "schoolName": "부산컴퓨터과학고등학교"
+  },
+  {
+    "schoolCode": 1447,
+    "schoolName": "부산진여자상업고등학교"
+  },
+  {
+    "schoolCode": 1448,
+    "schoolName": "부산영상예술고등학교"
+  },
+  {
+    "schoolCode": 1449,
+    "schoolName": "부산마케팅고등학교"
+  },
+  {
+    "schoolCode": 1450,
+    "schoolName": "세정상업고등학교"
+  },
+  {
+    "schoolCode": 1451,
+    "schoolName": "부산경영고등학교"
+  },
+  {
+    "schoolCode": 1452,
+    "schoolName": "계성여자상업고등학교"
+  },
+  {
+    "schoolCode": 1453,
+    "schoolName": "부산세무고등학교"
+  },
+  {
+    "schoolCode": 1454,
+    "schoolName": "부산여자상업고등학교"
+  },
+  {
+    "schoolCode": 1455,
+    "schoolName": "부산정보고등학교"
+  },
+  {
+    "schoolCode": 1456,
+    "schoolName": "부산보건고등학교"
+  },
+  {
+    "schoolCode": 1457,
+    "schoolName": "부산해사고등학교"
+  },
+  {
+    "schoolCode": 1458,
+    "schoolName": "해운대관광고등학교"
+  },
+  {
+    "schoolCode": 1459,
+    "schoolName": "부산정보관광고등학교"
+  },
+  {
+    "schoolCode": 1460,
+    "schoolName": "부산관광고등학교"
+  },
+  {
+    "schoolCode": 1461,
+    "schoolName": "영산고등학교"
+  },
+  {
+    "schoolCode": 1462,
+    "schoolName": "부산문화여자고등학교"
+  },
+  {
+    "schoolCode": 1463,
+    "schoolName": "경북대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 1464,
+    "schoolName": "경덕여자고등학교"
+  },
+  {
+    "schoolCode": 1465,
+    "schoolName": "대구제일고등학교"
+  },
+  {
+    "schoolCode": 1466,
+    "schoolName": "경북고등학교"
+  },
+  {
+    "schoolCode": 1467,
+    "schoolName": "경북여자고등학교"
+  },
+  {
+    "schoolCode": 1468,
+    "schoolName": "구암고등학교"
+  },
+  {
+    "schoolCode": 1469,
+    "schoolName": "다사고등학교"
+  },
+  {
+    "schoolCode": 1470,
+    "schoolName": "달성고등학교"
+  },
+  {
+    "schoolCode": 1471,
+    "schoolName": "대구고등학교"
+  },
+  {
+    "schoolCode": 1472,
+    "schoolName": "칠성고등학교"
+  },
+  {
+    "schoolCode": 1473,
+    "schoolName": "호산고등학교"
+  },
+  {
+    "schoolCode": 1474,
+    "schoolName": "대구서부고등학교"
+  },
+  {
+    "schoolCode": 1475,
+    "schoolName": "매천고등학교"
+  },
+  {
+    "schoolCode": 1476,
+    "schoolName": "대구여자고등학교"
+  },
+  {
+    "schoolCode": 1477,
+    "schoolName": "상인고등학교"
+  },
+  {
+    "schoolCode": 1478,
+    "schoolName": "성서고등학교"
+  },
+  {
+    "schoolCode": 1479,
+    "schoolName": "수성고등학교"
+  },
+  {
+    "schoolCode": 1480,
+    "schoolName": "시지고등학교"
+  },
+  {
+    "schoolCode": 1481,
+    "schoolName": "와룡고등학교"
+  },
+  {
+    "schoolCode": 1482,
+    "schoolName": "운암고등학교"
+  },
+  {
+    "schoolCode": 1483,
+    "schoolName": "포산고등학교"
+  },
+  {
+    "schoolCode": 1484,
+    "schoolName": "학남고등학교"
+  },
+  {
+    "schoolCode": 1485,
+    "schoolName": "성산고등학교"
+  },
+  {
+    "schoolCode": 1486,
+    "schoolName": "대곡고등학교"
+  },
+  {
+    "schoolCode": 1487,
+    "schoolName": "화원고등학교"
+  },
+  {
+    "schoolCode": 1488,
+    "schoolName": "함지고등학교"
+  },
+  {
+    "schoolCode": 1489,
+    "schoolName": "도원고등학교"
+  },
+  {
+    "schoolCode": 1490,
+    "schoolName": "동문고등학교"
+  },
+  {
+    "schoolCode": 1491,
+    "schoolName": "강동고등학교"
+  },
+  {
+    "schoolCode": 1492,
+    "schoolName": "대진고등학교"
+  },
+  {
+    "schoolCode": 1493,
+    "schoolName": "강북고등학교"
+  },
+  {
+    "schoolCode": 1494,
+    "schoolName": "경명여자고등학교"
+  },
+  {
+    "schoolCode": 1495,
+    "schoolName": "경상고등학교"
+  },
+  {
+    "schoolCode": 1496,
+    "schoolName": "경상여자고등학교"
+  },
+  {
+    "schoolCode": 1497,
+    "schoolName": "경신고등학교"
+  },
+  {
+    "schoolCode": 1498,
+    "schoolName": "경원고등학교"
+  },
+  {
+    "schoolCode": 1499,
+    "schoolName": "경일여자고등학교"
+  },
+  {
+    "schoolCode": 1500,
+    "schoolName": "경화여자고등학교"
+  },
+  {
+    "schoolCode": 1501,
+    "schoolName": "계성고등학교"
+  },
+  {
+    "schoolCode": 1502,
+    "schoolName": "능인고등학교"
+  },
+  {
+    "schoolCode": 1503,
+    "schoolName": "달서고등학교"
+  },
+  {
+    "schoolCode": 1504,
+    "schoolName": "대건고등학교"
+  },
+  {
+    "schoolCode": 1505,
+    "schoolName": "대구남산고등학교"
+  },
+  {
+    "schoolCode": 1506,
+    "schoolName": "대구혜화여자고등학교"
+  },
+  {
+    "schoolCode": 1507,
+    "schoolName": "대륜고등학교"
+  },
+  {
+    "schoolCode": 1508,
+    "schoolName": "덕원고등학교"
+  },
+  {
+    "schoolCode": 1509,
+    "schoolName": "대구동부고등학교"
+  },
+  {
+    "schoolCode": 1510,
+    "schoolName": "대원고등학교"
+  },
+  {
+    "schoolCode": 1511,
+    "schoolName": "성광고등학교"
+  },
+  {
+    "schoolCode": 1512,
+    "schoolName": "성화여자고등학교"
+  },
+  {
+    "schoolCode": 1513,
+    "schoolName": "송현여자고등학교"
+  },
+  {
+    "schoolCode": 1514,
+    "schoolName": "신명고등학교"
+  },
+  {
+    "schoolCode": 1515,
+    "schoolName": "심인고등학교"
+  },
+  {
+    "schoolCode": 1516,
+    "schoolName": "영남고등학교"
+  },
+  {
+    "schoolCode": 1517,
+    "schoolName": "영송여자고등학교"
+  },
+  {
+    "schoolCode": 1518,
+    "schoolName": "영신고등학교"
+  },
+  {
+    "schoolCode": 1519,
+    "schoolName": "영진고등학교"
+  },
+  {
+    "schoolCode": 1520,
+    "schoolName": "오성고등학교"
+  },
+  {
+    "schoolCode": 1521,
+    "schoolName": "원화여자고등학교"
+  },
+  {
+    "schoolCode": 1522,
+    "schoolName": "정동고등학교"
+  },
+  {
+    "schoolCode": 1523,
+    "schoolName": "대구중앙고등학교"
+  },
+  {
+    "schoolCode": 1524,
+    "schoolName": "정화여자고등학교"
+  },
+  {
+    "schoolCode": 1525,
+    "schoolName": "청구고등학교"
+  },
+  {
+    "schoolCode": 1526,
+    "schoolName": "현풍고등학교"
+  },
+  {
+    "schoolCode": 1527,
+    "schoolName": "협성고등학교"
+  },
+  {
+    "schoolCode": 1528,
+    "schoolName": "효성여자고등학교"
+  },
+  {
+    "schoolCode": 1529,
+    "schoolName": "대구상원고등학교"
+  },
+  {
+    "schoolCode": 1530,
+    "schoolName": "달구벌고등학교"
+  },
+  {
+    "schoolCode": 1531,
+    "schoolName": "비슬고등학교"
+  },
+  {
+    "schoolCode": 1532,
+    "schoolName": "대구체육고등학교"
+  },
+  {
+    "schoolCode": 1533,
+    "schoolName": "대구과학고등학교"
+  },
+  {
+    "schoolCode": 1534,
+    "schoolName": "대구일과학고등학교"
+  },
+  {
+    "schoolCode": 1535,
+    "schoolName": "경북예술고등학교"
+  },
+  {
+    "schoolCode": 1536,
+    "schoolName": "대구외국어고등학교"
+  },
+  {
+    "schoolCode": 1537,
+    "schoolName": "대구농업마이스터고등학교"
+  },
+  {
+    "schoolCode": 1538,
+    "schoolName": "경북기계공업고등학교"
+  },
+  {
+    "schoolCode": 1539,
+    "schoolName": "대구공업고등학교"
+  },
+  {
+    "schoolCode": 1540,
+    "schoolName": "대구달서공업고등학교"
+  },
+  {
+    "schoolCode": 1541,
+    "schoolName": "대구일마이스터고등학교"
+  },
+  {
+    "schoolCode": 1542,
+    "schoolName": "대구서부공업고등학교"
+  },
+  {
+    "schoolCode": 1543,
+    "schoolName": "대구전자공업고등학교"
+  },
+  {
+    "schoolCode": 1544,
+    "schoolName": "경북공업고등학교"
+  },
+  {
+    "schoolCode": 1545,
+    "schoolName": "경상공업고등학교"
+  },
+  {
+    "schoolCode": 1546,
+    "schoolName": "대중금속공업고등학교"
+  },
+  {
+    "schoolCode": 1547,
+    "schoolName": "영남공업고등학교"
+  },
+  {
+    "schoolCode": 1548,
+    "schoolName": "조일고등학교"
+  },
+  {
+    "schoolCode": 1549,
+    "schoolName": "대구소프트웨어고등학교"
+  },
+  {
+    "schoolCode": 1550,
+    "schoolName": "대구제일여자상업고등학교"
+  },
+  {
+    "schoolCode": 1551,
+    "schoolName": "경북여자상업고등학교"
+  },
+  {
+    "schoolCode": 1552,
+    "schoolName": "대구여자상업고등학교"
+  },
+  {
+    "schoolCode": 1553,
+    "schoolName": "대구보건고등학교"
+  },
+  {
+    "schoolCode": 1554,
+    "schoolName": "대구관광고등학교"
+  },
+  {
+    "schoolCode": 1555,
+    "schoolName": "상서고등학교"
+  },
+  {
+    "schoolCode": 1556,
+    "schoolName": "서운고등학교"
+  },
+  {
+    "schoolCode": 1557,
+    "schoolName": "가정고등학교"
+  },
+  {
+    "schoolCode": 1558,
+    "schoolName": "가림고등학교"
+  },
+  {
+    "schoolCode": 1559,
+    "schoolName": "인천예일고등학교"
+  },
+  {
+    "schoolCode": 1560,
+    "schoolName": "인천논현고등학교"
+  },
+  {
+    "schoolCode": 1561,
+    "schoolName": "인천상정고등학교"
+  },
+  {
+    "schoolCode": 1562,
+    "schoolName": "인천세원고등학교"
+  },
+  {
+    "schoolCode": 1563,
+    "schoolName": "강화고등학교"
+  },
+  {
+    "schoolCode": 1564,
+    "schoolName": "강화여자고등학교"
+  },
+  {
+    "schoolCode": 1565,
+    "schoolName": "검단고등학교"
+  },
+  {
+    "schoolCode": 1566,
+    "schoolName": "계산고등학교"
+  },
+  {
+    "schoolCode": 1567,
+    "schoolName": "계산여자고등학교"
+  },
+  {
+    "schoolCode": 1568,
+    "schoolName": "교동고등학교"
+  },
+  {
+    "schoolCode": 1569,
+    "schoolName": "대청고등학교"
+  },
+  {
+    "schoolCode": 1570,
+    "schoolName": "덕적고등학교"
+  },
+  {
+    "schoolCode": 1571,
+    "schoolName": "동인천고등학교"
+  },
+  {
+    "schoolCode": 1572,
+    "schoolName": "백석고등학교"
+  },
+  {
+    "schoolCode": 1573,
+    "schoolName": "부개여자고등학교"
+  },
+  {
+    "schoolCode": 1574,
+    "schoolName": "부광고등학교"
+  },
+  {
+    "schoolCode": 1575,
+    "schoolName": "부광여자고등학교"
+  },
+  {
+    "schoolCode": 1576,
+    "schoolName": "계양고등학교"
+  },
+  {
+    "schoolCode": 1577,
+    "schoolName": "부평여자고등학교"
+  },
+  {
+    "schoolCode": 1578,
+    "schoolName": "삼량고등학교"
+  },
+  {
+    "schoolCode": 1579,
+    "schoolName": "인제고등학교"
+  },
+  {
+    "schoolCode": 1580,
+    "schoolName": "석정여자고등학교"
+  },
+  {
+    "schoolCode": 1581,
+    "schoolName": "부평고등학교"
+  },
+  {
+    "schoolCode": 1582,
+    "schoolName": "인명여자고등학교"
+  },
+  {
+    "schoolCode": 1583,
+    "schoolName": "삼산고등학교"
+  },
+  {
+    "schoolCode": 1584,
+    "schoolName": "인화여자고등학교"
+  },
+  {
+    "schoolCode": 1585,
+    "schoolName": "서도고등학교"
+  },
+  {
+    "schoolCode": 1586,
+    "schoolName": "인천송천고등학교"
+  },
+  {
+    "schoolCode": 1587,
+    "schoolName": "인천초은고등학교"
+  },
+  {
+    "schoolCode": 1588,
+    "schoolName": "인천청라고등학교"
+  },
+  {
+    "schoolCode": 1589,
+    "schoolName": "인천하늘고등학교"
+  },
+  {
+    "schoolCode": 1590,
+    "schoolName": "인천연송고등학교"
+  },
+  {
+    "schoolCode": 1591,
+    "schoolName": "인천영종고등학교"
+  },
+  {
+    "schoolCode": 1592,
+    "schoolName": "인천해원고등학교"
+  },
+  {
+    "schoolCode": 1593,
+    "schoolName": "인천포스코고등학교"
+  },
+  {
+    "schoolCode": 1594,
+    "schoolName": "선인고등학교"
+  },
+  {
+    "schoolCode": 1595,
+    "schoolName": "연수고등학교"
+  },
+  {
+    "schoolCode": 1596,
+    "schoolName": "연수여자고등학교"
+  },
+  {
+    "schoolCode": 1597,
+    "schoolName": "백령고등학교"
+  },
+  {
+    "schoolCode": 1598,
+    "schoolName": "연평고등학교"
+  },
+  {
+    "schoolCode": 1599,
+    "schoolName": "인천고등학교"
+  },
+  {
+    "schoolCode": 1600,
+    "schoolName": "인천공항고등학교"
+  },
+  {
+    "schoolCode": 1601,
+    "schoolName": "인천남고등학교"
+  },
+  {
+    "schoolCode": 1602,
+    "schoolName": "인천여자고등학교"
+  },
+  {
+    "schoolCode": 1603,
+    "schoolName": "인천영흥고등학교"
+  },
+  {
+    "schoolCode": 1604,
+    "schoolName": "제물포고등학교"
+  },
+  {
+    "schoolCode": 1605,
+    "schoolName": "학익고등학교"
+  },
+  {
+    "schoolCode": 1606,
+    "schoolName": "학익여자고등학교"
+  },
+  {
+    "schoolCode": 1607,
+    "schoolName": "인천해송고등학교"
+  },
+  {
+    "schoolCode": 1608,
+    "schoolName": "인천고잔고등학교"
+  },
+  {
+    "schoolCode": 1609,
+    "schoolName": "인천효성고등학교"
+  },
+  {
+    "schoolCode": 1610,
+    "schoolName": "인천영선고등학교"
+  },
+  {
+    "schoolCode": 1611,
+    "schoolName": "인천원당고등학교"
+  },
+  {
+    "schoolCode": 1612,
+    "schoolName": "광성고등학교"
+  },
+  {
+    "schoolCode": 1613,
+    "schoolName": "산마을고등학교"
+  },
+  {
+    "schoolCode": 1614,
+    "schoolName": "인천대건고등학교"
+  },
+  {
+    "schoolCode": 1615,
+    "schoolName": "대인고등학교"
+  },
+  {
+    "schoolCode": 1616,
+    "schoolName": "덕신고등학교"
+  },
+  {
+    "schoolCode": 1617,
+    "schoolName": "동산고등학교"
+  },
+  {
+    "schoolCode": 1618,
+    "schoolName": "인일여자고등학교"
+  },
+  {
+    "schoolCode": 1619,
+    "schoolName": "명신여자고등학교"
+  },
+  {
+    "schoolCode": 1620,
+    "schoolName": "인천산곡고등학교"
+  },
+  {
+    "schoolCode": 1621,
+    "schoolName": "문일여자고등학교"
+  },
+  {
+    "schoolCode": 1622,
+    "schoolName": "박문여자고등학교"
+  },
+  {
+    "schoolCode": 1623,
+    "schoolName": "서인천고등학교"
+  },
+  {
+    "schoolCode": 1624,
+    "schoolName": "인천마전고등학교"
+  },
+  {
+    "schoolCode": 1625,
+    "schoolName": "세일고등학교"
+  },
+  {
+    "schoolCode": 1626,
+    "schoolName": "송도고등학교"
+  },
+  {
+    "schoolCode": 1627,
+    "schoolName": "숭덕여자고등학교"
+  },
+  {
+    "schoolCode": 1628,
+    "schoolName": "신명여자고등학교"
+  },
+  {
+    "schoolCode": 1629,
+    "schoolName": "인성여자고등학교"
+  },
+  {
+    "schoolCode": 1630,
+    "schoolName": "인하대학교사범대학부속고등학교"
+  },
+  {
+    "schoolCode": 1631,
+    "schoolName": "제일고등학교"
+  },
+  {
+    "schoolCode": 1632,
+    "schoolName": "인항고등학교"
+  },
+  {
+    "schoolCode": 1633,
+    "schoolName": "안남고등학교"
+  },
+  {
+    "schoolCode": 1634,
+    "schoolName": "작전고등학교"
+  },
+  {
+    "schoolCode": 1635,
+    "schoolName": "작전여자고등학교"
+  },
+  {
+    "schoolCode": 1636,
+    "schoolName": "옥련여자고등학교"
+  },
+  {
+    "schoolCode": 1637,
+    "schoolName": "가좌고등학교"
+  },
+  {
+    "schoolCode": 1638,
+    "schoolName": "부개고등학교"
+  },
+  {
+    "schoolCode": 1639,
+    "schoolName": "도림고등학교"
+  },
+  {
+    "schoolCode": 1640,
+    "schoolName": "인천부흥고등학교"
+  },
+  {
+    "schoolCode": 1641,
+    "schoolName": "신송고등학교"
+  },
+  {
+    "schoolCode": 1642,
+    "schoolName": "인천만수고등학교"
+  },
+  {
+    "schoolCode": 1643,
+    "schoolName": "인천신현고등학교"
+  },
+  {
+    "schoolCode": 1644,
+    "schoolName": "인천남동고등학교"
+  },
+  {
+    "schoolCode": 1645,
+    "schoolName": "인천체육고등학교"
+  },
+  {
+    "schoolCode": 1646,
+    "schoolName": "인천과학고등학교"
+  },
+  {
+    "schoolCode": 1647,
+    "schoolName": "인천진산과학고등학교"
+  },
+  {
+    "schoolCode": 1648,
+    "schoolName": "인천과학예술영재학교"
+  },
+  {
+    "schoolCode": 1649,
+    "schoolName": "인천예술고등학교"
+  },
+  {
+    "schoolCode": 1650,
+    "schoolName": "미추홀외국어고등학교"
+  },
+  {
+    "schoolCode": 1651,
+    "schoolName": "인천외국어고등학교"
+  },
+  {
+    "schoolCode": 1652,
+    "schoolName": "인천국제고등학교"
+  },
+  {
+    "schoolCode": 1653,
+    "schoolName": "인평자동차고등학교"
+  },
+  {
+    "schoolCode": 1654,
+    "schoolName": "계산공업고등학교"
+  },
+  {
+    "schoolCode": 1655,
+    "schoolName": "인천미래생활고등학교"
+  },
+  {
+    "schoolCode": 1656,
+    "schoolName": "강남영상미디어고등학교"
+  },
+  {
+    "schoolCode": 1657,
+    "schoolName": "부평공업고등학교"
+  },
+  {
+    "schoolCode": 1658,
+    "schoolName": "인천하이텍고등학교"
+  },
+  {
+    "schoolCode": 1659,
+    "schoolName": "도화기계공업고등학교"
+  },
+  {
+    "schoolCode": 1660,
+    "schoolName": "인천기계공업고등학교"
+  },
+  {
+    "schoolCode": 1661,
+    "schoolName": "인천디자인고등학교"
+  },
+  {
+    "schoolCode": 1662,
+    "schoolName": "인천뷰티예술고등학교"
+  },
+  {
+    "schoolCode": 1663,
+    "schoolName": "인천전자마이스터고등학교"
+  },
+  {
+    "schoolCode": 1664,
+    "schoolName": "인천정보산업고등학교"
+  },
+  {
+    "schoolCode": 1665,
+    "schoolName": "청학공업고등학교"
+  },
+  {
+    "schoolCode": 1666,
+    "schoolName": "재능고등학교"
+  },
+  {
+    "schoolCode": 1667,
+    "schoolName": "정석항공과학고등학교"
+  },
+  {
+    "schoolCode": 1668,
+    "schoolName": "한국주얼리고등학교"
+  },
+  {
+    "schoolCode": 1669,
+    "schoolName": "인천비즈니스고등학교"
+  },
+  {
+    "schoolCode": 1670,
+    "schoolName": "문학정보고등학교"
+  },
+  {
+    "schoolCode": 1671,
+    "schoolName": "영종국제물류고등학교"
+  },
+  {
+    "schoolCode": 1672,
+    "schoolName": "인천여자상업고등학교"
+  },
+  {
+    "schoolCode": 1673,
+    "schoolName": "인천보건고등학교"
+  },
+  {
+    "schoolCode": 1674,
+    "schoolName": "인천금융고등학교"
+  },
+  {
+    "schoolCode": 1675,
+    "schoolName": "인천세무고등학교"
+  },
+  {
+    "schoolCode": 1676,
+    "schoolName": "영화관광경영고등학교"
+  },
+  {
+    "schoolCode": 1677,
+    "schoolName": "인천중앙여자상업고등학교"
+  },
+  {
+    "schoolCode": 1678,
+    "schoolName": "인천해양과학고등학교"
+  },
+  {
+    "schoolCode": 1679,
+    "schoolName": "인천해사고등학교"
+  },
+  {
+    "schoolCode": 1680,
+    "schoolName": "인천생활과학고등학교"
+  },
+  {
+    "schoolCode": 1681,
+    "schoolName": "상무고등학교"
+  },
+  {
+    "schoolCode": 1682,
+    "schoolName": "성덕고등학교"
+  },
+  {
+    "schoolCode": 1683,
+    "schoolName": "설월여자고등학교"
+  },
+  {
+    "schoolCode": 1684,
+    "schoolName": "전남대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 1685,
+    "schoolName": "운남고등학교"
+  },
+  {
+    "schoolCode": 1686,
+    "schoolName": "풍암고등학교"
+  },
+  {
+    "schoolCode": 1687,
+    "schoolName": "첨단고등학교"
+  },
+  {
+    "schoolCode": 1688,
+    "schoolName": "광주여자고등학교"
+  },
+  {
+    "schoolCode": 1689,
+    "schoolName": "광주고등학교"
+  },
+  {
+    "schoolCode": 1690,
+    "schoolName": "광주제일고등학교"
+  },
+  {
+    "schoolCode": 1691,
+    "schoolName": "전남고등학교"
+  },
+  {
+    "schoolCode": 1692,
+    "schoolName": "전남여자고등학교"
+  },
+  {
+    "schoolCode": 1693,
+    "schoolName": "동명고등학교"
+  },
+  {
+    "schoolCode": 1694,
+    "schoolName": "고려고등학교"
+  },
+  {
+    "schoolCode": 1695,
+    "schoolName": "광덕고등학교"
+  },
+  {
+    "schoolCode": 1696,
+    "schoolName": "보문고등학교"
+  },
+  {
+    "schoolCode": 1697,
+    "schoolName": "명진고등학교"
+  },
+  {
+    "schoolCode": 1698,
+    "schoolName": "광일고등학교"
+  },
+  {
+    "schoolCode": 1699,
+    "schoolName": "광주경신여자고등학교"
+  },
+  {
+    "schoolCode": 1700,
+    "schoolName": "광주대동고등학교"
+  },
+  {
+    "schoolCode": 1701,
+    "schoolName": "광주동성고등학교"
+  },
+  {
+    "schoolCode": 1702,
+    "schoolName": "광주동신고등학교"
+  },
+  {
+    "schoolCode": 1703,
+    "schoolName": "광주동신여자고등학교"
+  },
+  {
+    "schoolCode": 1704,
+    "schoolName": "광주서석고등학교"
+  },
+  {
+    "schoolCode": 1705,
+    "schoolName": "광주석산고등학교"
+  },
+  {
+    "schoolCode": 1706,
+    "schoolName": "광주수피아여자고등학교"
+  },
+  {
+    "schoolCode": 1707,
+    "schoolName": "광주숭일고등학교"
+  },
+  {
+    "schoolCode": 1708,
+    "schoolName": "광주인성고등학교"
+  },
+  {
+    "schoolCode": 1709,
+    "schoolName": "금호중앙여자고등학교"
+  },
+  {
+    "schoolCode": 1710,
+    "schoolName": "광주진흥고등학교"
+  },
+  {
+    "schoolCode": 1711,
+    "schoolName": "동아여자고등학교"
+  },
+  {
+    "schoolCode": 1712,
+    "schoolName": "국제고등학교"
+  },
+  {
+    "schoolCode": 1713,
+    "schoolName": "금호고등학교"
+  },
+  {
+    "schoolCode": 1714,
+    "schoolName": "대광여자고등학교"
+  },
+  {
+    "schoolCode": 1715,
+    "schoolName": "대성여자고등학교"
+  },
+  {
+    "schoolCode": 1716,
+    "schoolName": "문성고등학교"
+  },
+  {
+    "schoolCode": 1717,
+    "schoolName": "살레시오고등학교"
+  },
+  {
+    "schoolCode": 1718,
+    "schoolName": "살레시오여자고등학교"
+  },
+  {
+    "schoolCode": 1719,
+    "schoolName": "서강고등학교"
+  },
+  {
+    "schoolCode": 1720,
+    "schoolName": "송원고등학교"
+  },
+  {
+    "schoolCode": 1721,
+    "schoolName": "송원여자고등학교"
+  },
+  {
+    "schoolCode": 1722,
+    "schoolName": "숭덕고등학교"
+  },
+  {
+    "schoolCode": 1723,
+    "schoolName": "정광고등학교"
+  },
+  {
+    "schoolCode": 1724,
+    "schoolName": "조선대학교부속고등학교"
+  },
+  {
+    "schoolCode": 1725,
+    "schoolName": "조선대학교여자고등학교"
+  },
+  {
+    "schoolCode": 1726,
+    "schoolName": "호남삼육고등학교"
+  },
+  {
+    "schoolCode": 1727,
+    "schoolName": "상일여자고등학교"
+  },
+  {
+    "schoolCode": 1728,
+    "schoolName": "문정여자고등학교"
+  },
+  {
+    "schoolCode": 1729,
+    "schoolName": "장덕고등학교"
+  },
+  {
+    "schoolCode": 1730,
+    "schoolName": "수완고등학교"
+  },
+  {
+    "schoolCode": 1731,
+    "schoolName": "빛고을고등학교"
+  },
+  {
+    "schoolCode": 1732,
+    "schoolName": "광주체육고등학교"
+  },
+  {
+    "schoolCode": 1733,
+    "schoolName": "광주과학고등학교"
+  },
+  {
+    "schoolCode": 1734,
+    "schoolName": "광주예술고등학교"
+  },
+  {
+    "schoolCode": 1735,
+    "schoolName": "광주자연과학고등학교"
+  },
+  {
+    "schoolCode": 1736,
+    "schoolName": "광주공업고등학교"
+  },
+  {
+    "schoolCode": 1737,
+    "schoolName": "광주소프트웨어마이스터고등학교"
+  },
+  {
+    "schoolCode": 1738,
+    "schoolName": "광주전자공업고등학교"
+  },
+  {
+    "schoolCode": 1739,
+    "schoolName": "전남공업고등학교"
+  },
+  {
+    "schoolCode": 1740,
+    "schoolName": "동일미래과학고등학교"
+  },
+  {
+    "schoolCode": 1741,
+    "schoolName": "금파공업고등학교"
+  },
+  {
+    "schoolCode": 1742,
+    "schoolName": "숭의과학기술고등학교"
+  },
+  {
+    "schoolCode": 1743,
+    "schoolName": "광주여자상업고등학교"
+  },
+  {
+    "schoolCode": 1744,
+    "schoolName": "송원여자상업고등학교"
+  },
+  {
+    "schoolCode": 1745,
+    "schoolName": "전남여자상업고등학교"
+  },
+  {
+    "schoolCode": 1746,
+    "schoolName": "광주자동화설비공업고등학교"
+  },
+  {
+    "schoolCode": 1747,
+    "schoolName": "서진여자고등학교"
+  },
+  {
+    "schoolCode": 1748,
+    "schoolName": "대전반석고등학교"
+  },
+  {
+    "schoolCode": 1749,
+    "schoolName": "대덕고등학교"
+  },
+  {
+    "schoolCode": 1750,
+    "schoolName": "대전고등학교"
+  },
+  {
+    "schoolCode": 1751,
+    "schoolName": "대전관저고등학교"
+  },
+  {
+    "schoolCode": 1752,
+    "schoolName": "대전둔산여자고등학교"
+  },
+  {
+    "schoolCode": 1753,
+    "schoolName": "대전만년고등학교"
+  },
+  {
+    "schoolCode": 1754,
+    "schoolName": "대전송촌고등학교"
+  },
+  {
+    "schoolCode": 1755,
+    "schoolName": "대전여자고등학교"
+  },
+  {
+    "schoolCode": 1756,
+    "schoolName": "대전전민고등학교"
+  },
+  {
+    "schoolCode": 1757,
+    "schoolName": "대전둔원고등학교"
+  },
+  {
+    "schoolCode": 1758,
+    "schoolName": "대전지족고등학교"
+  },
+  {
+    "schoolCode": 1759,
+    "schoolName": "대전구봉고등학교"
+  },
+  {
+    "schoolCode": 1760,
+    "schoolName": "대전노은고등학교"
+  },
+  {
+    "schoolCode": 1761,
+    "schoolName": "동대전고등학교"
+  },
+  {
+    "schoolCode": 1762,
+    "schoolName": "신탄진고등학교"
+  },
+  {
+    "schoolCode": 1763,
+    "schoolName": "유성고등학교"
+  },
+  {
+    "schoolCode": 1764,
+    "schoolName": "충남고등학교"
+  },
+  {
+    "schoolCode": 1765,
+    "schoolName": "충남여자고등학교"
+  },
+  {
+    "schoolCode": 1766,
+    "schoolName": "한밭고등학교"
+  },
+  {
+    "schoolCode": 1767,
+    "schoolName": "남대전고등학교"
+  },
+  {
+    "schoolCode": 1768,
+    "schoolName": "대전대성고등학교"
+  },
+  {
+    "schoolCode": 1769,
+    "schoolName": "대전대신고등학교"
+  },
+  {
+    "schoolCode": 1770,
+    "schoolName": "대전동산고등학교"
+  },
+  {
+    "schoolCode": 1771,
+    "schoolName": "대전제일고등학교"
+  },
+  {
+    "schoolCode": 1772,
+    "schoolName": "대전성모여자고등학교"
+  },
+  {
+    "schoolCode": 1773,
+    "schoolName": "대전괴정고등학교"
+  },
+  {
+    "schoolCode": 1774,
+    "schoolName": "대전용산고등학교"
+  },
+  {
+    "schoolCode": 1775,
+    "schoolName": "대전중앙고등학교"
+  },
+  {
+    "schoolCode": 1776,
+    "schoolName": "동방고등학교"
+  },
+  {
+    "schoolCode": 1777,
+    "schoolName": "명석고등학교"
+  },
+  {
+    "schoolCode": 1778,
+    "schoolName": "보문고등학교"
+  },
+  {
+    "schoolCode": 1779,
+    "schoolName": "우송고등학교"
+  },
+  {
+    "schoolCode": 1780,
+    "schoolName": "대전이문고등학교"
+  },
+  {
+    "schoolCode": 1781,
+    "schoolName": "서대전고등학교"
+  },
+  {
+    "schoolCode": 1782,
+    "schoolName": "서대전여자고등학교"
+  },
+  {
+    "schoolCode": 1783,
+    "schoolName": "서일고등학교"
+  },
+  {
+    "schoolCode": 1784,
+    "schoolName": "서일여자고등학교"
+  },
+  {
+    "schoolCode": 1785,
+    "schoolName": "대전한빛고등학교"
+  },
+  {
+    "schoolCode": 1786,
+    "schoolName": "유성여자고등학교"
+  },
+  {
+    "schoolCode": 1787,
+    "schoolName": "중일고등학교"
+  },
+  {
+    "schoolCode": 1788,
+    "schoolName": "청란여자고등학교"
+  },
+  {
+    "schoolCode": 1789,
+    "schoolName": "호수돈여자고등학교"
+  },
+  {
+    "schoolCode": 1790,
+    "schoolName": "대전가오고등학교"
+  },
+  {
+    "schoolCode": 1791,
+    "schoolName": "대전복수고등학교"
+  },
+  {
+    "schoolCode": 1792,
+    "schoolName": "대전도안고등학교"
+  },
+  {
+    "schoolCode": 1793,
+    "schoolName": "대전체육고등학교"
+  },
+  {
+    "schoolCode": 1794,
+    "schoolName": "대전과학고등학교"
+  },
+  {
+    "schoolCode": 1795,
+    "schoolName": "대전동신과학고등학교"
+  },
+  {
+    "schoolCode": 1796,
+    "schoolName": "대전예술고등학교"
+  },
+  {
+    "schoolCode": 1797,
+    "schoolName": "대전외국어고등학교"
+  },
+  {
+    "schoolCode": 1798,
+    "schoolName": "유성생명과학고등학교"
+  },
+  {
+    "schoolCode": 1799,
+    "schoolName": "대덕소프트웨어마이스터고등학교"
+  },
+  {
+    "schoolCode": 1800,
+    "schoolName": "대전전자디자인고등학교"
+  },
+  {
+    "schoolCode": 1801,
+    "schoolName": "대전공업고등학교"
+  },
+  {
+    "schoolCode": 1802,
+    "schoolName": "충남기계공업고등학교"
+  },
+  {
+    "schoolCode": 1803,
+    "schoolName": "대전생활과학고등학교"
+  },
+  {
+    "schoolCode": 1804,
+    "schoolName": "계룡디지텍고등학교"
+  },
+  {
+    "schoolCode": 1805,
+    "schoolName": "동아마이스터고등학교"
+  },
+  {
+    "schoolCode": 1806,
+    "schoolName": "대전국제통상고등학교"
+  },
+  {
+    "schoolCode": 1807,
+    "schoolName": "대전대성여자고등학교"
+  },
+  {
+    "schoolCode": 1808,
+    "schoolName": "대전여자상업고등학교"
+  },
+  {
+    "schoolCode": 1809,
+    "schoolName": "대전신일여자고등학교"
+  },
+  {
+    "schoolCode": 1810,
+    "schoolName": "문수고등학교"
+  },
+  {
+    "schoolCode": 1811,
+    "schoolName": "천상고등학교"
+  },
+  {
+    "schoolCode": 1812,
+    "schoolName": "남창고등학교"
+  },
+  {
+    "schoolCode": 1813,
+    "schoolName": "다운고등학교"
+  },
+  {
+    "schoolCode": 1814,
+    "schoolName": "남목고등학교"
+  },
+  {
+    "schoolCode": 1815,
+    "schoolName": "우신고등학교"
+  },
+  {
+    "schoolCode": 1816,
+    "schoolName": "범서고등학교"
+  },
+  {
+    "schoolCode": 1817,
+    "schoolName": "울산동천고등학교"
+  },
+  {
+    "schoolCode": 1818,
+    "schoolName": "달천고등학교"
+  },
+  {
+    "schoolCode": 1819,
+    "schoolName": "대송고등학교"
+  },
+  {
+    "schoolCode": 1820,
+    "schoolName": "무거고등학교"
+  },
+  {
+    "schoolCode": 1821,
+    "schoolName": "무룡고등학교"
+  },
+  {
+    "schoolCode": 1822,
+    "schoolName": "문현고등학교"
+  },
+  {
+    "schoolCode": 1823,
+    "schoolName": "방어진고등학교"
+  },
+  {
+    "schoolCode": 1824,
+    "schoolName": "신정고등학교"
+  },
+  {
+    "schoolCode": 1825,
+    "schoolName": "울산여자고등학교"
+  },
+  {
+    "schoolCode": 1826,
+    "schoolName": "온산고등학교"
+  },
+  {
+    "schoolCode": 1827,
+    "schoolName": "울산중앙고등학교"
+  },
+  {
+    "schoolCode": 1828,
+    "schoolName": "울산중앙여자고등학교"
+  },
+  {
+    "schoolCode": 1829,
+    "schoolName": "학성고등학교"
+  },
+  {
+    "schoolCode": 1830,
+    "schoolName": "학성여자고등학교"
+  },
+  {
+    "schoolCode": 1831,
+    "schoolName": "호계고등학교"
+  },
+  {
+    "schoolCode": 1832,
+    "schoolName": "화암고등학교"
+  },
+  {
+    "schoolCode": 1833,
+    "schoolName": "울산강남고등학교"
+  },
+  {
+    "schoolCode": 1834,
+    "schoolName": "약사고등학교"
+  },
+  {
+    "schoolCode": 1835,
+    "schoolName": "언양고등학교"
+  },
+  {
+    "schoolCode": 1836,
+    "schoolName": "효정고등학교"
+  },
+  {
+    "schoolCode": 1837,
+    "schoolName": "대현고등학교"
+  },
+  {
+    "schoolCode": 1838,
+    "schoolName": "함월고등학교"
+  },
+  {
+    "schoolCode": 1839,
+    "schoolName": "신선여자고등학교"
+  },
+  {
+    "schoolCode": 1840,
+    "schoolName": "삼산고등학교"
+  },
+  {
+    "schoolCode": 1841,
+    "schoolName": "삼일여자고등학교"
+  },
+  {
+    "schoolCode": 1842,
+    "schoolName": "성광여자고등학교"
+  },
+  {
+    "schoolCode": 1843,
+    "schoolName": "성신고등학교"
+  },
+  {
+    "schoolCode": 1844,
+    "schoolName": "울산경의고등학교"
+  },
+  {
+    "schoolCode": 1845,
+    "schoolName": "울산고등학교"
+  },
+  {
+    "schoolCode": 1846,
+    "schoolName": "울산제일고등학교"
+  },
+  {
+    "schoolCode": 1847,
+    "schoolName": "화봉고등학교"
+  },
+  {
+    "schoolCode": 1848,
+    "schoolName": "현대고등학교"
+  },
+  {
+    "schoolCode": 1849,
+    "schoolName": "매곡고등학교"
+  },
+  {
+    "schoolCode": 1850,
+    "schoolName": "현대청운고등학교"
+  },
+  {
+    "schoolCode": 1851,
+    "schoolName": "세인고등학교"
+  },
+  {
+    "schoolCode": 1852,
+    "schoolName": "울산스포츠과학고등학교"
+  },
+  {
+    "schoolCode": 1853,
+    "schoolName": "울산과학고등학교"
+  },
+  {
+    "schoolCode": 1854,
+    "schoolName": "울산예술고등학교"
+  },
+  {
+    "schoolCode": 1855,
+    "schoolName": "울산외국어고등학교"
+  },
+  {
+    "schoolCode": 1856,
+    "schoolName": "울산공업고등학교"
+  },
+  {
+    "schoolCode": 1857,
+    "schoolName": "울산애니원고등학교"
+  },
+  {
+    "schoolCode": 1858,
+    "schoolName": "울산마이스터고등학교"
+  },
+  {
+    "schoolCode": 1859,
+    "schoolName": "울산에너지고등학교"
+  },
+  {
+    "schoolCode": 1860,
+    "schoolName": "울산기술공업고등학교"
+  },
+  {
+    "schoolCode": 1861,
+    "schoolName": "현대공업고등학교"
+  },
+  {
+    "schoolCode": 1862,
+    "schoolName": "울산상업고등학교"
+  },
+  {
+    "schoolCode": 1863,
+    "schoolName": "울산여자상업고등학교"
+  },
+  {
+    "schoolCode": 1864,
+    "schoolName": "울산산업고등학교"
+  },
+  {
+    "schoolCode": 1865,
+    "schoolName": "울산미용예술고등학교"
+  },
+  {
+    "schoolCode": 1866,
+    "schoolName": "울산생활과학고등학교"
+  },
+  {
+    "schoolCode": 1867,
+    "schoolName": "도담고등학교"
+  },
+  {
+    "schoolCode": 1868,
+    "schoolName": "세종여자고등학교"
+  },
+  {
+    "schoolCode": 1869,
+    "schoolName": "세종고등학교"
+  },
+  {
+    "schoolCode": 1870,
+    "schoolName": "성남고등학교"
+  },
+  {
+    "schoolCode": 1871,
+    "schoolName": "한솔고등학교"
+  },
+  {
+    "schoolCode": 1872,
+    "schoolName": "아름고등학교"
+  },
+  {
+    "schoolCode": 1873,
+    "schoolName": "고운고등학교"
+  },
+  {
+    "schoolCode": 1874,
+    "schoolName": "두루고등학교"
+  },
+  {
+    "schoolCode": 1875,
+    "schoolName": "양지고등학교"
+  },
+  {
+    "schoolCode": 1876,
+    "schoolName": "종촌고등학교"
+  },
+  {
+    "schoolCode": 1877,
+    "schoolName": "보람고등학교"
+  },
+  {
+    "schoolCode": 1878,
+    "schoolName": "소담고등학교"
+  },
+  {
+    "schoolCode": 1879,
+    "schoolName": "새롬고등학교"
+  },
+  {
+    "schoolCode": 1880,
+    "schoolName": "다정고등학교"
+  },
+  {
+    "schoolCode": 1881,
+    "schoolName": "세종과학예술영재학교"
+  },
+  {
+    "schoolCode": 1882,
+    "schoolName": "세종예술고등학교"
+  },
+  {
+    "schoolCode": 1883,
+    "schoolName": "세종국제고등학교"
+  },
+  {
+    "schoolCode": 1884,
+    "schoolName": "세종하이텍고등학교"
+  },
+  {
+    "schoolCode": 1885,
+    "schoolName": "김포제일고등학교"
+  },
+  {
+    "schoolCode": 1886,
+    "schoolName": "매홀고등학교"
+  },
+  {
+    "schoolCode": 1887,
+    "schoolName": "수원칠보고등학교"
+  },
+  {
+    "schoolCode": 1888,
+    "schoolName": "한빛고등학교"
+  },
+  {
+    "schoolCode": 1889,
+    "schoolName": "초월고등학교"
+  },
+  {
+    "schoolCode": 1890,
+    "schoolName": "한민고등학교"
+  },
+  {
+    "schoolCode": 1891,
+    "schoolName": "별내고등학교"
+  },
+  {
+    "schoolCode": 1892,
+    "schoolName": "고양동산고등학교"
+  },
+  {
+    "schoolCode": 1893,
+    "schoolName": "위례고등학교"
+  },
+  {
+    "schoolCode": 1894,
+    "schoolName": "위례한빛고등학교"
+  },
+  {
+    "schoolCode": 1895,
+    "schoolName": "하길고등학교"
+  },
+  {
+    "schoolCode": 1896,
+    "schoolName": "가좌고등학교"
+  },
+  {
+    "schoolCode": 1897,
+    "schoolName": "가평고등학교"
+  },
+  {
+    "schoolCode": 1898,
+    "schoolName": "가운고등학교"
+  },
+  {
+    "schoolCode": 1899,
+    "schoolName": "덕현고등학교"
+  },
+  {
+    "schoolCode": 1900,
+    "schoolName": "동패고등학교"
+  },
+  {
+    "schoolCode": 1901,
+    "schoolName": "마석고등학교"
+  },
+  {
+    "schoolCode": 1902,
+    "schoolName": "판교고등학교"
+  },
+  {
+    "schoolCode": 1903,
+    "schoolName": "성복고등학교"
+  },
+  {
+    "schoolCode": 1904,
+    "schoolName": "운산고등학교"
+  },
+  {
+    "schoolCode": 1905,
+    "schoolName": "율천고등학교"
+  },
+  {
+    "schoolCode": 1906,
+    "schoolName": "경기대명고등학교"
+  },
+  {
+    "schoolCode": 1907,
+    "schoolName": "이현고등학교"
+  },
+  {
+    "schoolCode": 1908,
+    "schoolName": "저현고등학교"
+  },
+  {
+    "schoolCode": 1909,
+    "schoolName": "세교고등학교"
+  },
+  {
+    "schoolCode": 1910,
+    "schoolName": "계남고등학교"
+  },
+  {
+    "schoolCode": 1911,
+    "schoolName": "고색고등학교"
+  },
+  {
+    "schoolCode": 1912,
+    "schoolName": "고잔고등학교"
+  },
+  {
+    "schoolCode": 1913,
+    "schoolName": "교하고등학교"
+  },
+  {
+    "schoolCode": 1914,
+    "schoolName": "이산고등학교"
+  },
+  {
+    "schoolCode": 1915,
+    "schoolName": "과천고등학교"
+  },
+  {
+    "schoolCode": 1916,
+    "schoolName": "군서고등학교"
+  },
+  {
+    "schoolCode": 1917,
+    "schoolName": "과천중앙고등학교"
+  },
+  {
+    "schoolCode": 1918,
+    "schoolName": "관양고등학교"
+  },
+  {
+    "schoolCode": 1919,
+    "schoolName": "관인고등학교"
+  },
+  {
+    "schoolCode": 1920,
+    "schoolName": "고양일고등학교"
+  },
+  {
+    "schoolCode": 1921,
+    "schoolName": "광남고등학교"
+  },
+  {
+    "schoolCode": 1922,
+    "schoolName": "광명고등학교"
+  },
+  {
+    "schoolCode": 1923,
+    "schoolName": "광명북고등학교"
+  },
+  {
+    "schoolCode": 1924,
+    "schoolName": "명문고등학교"
+  },
+  {
+    "schoolCode": 1925,
+    "schoolName": "광문고등학교"
+  },
+  {
+    "schoolCode": 1926,
+    "schoolName": "광주고등학교"
+  },
+  {
+    "schoolCode": 1927,
+    "schoolName": "구리고등학교"
+  },
+  {
+    "schoolCode": 1928,
+    "schoolName": "구리여자고등학교"
+  },
+  {
+    "schoolCode": 1929,
+    "schoolName": "구성고등학교"
+  },
+  {
+    "schoolCode": 1930,
+    "schoolName": "금촌고등학교"
+  },
+  {
+    "schoolCode": 1931,
+    "schoolName": "광교고등학교"
+  },
+  {
+    "schoolCode": 1932,
+    "schoolName": "권선고등학교"
+  },
+  {
+    "schoolCode": 1933,
+    "schoolName": "기흥고등학교"
+  },
+  {
+    "schoolCode": 1934,
+    "schoolName": "김포고등학교"
+  },
+  {
+    "schoolCode": 1935,
+    "schoolName": "나루고등학교"
+  },
+  {
+    "schoolCode": 1936,
+    "schoolName": "남한고등학교"
+  },
+  {
+    "schoolCode": 1937,
+    "schoolName": "늘푸른고등학교"
+  },
+  {
+    "schoolCode": 1938,
+    "schoolName": "능곡고등학교"
+  },
+  {
+    "schoolCode": 1939,
+    "schoolName": "단원고등학교"
+  },
+  {
+    "schoolCode": 1940,
+    "schoolName": "대지고등학교"
+  },
+  {
+    "schoolCode": 1941,
+    "schoolName": "대평고등학교"
+  },
+  {
+    "schoolCode": 1942,
+    "schoolName": "덕계고등학교"
+  },
+  {
+    "schoolCode": 1943,
+    "schoolName": "덕산고등학교"
+  },
+  {
+    "schoolCode": 1944,
+    "schoolName": "망포고등학교"
+  },
+  {
+    "schoolCode": 1945,
+    "schoolName": "매원고등학교"
+  },
+  {
+    "schoolCode": 1946,
+    "schoolName": "덕정고등학교"
+  },
+  {
+    "schoolCode": 1947,
+    "schoolName": "도농고등학교"
+  },
+  {
+    "schoolCode": 1948,
+    "schoolName": "도당고등학교"
+  },
+  {
+    "schoolCode": 1949,
+    "schoolName": "동백고등학교"
+  },
+  {
+    "schoolCode": 1950,
+    "schoolName": "돌마고등학교"
+  },
+  {
+    "schoolCode": 1951,
+    "schoolName": "동안고등학교"
+  },
+  {
+    "schoolCode": 1952,
+    "schoolName": "동탄고등학교"
+  },
+  {
+    "schoolCode": 1953,
+    "schoolName": "매탄고등학교"
+  },
+  {
+    "schoolCode": 1954,
+    "schoolName": "무원고등학교"
+  },
+  {
+    "schoolCode": 1955,
+    "schoolName": "문산고등학교"
+  },
+  {
+    "schoolCode": 1956,
+    "schoolName": "반송고등학교"
+  },
+  {
+    "schoolCode": 1957,
+    "schoolName": "범박고등학교"
+  },
+  {
+    "schoolCode": 1958,
+    "schoolName": "백마고등학교"
+  },
+  {
+    "schoolCode": 1959,
+    "schoolName": "백석고등학교"
+  },
+  {
+    "schoolCode": 1960,
+    "schoolName": "보라고등학교"
+  },
+  {
+    "schoolCode": 1961,
+    "schoolName": "백신고등학교"
+  },
+  {
+    "schoolCode": 1962,
+    "schoolName": "백양고등학교"
+  },
+  {
+    "schoolCode": 1963,
+    "schoolName": "마장고등학교"
+  },
+  {
+    "schoolCode": 1964,
+    "schoolName": "백운고등학교"
+  },
+  {
+    "schoolCode": 1965,
+    "schoolName": "병점고등학교"
+  },
+  {
+    "schoolCode": 1966,
+    "schoolName": "보정고등학교"
+  },
+  {
+    "schoolCode": 1967,
+    "schoolName": "봉일천고등학교"
+  },
+  {
+    "schoolCode": 1968,
+    "schoolName": "부명고등학교"
+  },
+  {
+    "schoolCode": 1969,
+    "schoolName": "봉담고등학교"
+  },
+  {
+    "schoolCode": 1970,
+    "schoolName": "양주고등학교"
+  },
+  {
+    "schoolCode": 1971,
+    "schoolName": "상동고등학교"
+  },
+  {
+    "schoolCode": 1972,
+    "schoolName": "부천고등학교"
+  },
+  {
+    "schoolCode": 1973,
+    "schoolName": "부천북고등학교"
+  },
+  {
+    "schoolCode": 1974,
+    "schoolName": "부천여자고등학교"
+  },
+  {
+    "schoolCode": 1975,
+    "schoolName": "부흥고등학교"
+  },
+  {
+    "schoolCode": 1976,
+    "schoolName": "분당고등학교"
+  },
+  {
+    "schoolCode": 1977,
+    "schoolName": "분당중앙고등학교"
+  },
+  {
+    "schoolCode": 1978,
+    "schoolName": "불곡고등학교"
+  },
+  {
+    "schoolCode": 1979,
+    "schoolName": "사우고등학교"
+  },
+  {
+    "schoolCode": 1980,
+    "schoolName": "상원고등학교"
+  },
+  {
+    "schoolCode": 1981,
+    "schoolName": "산본고등학교"
+  },
+  {
+    "schoolCode": 1982,
+    "schoolName": "상일고등학교"
+  },
+  {
+    "schoolCode": 1983,
+    "schoolName": "서원고등학교"
+  },
+  {
+    "schoolCode": 1984,
+    "schoolName": "역곡고등학교"
+  },
+  {
+    "schoolCode": 1985,
+    "schoolName": "운양고등학교"
+  },
+  {
+    "schoolCode": 1986,
+    "schoolName": "서현고등학교"
+  },
+  {
+    "schoolCode": 1987,
+    "schoolName": "서해고등학교"
+  },
+  {
+    "schoolCode": 1988,
+    "schoolName": "선부고등학교"
+  },
+  {
+    "schoolCode": 1989,
+    "schoolName": "설악고등학교"
+  },
+  {
+    "schoolCode": 1990,
+    "schoolName": "소래고등학교"
+  },
+  {
+    "schoolCode": 1991,
+    "schoolName": "성남고등학교"
+  },
+  {
+    "schoolCode": 1992,
+    "schoolName": "성사고등학교"
+  },
+  {
+    "schoolCode": 1993,
+    "schoolName": "성지고등학교"
+  },
+  {
+    "schoolCode": 1994,
+    "schoolName": "성남여자고등학교"
+  },
+  {
+    "schoolCode": 1995,
+    "schoolName": "성안고등학교"
+  },
+  {
+    "schoolCode": 1996,
+    "schoolName": "성호고등학교"
+  },
+  {
+    "schoolCode": 1997,
+    "schoolName": "송내고등학교"
+  },
+  {
+    "schoolCode": 1998,
+    "schoolName": "소사고등학교"
+  },
+  {
+    "schoolCode": 1999,
+    "schoolName": "소하고등학교"
+  },
+  {
+    "schoolCode": 2000,
+    "schoolName": "수내고등학교"
+  },
+  {
+    "schoolCode": 2001,
+    "schoolName": "수리고등학교"
+  },
+  {
+    "schoolCode": 2002,
+    "schoolName": "수성고등학교"
+  },
+  {
+    "schoolCode": 2003,
+    "schoolName": "지평고등학교"
+  },
+  {
+    "schoolCode": 2004,
+    "schoolName": "수택고등학교"
+  },
+  {
+    "schoolCode": 2005,
+    "schoolName": "수주고등학교"
+  },
+  {
+    "schoolCode": 2006,
+    "schoolName": "수원여자고등학교"
+  },
+  {
+    "schoolCode": 2007,
+    "schoolName": "수일고등학교"
+  },
+  {
+    "schoolCode": 2008,
+    "schoolName": "수지고등학교"
+  },
+  {
+    "schoolCode": 2009,
+    "schoolName": "숙지고등학교"
+  },
+  {
+    "schoolCode": 2010,
+    "schoolName": "심원고등학교"
+  },
+  {
+    "schoolCode": 2011,
+    "schoolName": "시흥고등학교"
+  },
+  {
+    "schoolCode": 2012,
+    "schoolName": "신장고등학교"
+  },
+  {
+    "schoolCode": 2013,
+    "schoolName": "안곡고등학교"
+  },
+  {
+    "schoolCode": 2014,
+    "schoolName": "안성고등학교"
+  },
+  {
+    "schoolCode": 2015,
+    "schoolName": "시흥능곡고등학교"
+  },
+  {
+    "schoolCode": 2016,
+    "schoolName": "시흥매화고등학교"
+  },
+  {
+    "schoolCode": 2017,
+    "schoolName": "신길고등학교"
+  },
+  {
+    "schoolCode": 2018,
+    "schoolName": "안성여자고등학교"
+  },
+  {
+    "schoolCode": 2019,
+    "schoolName": "안양고등학교"
+  },
+  {
+    "schoolCode": 2020,
+    "schoolName": "안화고등학교"
+  },
+  {
+    "schoolCode": 2021,
+    "schoolName": "양주백석고등학교"
+  },
+  {
+    "schoolCode": 2022,
+    "schoolName": "양지고등학교"
+  },
+  {
+    "schoolCode": 2023,
+    "schoolName": "송우고등학교"
+  },
+  {
+    "schoolCode": 2024,
+    "schoolName": "세종고등학교"
+  },
+  {
+    "schoolCode": 2025,
+    "schoolName": "예당고등학교"
+  },
+  {
+    "schoolCode": 2026,
+    "schoolName": "영덕고등학교"
+  },
+  {
+    "schoolCode": 2027,
+    "schoolName": "와부고등학교"
+  },
+  {
+    "schoolCode": 2028,
+    "schoolName": "용인고등학교"
+  },
+  {
+    "schoolCode": 2029,
+    "schoolName": "용인백현고등학교"
+  },
+  {
+    "schoolCode": 2030,
+    "schoolName": "용호고등학교"
+  },
+  {
+    "schoolCode": 2031,
+    "schoolName": "운암고등학교"
+  },
+  {
+    "schoolCode": 2032,
+    "schoolName": "운천고등학교"
+  },
+  {
+    "schoolCode": 2033,
+    "schoolName": "원곡고등학교"
+  },
+  {
+    "schoolCode": 2034,
+    "schoolName": "정현고등학교"
+  },
+  {
+    "schoolCode": 2035,
+    "schoolName": "원미고등학교"
+  },
+  {
+    "schoolCode": 2036,
+    "schoolName": "원종고등학교"
+  },
+  {
+    "schoolCode": 2037,
+    "schoolName": "은행고등학교"
+  },
+  {
+    "schoolCode": 2038,
+    "schoolName": "의정부고등학교"
+  },
+  {
+    "schoolCode": 2039,
+    "schoolName": "의정부여자고등학교"
+  },
+  {
+    "schoolCode": 2040,
+    "schoolName": "부용고등학교"
+  },
+  {
+    "schoolCode": 2041,
+    "schoolName": "율면고등학교"
+  },
+  {
+    "schoolCode": 2042,
+    "schoolName": "갈매고등학교"
+  },
+  {
+    "schoolCode": 2043,
+    "schoolName": "이매고등학교"
+  },
+  {
+    "schoolCode": 2044,
+    "schoolName": "상현고등학교"
+  },
+  {
+    "schoolCode": 2045,
+    "schoolName": "이천고등학교"
+  },
+  {
+    "schoolCode": 2046,
+    "schoolName": "상록고등학교"
+  },
+  {
+    "schoolCode": 2047,
+    "schoolName": "오남고등학교"
+  },
+  {
+    "schoolCode": 2048,
+    "schoolName": "이포고등학교"
+  },
+  {
+    "schoolCode": 2049,
+    "schoolName": "인덕원고등학교"
+  },
+  {
+    "schoolCode": 2050,
+    "schoolName": "인창고등학교"
+  },
+  {
+    "schoolCode": 2051,
+    "schoolName": "일산동고등학교"
+  },
+  {
+    "schoolCode": 2052,
+    "schoolName": "장곡고등학교"
+  },
+  {
+    "schoolCode": 2053,
+    "schoolName": "장안고등학교"
+  },
+  {
+    "schoolCode": 2054,
+    "schoolName": "장호원고등학교"
+  },
+  {
+    "schoolCode": 2055,
+    "schoolName": "의왕고등학교"
+  },
+  {
+    "schoolCode": 2056,
+    "schoolName": "이충고등학교"
+  },
+  {
+    "schoolCode": 2057,
+    "schoolName": "저동고등학교"
+  },
+  {
+    "schoolCode": 2058,
+    "schoolName": "정발고등학교"
+  },
+  {
+    "schoolCode": 2059,
+    "schoolName": "정왕고등학교"
+  },
+  {
+    "schoolCode": 2060,
+    "schoolName": "주엽고등학교"
+  },
+  {
+    "schoolCode": 2061,
+    "schoolName": "죽전고등학교"
+  },
+  {
+    "schoolCode": 2062,
+    "schoolName": "조원고등학교"
+  },
+  {
+    "schoolCode": 2063,
+    "schoolName": "중산고등학교"
+  },
+  {
+    "schoolCode": 2064,
+    "schoolName": "중원고등학교"
+  },
+  {
+    "schoolCode": 2065,
+    "schoolName": "중흥고등학교"
+  },
+  {
+    "schoolCode": 2066,
+    "schoolName": "진건고등학교"
+  },
+  {
+    "schoolCode": 2067,
+    "schoolName": "천천고등학교"
+  },
+  {
+    "schoolCode": 2068,
+    "schoolName": "청명고등학교"
+  },
+  {
+    "schoolCode": 2069,
+    "schoolName": "청덕고등학교"
+  },
+  {
+    "schoolCode": 2070,
+    "schoolName": "청운고등학교"
+  },
+  {
+    "schoolCode": 2071,
+    "schoolName": "청학고등학교"
+  },
+  {
+    "schoolCode": 2072,
+    "schoolName": "초지고등학교"
+  },
+  {
+    "schoolCode": 2073,
+    "schoolName": "초당고등학교"
+  },
+  {
+    "schoolCode": 2074,
+    "schoolName": "충현고등학교"
+  },
+  {
+    "schoolCode": 2075,
+    "schoolName": "충훈고등학교"
+  },
+  {
+    "schoolCode": 2076,
+    "schoolName": "태장고등학교"
+  },
+  {
+    "schoolCode": 2077,
+    "schoolName": "토평고등학교"
+  },
+  {
+    "schoolCode": 2078,
+    "schoolName": "퇴계원고등학교"
+  },
+  {
+    "schoolCode": 2079,
+    "schoolName": "평내고등학교"
+  },
+  {
+    "schoolCode": 2080,
+    "schoolName": "창의고등학교"
+  },
+  {
+    "schoolCode": 2081,
+    "schoolName": "평촌고등학교"
+  },
+  {
+    "schoolCode": 2082,
+    "schoolName": "태광고등학교"
+  },
+  {
+    "schoolCode": 2083,
+    "schoolName": "점동고등학교"
+  },
+  {
+    "schoolCode": 2084,
+    "schoolName": "비전고등학교"
+  },
+  {
+    "schoolCode": 2085,
+    "schoolName": "평택고등학교"
+  },
+  {
+    "schoolCode": 2086,
+    "schoolName": "포곡고등학교"
+  },
+  {
+    "schoolCode": 2087,
+    "schoolName": "포천고등학교"
+  },
+  {
+    "schoolCode": 2088,
+    "schoolName": "함현고등학교"
+  },
+  {
+    "schoolCode": 2089,
+    "schoolName": "행신고등학교"
+  },
+  {
+    "schoolCode": 2090,
+    "schoolName": "한솔고등학교"
+  },
+  {
+    "schoolCode": 2091,
+    "schoolName": "화수고등학교"
+  },
+  {
+    "schoolCode": 2092,
+    "schoolName": "화정고등학교"
+  },
+  {
+    "schoolCode": 2093,
+    "schoolName": "화홍고등학교"
+  },
+  {
+    "schoolCode": 2094,
+    "schoolName": "효원고등학교"
+  },
+  {
+    "schoolCode": 2095,
+    "schoolName": "청평고등학교"
+  },
+  {
+    "schoolCode": 2096,
+    "schoolName": "흥진고등학교"
+  },
+  {
+    "schoolCode": 2097,
+    "schoolName": "성포고등학교"
+  },
+  {
+    "schoolCode": 2098,
+    "schoolName": "송탄고등학교"
+  },
+  {
+    "schoolCode": 2099,
+    "schoolName": "송호고등학교"
+  },
+  {
+    "schoolCode": 2100,
+    "schoolName": "송현고등학교"
+  },
+  {
+    "schoolCode": 2101,
+    "schoolName": "향남고등학교"
+  },
+  {
+    "schoolCode": 2102,
+    "schoolName": "풍덕고등학교"
+  },
+  {
+    "schoolCode": 2103,
+    "schoolName": "풍동고등학교"
+  },
+  {
+    "schoolCode": 2104,
+    "schoolName": "풍무고등학교"
+  },
+  {
+    "schoolCode": 2105,
+    "schoolName": "현화고등학교"
+  },
+  {
+    "schoolCode": 2106,
+    "schoolName": "현암고등학교"
+  },
+  {
+    "schoolCode": 2107,
+    "schoolName": "호평고등학교"
+  },
+  {
+    "schoolCode": 2108,
+    "schoolName": "호원고등학교"
+  },
+  {
+    "schoolCode": 2109,
+    "schoolName": "홍천고등학교"
+  },
+  {
+    "schoolCode": 2110,
+    "schoolName": "효양고등학교"
+  },
+  {
+    "schoolCode": 2111,
+    "schoolName": "효자고등학교"
+  },
+  {
+    "schoolCode": 2112,
+    "schoolName": "경민고등학교"
+  },
+  {
+    "schoolCode": 2113,
+    "schoolName": "경화여자고등학교"
+  },
+  {
+    "schoolCode": 2114,
+    "schoolName": "경안고등학교"
+  },
+  {
+    "schoolCode": 2115,
+    "schoolName": "과천여자고등학교"
+  },
+  {
+    "schoolCode": 2116,
+    "schoolName": "대화고등학교"
+  },
+  {
+    "schoolCode": 2117,
+    "schoolName": "백송고등학교"
+  },
+  {
+    "schoolCode": 2118,
+    "schoolName": "의정부광동고등학교"
+  },
+  {
+    "schoolCode": 2119,
+    "schoolName": "부곡고등학교"
+  },
+  {
+    "schoolCode": 2120,
+    "schoolName": "군포고등학교"
+  },
+  {
+    "schoolCode": 2121,
+    "schoolName": "낙생고등학교"
+  },
+  {
+    "schoolCode": 2122,
+    "schoolName": "대신고등학교"
+  },
+  {
+    "schoolCode": 2123,
+    "schoolName": "덕소고등학교"
+  },
+  {
+    "schoolCode": 2124,
+    "schoolName": "판곡고등학교"
+  },
+  {
+    "schoolCode": 2125,
+    "schoolName": "동남고등학교"
+  },
+  {
+    "schoolCode": 2126,
+    "schoolName": "동두천고등학교"
+  },
+  {
+    "schoolCode": 2127,
+    "schoolName": "동우여자고등학교"
+  },
+  {
+    "schoolCode": 2128,
+    "schoolName": "동원고등학교"
+  },
+  {
+    "schoolCode": 2129,
+    "schoolName": "장기고등학교"
+  },
+  {
+    "schoolCode": 2130,
+    "schoolName": "동화고등학교"
+  },
+  {
+    "schoolCode": 2131,
+    "schoolName": "두레자연고등학교"
+  },
+  {
+    "schoolCode": 2132,
+    "schoolName": "백영고등학교"
+  },
+  {
+    "schoolCode": 2133,
+    "schoolName": "분당대진고등학교"
+  },
+  {
+    "schoolCode": 2134,
+    "schoolName": "보영여자고등학교"
+  },
+  {
+    "schoolCode": 2135,
+    "schoolName": "곡정고등학교"
+  },
+  {
+    "schoolCode": 2136,
+    "schoolName": "한백고등학교"
+  },
+  {
+    "schoolCode": 2137,
+    "schoolName": "삼광고등학교"
+  },
+  {
+    "schoolCode": 2138,
+    "schoolName": "상우고등학교"
+  },
+  {
+    "schoolCode": 2139,
+    "schoolName": "삼괴고등학교"
+  },
+  {
+    "schoolCode": 2140,
+    "schoolName": "서울삼육고등학교"
+  },
+  {
+    "schoolCode": 2141,
+    "schoolName": "성문고등학교"
+  },
+  {
+    "schoolCode": 2142,
+    "schoolName": "성일고등학교"
+  },
+  {
+    "schoolCode": 2143,
+    "schoolName": "동광고등학교"
+  },
+  {
+    "schoolCode": 2144,
+    "schoolName": "세원고등학교"
+  },
+  {
+    "schoolCode": 2145,
+    "schoolName": "소명여자고등학교"
+  },
+  {
+    "schoolCode": 2146,
+    "schoolName": "송림고등학교"
+  },
+  {
+    "schoolCode": 2147,
+    "schoolName": "라온고등학교"
+  },
+  {
+    "schoolCode": 2148,
+    "schoolName": "운정고등학교"
+  },
+  {
+    "schoolCode": 2149,
+    "schoolName": "수원고등학교"
+  },
+  {
+    "schoolCode": 2150,
+    "schoolName": "송산고등학교"
+  },
+  {
+    "schoolCode": 2151,
+    "schoolName": "숭신여자고등학교"
+  },
+  {
+    "schoolCode": 2152,
+    "schoolName": "시온고등학교"
+  },
+  {
+    "schoolCode": 2153,
+    "schoolName": "신갈고등학교"
+  },
+  {
+    "schoolCode": 2154,
+    "schoolName": "솔터고등학교"
+  },
+  {
+    "schoolCode": 2155,
+    "schoolName": "심석고등학교"
+  },
+  {
+    "schoolCode": 2156,
+    "schoolName": "신성고등학교"
+  },
+  {
+    "schoolCode": 2157,
+    "schoolName": "신한고등학교"
+  },
+  {
+    "schoolCode": 2158,
+    "schoolName": "신흥고등학교"
+  },
+  {
+    "schoolCode": 2159,
+    "schoolName": "안법고등학교"
+  },
+  {
+    "schoolCode": 2160,
+    "schoolName": "안산동산고등학교"
+  },
+  {
+    "schoolCode": 2161,
+    "schoolName": "안산강서고등학교"
+  },
+  {
+    "schoolCode": 2162,
+    "schoolName": "안산고등학교"
+  },
+  {
+    "schoolCode": 2163,
+    "schoolName": "안양여자고등학교"
+  },
+  {
+    "schoolCode": 2164,
+    "schoolName": "호매실고등학교"
+  },
+  {
+    "schoolCode": 2165,
+    "schoolName": "야탑고등학교"
+  },
+  {
+    "schoolCode": 2166,
+    "schoolName": "양명고등학교"
+  },
+  {
+    "schoolCode": 2167,
+    "schoolName": "양곡고등학교"
+  },
+  {
+    "schoolCode": 2168,
+    "schoolName": "양명여자고등학교"
+  },
+  {
+    "schoolCode": 2169,
+    "schoolName": "여주고등학교"
+  },
+  {
+    "schoolCode": 2170,
+    "schoolName": "양일고등학교"
+  },
+  {
+    "schoolCode": 2171,
+    "schoolName": "분당영덕여자고등학교"
+  },
+  {
+    "schoolCode": 2172,
+    "schoolName": "영복여자고등학교"
+  },
+  {
+    "schoolCode": 2173,
+    "schoolName": "여강고등학교"
+  },
+  {
+    "schoolCode": 2174,
+    "schoolName": "영생고등학교"
+  },
+  {
+    "schoolCode": 2175,
+    "schoolName": "동국대학교사범대학부속영석고등학교"
+  },
+  {
+    "schoolCode": 2176,
+    "schoolName": "영신여자고등학교"
+  },
+  {
+    "schoolCode": 2177,
+    "schoolName": "오산고등학교"
+  },
+  {
+    "schoolCode": 2178,
+    "schoolName": "광휘고등학교"
+  },
+  {
+    "schoolCode": 2179,
+    "schoolName": "우성고등학교"
+  },
+  {
+    "schoolCode": 2180,
+    "schoolName": "유신고등학교"
+  },
+  {
+    "schoolCode": 2181,
+    "schoolName": "모락고등학교"
+  },
+  {
+    "schoolCode": 2182,
+    "schoolName": "이천양정여자고등학교"
+  },
+  {
+    "schoolCode": 2183,
+    "schoolName": "율곡고등학교"
+  },
+  {
+    "schoolCode": 2184,
+    "schoolName": "이우고등학교"
+  },
+  {
+    "schoolCode": 2185,
+    "schoolName": "일산대진고등학교"
+  },
+  {
+    "schoolCode": 2186,
+    "schoolName": "정명고등학교"
+  },
+  {
+    "schoolCode": 2187,
+    "schoolName": "향일고등학교"
+  },
+  {
+    "schoolCode": 2188,
+    "schoolName": "지산고등학교"
+  },
+  {
+    "schoolCode": 2189,
+    "schoolName": "별가람고등학교"
+  },
+  {
+    "schoolCode": 2190,
+    "schoolName": "진성고등학교"
+  },
+  {
+    "schoolCode": 2191,
+    "schoolName": "창현고등학교"
+  },
+  {
+    "schoolCode": 2192,
+    "schoolName": "용인한국외국어대학교부설고등학교"
+  },
+  {
+    "schoolCode": 2193,
+    "schoolName": "태성고등학교"
+  },
+  {
+    "schoolCode": 2194,
+    "schoolName": "미사강변고등학교"
+  },
+  {
+    "schoolCode": 2195,
+    "schoolName": "태원고등학교"
+  },
+  {
+    "schoolCode": 2196,
+    "schoolName": "태전고등학교"
+  },
+  {
+    "schoolCode": 2197,
+    "schoolName": "신봉고등학교"
+  },
+  {
+    "schoolCode": 2198,
+    "schoolName": "배곧고등학교"
+  },
+  {
+    "schoolCode": 2199,
+    "schoolName": "고림고등학교"
+  },
+  {
+    "schoolCode": 2200,
+    "schoolName": "서정고등학교"
+  },
+  {
+    "schoolCode": 2201,
+    "schoolName": "풍생고등학교"
+  },
+  {
+    "schoolCode": 2202,
+    "schoolName": "하남고등학교"
+  },
+  {
+    "schoolCode": 2203,
+    "schoolName": "한광고등학교"
+  },
+  {
+    "schoolCode": 2204,
+    "schoolName": "한광여자고등학교"
+  },
+  {
+    "schoolCode": 2205,
+    "schoolName": "덕이고등학교"
+  },
+  {
+    "schoolCode": 2206,
+    "schoolName": "군포중앙고등학교"
+  },
+  {
+    "schoolCode": 2207,
+    "schoolName": "파주고등학교"
+  },
+  {
+    "schoolCode": 2208,
+    "schoolName": "화성고등학교"
+  },
+  {
+    "schoolCode": 2209,
+    "schoolName": "효성고등학교"
+  },
+  {
+    "schoolCode": 2210,
+    "schoolName": "마송고등학교"
+  },
+  {
+    "schoolCode": 2211,
+    "schoolName": "진접고등학교"
+  },
+  {
+    "schoolCode": 2212,
+    "schoolName": "보평고등학교"
+  },
+  {
+    "schoolCode": 2213,
+    "schoolName": "복정고등학교"
+  },
+  {
+    "schoolCode": 2214,
+    "schoolName": "운중고등학교"
+  },
+  {
+    "schoolCode": 2215,
+    "schoolName": "신천고등학교"
+  },
+  {
+    "schoolCode": 2216,
+    "schoolName": "광덕고등학교"
+  },
+  {
+    "schoolCode": 2217,
+    "schoolName": "경기창조고등학교"
+  },
+  {
+    "schoolCode": 2218,
+    "schoolName": "세마고등학교"
+  },
+  {
+    "schoolCode": 2219,
+    "schoolName": "흥덕고등학교"
+  },
+  {
+    "schoolCode": 2220,
+    "schoolName": "발곡고등학교"
+  },
+  {
+    "schoolCode": 2221,
+    "schoolName": "능동고등학교"
+  },
+  {
+    "schoolCode": 2222,
+    "schoolName": "광동고등학교"
+  },
+  {
+    "schoolCode": 2223,
+    "schoolName": "효명고등학교"
+  },
+  {
+    "schoolCode": 2224,
+    "schoolName": "이의고등학교"
+  },
+  {
+    "schoolCode": 2225,
+    "schoolName": "송양고등학교"
+  },
+  {
+    "schoolCode": 2226,
+    "schoolName": "옥정고등학교"
+  },
+  {
+    "schoolCode": 2227,
+    "schoolName": "청북고등학교"
+  },
+  {
+    "schoolCode": 2228,
+    "schoolName": "도래울고등학교"
+  },
+  {
+    "schoolCode": 2229,
+    "schoolName": "동탄중앙고등학교"
+  },
+  {
+    "schoolCode": 2230,
+    "schoolName": "화성반월고등학교"
+  },
+  {
+    "schoolCode": 2231,
+    "schoolName": "미사고등학교"
+  },
+  {
+    "schoolCode": 2232,
+    "schoolName": "용인삼계고등학교"
+  },
+  {
+    "schoolCode": 2233,
+    "schoolName": "풍산고등학교"
+  },
+  {
+    "schoolCode": 2234,
+    "schoolName": "서천고등학교"
+  },
+  {
+    "schoolCode": 2235,
+    "schoolName": "경기체육고등학교"
+  },
+  {
+    "schoolCode": 2236,
+    "schoolName": "경기과학고등학교"
+  },
+  {
+    "schoolCode": 2237,
+    "schoolName": "경기북과학고등학교"
+  },
+  {
+    "schoolCode": 2238,
+    "schoolName": "경기예술고등학교"
+  },
+  {
+    "schoolCode": 2239,
+    "schoolName": "고양예술고등학교"
+  },
+  {
+    "schoolCode": 2240,
+    "schoolName": "계원예술고등학교"
+  },
+  {
+    "schoolCode": 2241,
+    "schoolName": "안양예술고등학교"
+  },
+  {
+    "schoolCode": 2242,
+    "schoolName": "수원외국어고등학교"
+  },
+  {
+    "schoolCode": 2243,
+    "schoolName": "동두천외국어고등학교"
+  },
+  {
+    "schoolCode": 2244,
+    "schoolName": "성남외국어고등학교"
+  },
+  {
+    "schoolCode": 2245,
+    "schoolName": "고양외국어고등학교"
+  },
+  {
+    "schoolCode": 2246,
+    "schoolName": "김포외국어고등학교"
+  },
+  {
+    "schoolCode": 2247,
+    "schoolName": "과천외국어고등학교"
+  },
+  {
+    "schoolCode": 2248,
+    "schoolName": "안양외국어고등학교"
+  },
+  {
+    "schoolCode": 2249,
+    "schoolName": "경기외국어고등학교"
+  },
+  {
+    "schoolCode": 2250,
+    "schoolName": "동탄국제고등학교"
+  },
+  {
+    "schoolCode": 2251,
+    "schoolName": "고양국제고등학교"
+  },
+  {
+    "schoolCode": 2252,
+    "schoolName": "청심국제고등학교"
+  },
+  {
+    "schoolCode": 2253,
+    "schoolName": "한겨레고등학교"
+  },
+  {
+    "schoolCode": 2254,
+    "schoolName": "고양고등학교"
+  },
+  {
+    "schoolCode": 2255,
+    "schoolName": "발안바이오과학고등학교"
+  },
+  {
+    "schoolCode": 2256,
+    "schoolName": "수원농생명과학고등학교"
+  },
+  {
+    "schoolCode": 2257,
+    "schoolName": "여주자영농업고등학교"
+  },
+  {
+    "schoolCode": 2258,
+    "schoolName": "용인바이오고등학교"
+  },
+  {
+    "schoolCode": 2259,
+    "schoolName": "일죽고등학교"
+  },
+  {
+    "schoolCode": 2260,
+    "schoolName": "군자디지털과학고등학교"
+  },
+  {
+    "schoolCode": 2261,
+    "schoolName": "김포제일공업고등학교"
+  },
+  {
+    "schoolCode": 2262,
+    "schoolName": "남양주공업고등학교"
+  },
+  {
+    "schoolCode": 2263,
+    "schoolName": "부천공업고등학교"
+  },
+  {
+    "schoolCode": 2264,
+    "schoolName": "산본공업고등학교"
+  },
+  {
+    "schoolCode": 2265,
+    "schoolName": "성남테크노과학고등학교"
+  },
+  {
+    "schoolCode": 2266,
+    "schoolName": "수원정보과학고등학교"
+  },
+  {
+    "schoolCode": 2267,
+    "schoolName": "시화공업고등학교"
+  },
+  {
+    "schoolCode": 2268,
+    "schoolName": "안양공업고등학교"
+  },
+  {
+    "schoolCode": 2269,
+    "schoolName": "양영디지털고등학교"
+  },
+  {
+    "schoolCode": 2270,
+    "schoolName": "양평전자과학고등학교"
+  },
+  {
+    "schoolCode": 2271,
+    "schoolName": "의정부공업고등학교"
+  },
+  {
+    "schoolCode": 2272,
+    "schoolName": "일산고등학교"
+  },
+  {
+    "schoolCode": 2273,
+    "schoolName": "경기영상과학고등학교"
+  },
+  {
+    "schoolCode": 2274,
+    "schoolName": "수원하이텍고등학교"
+  },
+  {
+    "schoolCode": 2275,
+    "schoolName": "평촌공업고등학교"
+  },
+  {
+    "schoolCode": 2276,
+    "schoolName": "평택기계공업고등학교"
+  },
+  {
+    "schoolCode": 2277,
+    "schoolName": "한국도예고등학교"
+  },
+  {
+    "schoolCode": 2278,
+    "schoolName": "한국애니메이션고등학교"
+  },
+  {
+    "schoolCode": 2279,
+    "schoolName": "경민IT고등학교"
+  },
+  {
+    "schoolCode": 2280,
+    "schoolName": "광명공업고등학교"
+  },
+  {
+    "schoolCode": 2281,
+    "schoolName": "동일공업고등학교"
+  },
+  {
+    "schoolCode": 2282,
+    "schoolName": "삼일공업고등학교"
+  },
+  {
+    "schoolCode": 2283,
+    "schoolName": "홍익디자인고등학교"
+  },
+  {
+    "schoolCode": 2284,
+    "schoolName": "수원공업고등학교"
+  },
+  {
+    "schoolCode": 2285,
+    "schoolName": "한봄고등학교"
+  },
+  {
+    "schoolCode": 2286,
+    "schoolName": "안산공업고등학교"
+  },
+  {
+    "schoolCode": 2287,
+    "schoolName": "두원공업고등학교"
+  },
+  {
+    "schoolCode": 2288,
+    "schoolName": "세경고등학교"
+  },
+  {
+    "schoolCode": 2289,
+    "schoolName": "경기자동차과학고등학교"
+  },
+  {
+    "schoolCode": 2290,
+    "schoolName": "이천세무고등학교"
+  },
+  {
+    "schoolCode": 2291,
+    "schoolName": "경기글로벌통상고등학교"
+  },
+  {
+    "schoolCode": 2292,
+    "schoolName": "광명경영회계고등학교"
+  },
+  {
+    "schoolCode": 2293,
+    "schoolName": "군포e비즈니스고등학교"
+  },
+  {
+    "schoolCode": 2294,
+    "schoolName": "경기모바일과학고등학교"
+  },
+  {
+    "schoolCode": 2295,
+    "schoolName": "경기국제통상고등학교"
+  },
+  {
+    "schoolCode": 2296,
+    "schoolName": "부천정보산업고등학교"
+  },
+  {
+    "schoolCode": 2297,
+    "schoolName": "분당경영고등학교"
+  },
+  {
+    "schoolCode": 2298,
+    "schoolName": "성남금융고등학교"
+  },
+  {
+    "schoolCode": 2299,
+    "schoolName": "신일비즈니스고등학교"
+  },
+  {
+    "schoolCode": 2300,
+    "schoolName": "경기물류고등학교"
+  },
+  {
+    "schoolCode": 2301,
+    "schoolName": "영북고등학교"
+  },
+  {
+    "schoolCode": 2302,
+    "schoolName": "오산정보고등학교"
+  },
+  {
+    "schoolCode": 2303,
+    "schoolName": "일산국제컨벤션고등학교"
+  },
+  {
+    "schoolCode": 2304,
+    "schoolName": "경기세무고등학교"
+  },
+  {
+    "schoolCode": 2305,
+    "schoolName": "평촌경영고등학교"
+  },
+  {
+    "schoolCode": 2306,
+    "schoolName": "하남경영고등학교"
+  },
+  {
+    "schoolCode": 2307,
+    "schoolName": "경민비즈니스고등학교"
+  },
+  {
+    "schoolCode": 2308,
+    "schoolName": "경일관광경영고등학교"
+  },
+  {
+    "schoolCode": 2309,
+    "schoolName": "경화여자English Business고등학교"
+  },
+  {
+    "schoolCode": 2310,
+    "schoolName": "근명여자정보고등학교"
+  },
+  {
+    "schoolCode": 2311,
+    "schoolName": "한국문화영상고등학교"
+  },
+  {
+    "schoolCode": 2312,
+    "schoolName": "매향여자정보고등학교"
+  },
+  {
+    "schoolCode": 2313,
+    "schoolName": "삼일상업고등학교"
+  },
+  {
+    "schoolCode": 2314,
+    "schoolName": "성보경영고등학교"
+  },
+  {
+    "schoolCode": 2315,
+    "schoolName": "성일정보고등학교"
+  },
+  {
+    "schoolCode": 2316,
+    "schoolName": "안산국제비즈니스고등학교"
+  },
+  {
+    "schoolCode": 2317,
+    "schoolName": "안양여자상업고등학교"
+  },
+  {
+    "schoolCode": 2318,
+    "schoolName": "덕영고등학교"
+  },
+  {
+    "schoolCode": 2319,
+    "schoolName": "안산디자인문화고등학교"
+  },
+  {
+    "schoolCode": 2320,
+    "schoolName": "경기경영고등학교"
+  },
+  {
+    "schoolCode": 2321,
+    "schoolName": "경기관광고등학교"
+  },
+  {
+    "schoolCode": 2322,
+    "schoolName": "청담고등학교"
+  },
+  {
+    "schoolCode": 2323,
+    "schoolName": "한국관광고등학교"
+  },
+  {
+    "schoolCode": 2324,
+    "schoolName": "한국디지털미디어고등학교"
+  },
+  {
+    "schoolCode": 2325,
+    "schoolName": "한국외식과학고등학교"
+  },
+  {
+    "schoolCode": 2326,
+    "schoolName": "한국조리과학고등학교"
+  },
+  {
+    "schoolCode": 2327,
+    "schoolName": "곤지암고등학교"
+  },
+  {
+    "schoolCode": 2328,
+    "schoolName": "광주중앙고등학교"
+  },
+  {
+    "schoolCode": 2329,
+    "schoolName": "금곡고등학교"
+  },
+  {
+    "schoolCode": 2330,
+    "schoolName": "남양고등학교"
+  },
+  {
+    "schoolCode": 2331,
+    "schoolName": "대부고등학교"
+  },
+  {
+    "schoolCode": 2332,
+    "schoolName": "동두천중앙고등학교"
+  },
+  {
+    "schoolCode": 2333,
+    "schoolName": "문산제일고등학교"
+  },
+  {
+    "schoolCode": 2334,
+    "schoolName": "백암고등학교"
+  },
+  {
+    "schoolCode": 2335,
+    "schoolName": "양평고등학교"
+  },
+  {
+    "schoolCode": 2336,
+    "schoolName": "연천고등학교"
+  },
+  {
+    "schoolCode": 2337,
+    "schoolName": "이천제일고등학교"
+  },
+  {
+    "schoolCode": 2338,
+    "schoolName": "일동고등학교"
+  },
+  {
+    "schoolCode": 2339,
+    "schoolName": "전곡고등학교"
+  },
+  {
+    "schoolCode": 2340,
+    "schoolName": "조종고등학교"
+  },
+  {
+    "schoolCode": 2341,
+    "schoolName": "죽산고등학교"
+  },
+  {
+    "schoolCode": 2342,
+    "schoolName": "평택여자고등학교"
+  },
+  {
+    "schoolCode": 2343,
+    "schoolName": "포천일고등학교"
+  },
+  {
+    "schoolCode": 2344,
+    "schoolName": "하성고등학교"
+  },
+  {
+    "schoolCode": 2345,
+    "schoolName": "광탄고등학교"
+  },
+  {
+    "schoolCode": 2346,
+    "schoolName": "문산수억고등학교"
+  },
+  {
+    "schoolCode": 2347,
+    "schoolName": "비봉고등학교"
+  },
+  {
+    "schoolCode": 2348,
+    "schoolName": "가온고등학교"
+  },
+  {
+    "schoolCode": 2349,
+    "schoolName": "안중고등학교"
+  },
+  {
+    "schoolCode": 2350,
+    "schoolName": "양동고등학교"
+  },
+  {
+    "schoolCode": 2351,
+    "schoolName": "양서고등학교"
+  },
+  {
+    "schoolCode": 2352,
+    "schoolName": "여주제일고등학교"
+  },
+  {
+    "schoolCode": 2353,
+    "schoolName": "용문고등학교"
+  },
+  {
+    "schoolCode": 2354,
+    "schoolName": "은혜고등학교"
+  },
+  {
+    "schoolCode": 2355,
+    "schoolName": "다산고등학교"
+  },
+  {
+    "schoolCode": 2356,
+    "schoolName": "부원고등학교"
+  },
+  {
+    "schoolCode": 2357,
+    "schoolName": "진위고등학교"
+  },
+  {
+    "schoolCode": 2358,
+    "schoolName": "통진고등학교"
+  },
+  {
+    "schoolCode": 2359,
+    "schoolName": "파주여자고등학교"
+  },
+  {
+    "schoolCode": 2360,
+    "schoolName": "강원대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 2361,
+    "schoolName": "가곡고등학교"
+  },
+  {
+    "schoolCode": 2362,
+    "schoolName": "간동고등학교"
+  },
+  {
+    "schoolCode": 2363,
+    "schoolName": "갑천고등학교"
+  },
+  {
+    "schoolCode": 2364,
+    "schoolName": "강릉제일고등학교"
+  },
+  {
+    "schoolCode": 2365,
+    "schoolName": "강릉고등학교"
+  },
+  {
+    "schoolCode": 2366,
+    "schoolName": "강릉여자고등학교"
+  },
+  {
+    "schoolCode": 2367,
+    "schoolName": "경포고등학교"
+  },
+  {
+    "schoolCode": 2368,
+    "schoolName": "고성고등학교"
+  },
+  {
+    "schoolCode": 2369,
+    "schoolName": "기린고등학교"
+  },
+  {
+    "schoolCode": 2370,
+    "schoolName": "대화고등학교"
+  },
+  {
+    "schoolCode": 2371,
+    "schoolName": "김화고등학교"
+  },
+  {
+    "schoolCode": 2372,
+    "schoolName": "내면고등학교"
+  },
+  {
+    "schoolCode": 2373,
+    "schoolName": "대진고등학교"
+  },
+  {
+    "schoolCode": 2374,
+    "schoolName": "둔내고등학교"
+  },
+  {
+    "schoolCode": 2375,
+    "schoolName": "마차고등학교"
+  },
+  {
+    "schoolCode": 2376,
+    "schoolName": "묵호고등학교"
+  },
+  {
+    "schoolCode": 2377,
+    "schoolName": "봉평고등학교"
+  },
+  {
+    "schoolCode": 2378,
+    "schoolName": "봉의고등학교"
+  },
+  {
+    "schoolCode": 2379,
+    "schoolName": "북원여자고등학교"
+  },
+  {
+    "schoolCode": 2380,
+    "schoolName": "문막고등학교"
+  },
+  {
+    "schoolCode": 2381,
+    "schoolName": "북평고등학교"
+  },
+  {
+    "schoolCode": 2382,
+    "schoolName": "사북고등학교"
+  },
+  {
+    "schoolCode": 2383,
+    "schoolName": "삼척여자고등학교"
+  },
+  {
+    "schoolCode": 2384,
+    "schoolName": "북평여자고등학교"
+  },
+  {
+    "schoolCode": 2385,
+    "schoolName": "사내고등학교"
+  },
+  {
+    "schoolCode": 2386,
+    "schoolName": "신철원고등학교"
+  },
+  {
+    "schoolCode": 2387,
+    "schoolName": "삼척고등학교"
+  },
+  {
+    "schoolCode": 2388,
+    "schoolName": "양구여자고등학교"
+  },
+  {
+    "schoolCode": 2389,
+    "schoolName": "양구고등학교"
+  },
+  {
+    "schoolCode": 2390,
+    "schoolName": "상동고등학교"
+  },
+  {
+    "schoolCode": 2391,
+    "schoolName": "서석고등학교"
+  },
+  {
+    "schoolCode": 2392,
+    "schoolName": "속초고등학교"
+  },
+  {
+    "schoolCode": 2393,
+    "schoolName": "속초여자고등학교"
+  },
+  {
+    "schoolCode": 2394,
+    "schoolName": "신남고등학교"
+  },
+  {
+    "schoolCode": 2395,
+    "schoolName": "안흥고등학교"
+  },
+  {
+    "schoolCode": 2396,
+    "schoolName": "양양고등학교"
+  },
+  {
+    "schoolCode": 2397,
+    "schoolName": "인제고등학교"
+  },
+  {
+    "schoolCode": 2398,
+    "schoolName": "여량고등학교"
+  },
+  {
+    "schoolCode": 2399,
+    "schoolName": "영월고등학교"
+  },
+  {
+    "schoolCode": 2400,
+    "schoolName": "원덕고등학교"
+  },
+  {
+    "schoolCode": 2401,
+    "schoolName": "원주고등학교"
+  },
+  {
+    "schoolCode": 2402,
+    "schoolName": "원주여자고등학교"
+  },
+  {
+    "schoolCode": 2403,
+    "schoolName": "원통고등학교"
+  },
+  {
+    "schoolCode": 2404,
+    "schoolName": "임계고등학교"
+  },
+  {
+    "schoolCode": 2405,
+    "schoolName": "진부고등학교"
+  },
+  {
+    "schoolCode": 2406,
+    "schoolName": "장성여자고등학교"
+  },
+  {
+    "schoolCode": 2407,
+    "schoolName": "정선고등학교"
+  },
+  {
+    "schoolCode": 2408,
+    "schoolName": "철원여자고등학교"
+  },
+  {
+    "schoolCode": 2409,
+    "schoolName": "주문진고등학교"
+  },
+  {
+    "schoolCode": 2410,
+    "schoolName": "철암고등학교"
+  },
+  {
+    "schoolCode": 2411,
+    "schoolName": "철원고등학교"
+  },
+  {
+    "schoolCode": 2412,
+    "schoolName": "춘천고등학교"
+  },
+  {
+    "schoolCode": 2413,
+    "schoolName": "춘천여자고등학교"
+  },
+  {
+    "schoolCode": 2414,
+    "schoolName": "치악고등학교"
+  },
+  {
+    "schoolCode": 2415,
+    "schoolName": "평창고등학교"
+  },
+  {
+    "schoolCode": 2416,
+    "schoolName": "하장고등학교"
+  },
+  {
+    "schoolCode": 2417,
+    "schoolName": "홍천고등학교"
+  },
+  {
+    "schoolCode": 2418,
+    "schoolName": "홍천여자고등학교"
+  },
+  {
+    "schoolCode": 2419,
+    "schoolName": "화천고등학교"
+  },
+  {
+    "schoolCode": 2420,
+    "schoolName": "횡성여자고등학교"
+  },
+  {
+    "schoolCode": 2421,
+    "schoolName": "황지고등학교"
+  },
+  {
+    "schoolCode": 2422,
+    "schoolName": "횡성고등학교"
+  },
+  {
+    "schoolCode": 2423,
+    "schoolName": "강릉명륜고등학교"
+  },
+  {
+    "schoolCode": 2424,
+    "schoolName": "강원고등학교"
+  },
+  {
+    "schoolCode": 2425,
+    "schoolName": "강일여자고등학교"
+  },
+  {
+    "schoolCode": 2426,
+    "schoolName": "대성고등학교"
+  },
+  {
+    "schoolCode": 2427,
+    "schoolName": "동해삼육고등학교"
+  },
+  {
+    "schoolCode": 2428,
+    "schoolName": "민족사관고등학교"
+  },
+  {
+    "schoolCode": 2429,
+    "schoolName": "상지여자고등학교"
+  },
+  {
+    "schoolCode": 2430,
+    "schoolName": "삼일고등학교"
+  },
+  {
+    "schoolCode": 2431,
+    "schoolName": "성수고등학교"
+  },
+  {
+    "schoolCode": 2432,
+    "schoolName": "원주삼육고등학교"
+  },
+  {
+    "schoolCode": 2433,
+    "schoolName": "유봉여자고등학교"
+  },
+  {
+    "schoolCode": 2434,
+    "schoolName": "육민관고등학교"
+  },
+  {
+    "schoolCode": 2435,
+    "schoolName": "전인고등학교"
+  },
+  {
+    "schoolCode": 2436,
+    "schoolName": "팔렬고등학교"
+  },
+  {
+    "schoolCode": 2437,
+    "schoolName": "진광고등학교"
+  },
+  {
+    "schoolCode": 2438,
+    "schoolName": "강원체육고등학교"
+  },
+  {
+    "schoolCode": 2439,
+    "schoolName": "강원과학고등학교"
+  },
+  {
+    "schoolCode": 2440,
+    "schoolName": "강원예술고등학교"
+  },
+  {
+    "schoolCode": 2441,
+    "schoolName": "강원외국어고등학교"
+  },
+  {
+    "schoolCode": 2442,
+    "schoolName": "현천고등학교"
+  },
+  {
+    "schoolCode": 2443,
+    "schoolName": "홍천농업고등학교"
+  },
+  {
+    "schoolCode": 2444,
+    "schoolName": "강원애니고등학교"
+  },
+  {
+    "schoolCode": 2445,
+    "schoolName": "삼척마이스터고등학교"
+  },
+  {
+    "schoolCode": 2446,
+    "schoolName": "김화공업고등학교"
+  },
+  {
+    "schoolCode": 2447,
+    "schoolName": "영월공업고등학교"
+  },
+  {
+    "schoolCode": 2448,
+    "schoolName": "원주공업고등학교"
+  },
+  {
+    "schoolCode": 2449,
+    "schoolName": "춘천기계공업고등학교"
+  },
+  {
+    "schoolCode": 2450,
+    "schoolName": "태백기계공업고등학교"
+  },
+  {
+    "schoolCode": 2451,
+    "schoolName": "도계전산정보고등학교"
+  },
+  {
+    "schoolCode": 2452,
+    "schoolName": "동해상업고등학교"
+  },
+  {
+    "schoolCode": 2453,
+    "schoolName": "원주금융회계고등학교"
+  },
+  {
+    "schoolCode": 2454,
+    "schoolName": "황지정보산업고등학교"
+  },
+  {
+    "schoolCode": 2455,
+    "schoolName": "강원생활과학고등학교"
+  },
+  {
+    "schoolCode": 2456,
+    "schoolName": "강릉중앙고등학교"
+  },
+  {
+    "schoolCode": 2457,
+    "schoolName": "거진정보공업고등학교"
+  },
+  {
+    "schoolCode": 2458,
+    "schoolName": "동광산업과학고등학교"
+  },
+  {
+    "schoolCode": 2459,
+    "schoolName": "원주의료고등학교"
+  },
+  {
+    "schoolCode": 2460,
+    "schoolName": "영서고등학교"
+  },
+  {
+    "schoolCode": 2461,
+    "schoolName": "정선정보공업고등학교"
+  },
+  {
+    "schoolCode": 2462,
+    "schoolName": "강릉정보공업고등학교"
+  },
+  {
+    "schoolCode": 2463,
+    "schoolName": "소양고등학교"
+  },
+  {
+    "schoolCode": 2464,
+    "schoolName": "춘천한샘고등학교"
+  },
+  {
+    "schoolCode": 2465,
+    "schoolName": "화천정보산업고등학교"
+  },
+  {
+    "schoolCode": 2466,
+    "schoolName": "고한고등학교"
+  },
+  {
+    "schoolCode": 2467,
+    "schoolName": "도계고등학교"
+  },
+  {
+    "schoolCode": 2468,
+    "schoolName": "설악고등학교"
+  },
+  {
+    "schoolCode": 2469,
+    "schoolName": "주천고등학교"
+  },
+  {
+    "schoolCode": 2470,
+    "schoolName": "함백고등학교"
+  },
+  {
+    "schoolCode": 2471,
+    "schoolName": "강릉문성고등학교"
+  },
+  {
+    "schoolCode": 2472,
+    "schoolName": "상지대관령고등학교"
+  },
+  {
+    "schoolCode": 2473,
+    "schoolName": "동해광희고등학교"
+  },
+  {
+    "schoolCode": 2474,
+    "schoolName": "석정여자고등학교"
+  },
+  {
+    "schoolCode": 2475,
+    "schoolName": "성수여자고등학교"
+  },
+  {
+    "schoolCode": 2476,
+    "schoolName": "충북대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 2477,
+    "schoolName": "금천고등학교"
+  },
+  {
+    "schoolCode": 2478,
+    "schoolName": "상당고등학교"
+  },
+  {
+    "schoolCode": 2479,
+    "schoolName": "청주고등학교"
+  },
+  {
+    "schoolCode": 2480,
+    "schoolName": "청주여자고등학교"
+  },
+  {
+    "schoolCode": 2481,
+    "schoolName": "청주중앙여자고등학교"
+  },
+  {
+    "schoolCode": 2482,
+    "schoolName": "충북고등학교"
+  },
+  {
+    "schoolCode": 2483,
+    "schoolName": "국원고등학교"
+  },
+  {
+    "schoolCode": 2484,
+    "schoolName": "세광고등학교"
+  },
+  {
+    "schoolCode": 2485,
+    "schoolName": "양청고등학교"
+  },
+  {
+    "schoolCode": 2486,
+    "schoolName": "청주신흥고등학교"
+  },
+  {
+    "schoolCode": 2487,
+    "schoolName": "운호고등학교"
+  },
+  {
+    "schoolCode": 2488,
+    "schoolName": "일신여자고등학교"
+  },
+  {
+    "schoolCode": 2489,
+    "schoolName": "제천제일고등학교"
+  },
+  {
+    "schoolCode": 2490,
+    "schoolName": "청석고등학교"
+  },
+  {
+    "schoolCode": 2491,
+    "schoolName": "충북여자고등학교"
+  },
+  {
+    "schoolCode": 2492,
+    "schoolName": "주덕고등학교"
+  },
+  {
+    "schoolCode": 2493,
+    "schoolName": "충주고등학교"
+  },
+  {
+    "schoolCode": 2494,
+    "schoolName": "충주여자고등학교"
+  },
+  {
+    "schoolCode": 2495,
+    "schoolName": "충주예성여자고등학교"
+  },
+  {
+    "schoolCode": 2496,
+    "schoolName": "충주대원고등학교"
+  },
+  {
+    "schoolCode": 2497,
+    "schoolName": "충주중산고등학교"
+  },
+  {
+    "schoolCode": 2498,
+    "schoolName": "충원고등학교"
+  },
+  {
+    "schoolCode": 2499,
+    "schoolName": "제천고등학교"
+  },
+  {
+    "schoolCode": 2500,
+    "schoolName": "학산고등학교"
+  },
+  {
+    "schoolCode": 2501,
+    "schoolName": "제천여자고등학교"
+  },
+  {
+    "schoolCode": 2502,
+    "schoolName": "세명고등학교"
+  },
+  {
+    "schoolCode": 2503,
+    "schoolName": "한국교원대학교부설고등학교"
+  },
+  {
+    "schoolCode": 2504,
+    "schoolName": "오창고등학교"
+  },
+  {
+    "schoolCode": 2505,
+    "schoolName": "양업고등학교"
+  },
+  {
+    "schoolCode": 2506,
+    "schoolName": "보은여자고등학교"
+  },
+  {
+    "schoolCode": 2507,
+    "schoolName": "보은고등학교"
+  },
+  {
+    "schoolCode": 2508,
+    "schoolName": "옥천고등학교"
+  },
+  {
+    "schoolCode": 2509,
+    "schoolName": "청산고등학교"
+  },
+  {
+    "schoolCode": 2510,
+    "schoolName": "영동고등학교"
+  },
+  {
+    "schoolCode": 2511,
+    "schoolName": "황간고등학교"
+  },
+  {
+    "schoolCode": 2512,
+    "schoolName": "진천고등학교"
+  },
+  {
+    "schoolCode": 2513,
+    "schoolName": "광혜원고등학교"
+  },
+  {
+    "schoolCode": 2514,
+    "schoolName": "괴산고등학교"
+  },
+  {
+    "schoolCode": 2515,
+    "schoolName": "목도고등학교"
+  },
+  {
+    "schoolCode": 2516,
+    "schoolName": "형석고등학교"
+  },
+  {
+    "schoolCode": 2517,
+    "schoolName": "음성고등학교"
+  },
+  {
+    "schoolCode": 2518,
+    "schoolName": "대금고등학교"
+  },
+  {
+    "schoolCode": 2519,
+    "schoolName": "단양고등학교"
+  },
+  {
+    "schoolCode": 2520,
+    "schoolName": "청주대성고등학교"
+  },
+  {
+    "schoolCode": 2521,
+    "schoolName": "주성고등학교"
+  },
+  {
+    "schoolCode": 2522,
+    "schoolName": "흥덕고등학교"
+  },
+  {
+    "schoolCode": 2523,
+    "schoolName": "서원고등학교"
+  },
+  {
+    "schoolCode": 2524,
+    "schoolName": "매괴고등학교"
+  },
+  {
+    "schoolCode": 2525,
+    "schoolName": "봉명고등학교"
+  },
+  {
+    "schoolCode": 2526,
+    "schoolName": "산남고등학교"
+  },
+  {
+    "schoolCode": 2527,
+    "schoolName": "청원고등학교"
+  },
+  {
+    "schoolCode": 2528,
+    "schoolName": "오송고등학교"
+  },
+  {
+    "schoolCode": 2529,
+    "schoolName": "서전고등학교"
+  },
+  {
+    "schoolCode": 2530,
+    "schoolName": "충북체육고등학교"
+  },
+  {
+    "schoolCode": 2531,
+    "schoolName": "충북과학고등학교"
+  },
+  {
+    "schoolCode": 2532,
+    "schoolName": "충북예술고등학교"
+  },
+  {
+    "schoolCode": 2533,
+    "schoolName": "청주외국어고등학교"
+  },
+  {
+    "schoolCode": 2534,
+    "schoolName": "청주농업고등학교"
+  },
+  {
+    "schoolCode": 2535,
+    "schoolName": "충북생명산업고등학교"
+  },
+  {
+    "schoolCode": 2536,
+    "schoolName": "영동산업과학고등학교"
+  },
+  {
+    "schoolCode": 2537,
+    "schoolName": "한국바이오마이스터고등학교"
+  },
+  {
+    "schoolCode": 2538,
+    "schoolName": "청주공업고등학교"
+  },
+  {
+    "schoolCode": 2539,
+    "schoolName": "청주하이텍고등학교"
+  },
+  {
+    "schoolCode": 2540,
+    "schoolName": "충북공업고등학교"
+  },
+  {
+    "schoolCode": 2541,
+    "schoolName": "충주공업고등학교"
+  },
+  {
+    "schoolCode": 2542,
+    "schoolName": "제천디지털전자고등학교"
+  },
+  {
+    "schoolCode": 2543,
+    "schoolName": "제천산업고등학교"
+  },
+  {
+    "schoolCode": 2544,
+    "schoolName": "충북에너지고등학교"
+  },
+  {
+    "schoolCode": 2545,
+    "schoolName": "증평공업고등학교"
+  },
+  {
+    "schoolCode": 2546,
+    "schoolName": "충북반도체고등학교"
+  },
+  {
+    "schoolCode": 2547,
+    "schoolName": "충북상업정보고등학교"
+  },
+  {
+    "schoolCode": 2548,
+    "schoolName": "대성여자상업고등학교"
+  },
+  {
+    "schoolCode": 2549,
+    "schoolName": "청주여자상업고등학교"
+  },
+  {
+    "schoolCode": 2550,
+    "schoolName": "충북산업과학고등학교"
+  },
+  {
+    "schoolCode": 2551,
+    "schoolName": "충주상업고등학교"
+  },
+  {
+    "schoolCode": 2552,
+    "schoolName": "한림디자인고등학교"
+  },
+  {
+    "schoolCode": 2553,
+    "schoolName": "제천상업고등학교"
+  },
+  {
+    "schoolCode": 2554,
+    "schoolName": "현도정보고등학교"
+  },
+  {
+    "schoolCode": 2555,
+    "schoolName": "보은정보고등학교"
+  },
+  {
+    "schoolCode": 2556,
+    "schoolName": "영동인터넷고등학교"
+  },
+  {
+    "schoolCode": 2557,
+    "schoolName": "진천상업고등학교"
+  },
+  {
+    "schoolCode": 2558,
+    "schoolName": "증평정보고등학교"
+  },
+  {
+    "schoolCode": 2559,
+    "schoolName": "한국호텔관광고등학교"
+  },
+  {
+    "schoolCode": 2560,
+    "schoolName": "공주대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 2561,
+    "schoolName": "공주영명고등학교"
+  },
+  {
+    "schoolCode": 2562,
+    "schoolName": "한마음고등학교"
+  },
+  {
+    "schoolCode": 2563,
+    "schoolName": "공동체비전고등학교"
+  },
+  {
+    "schoolCode": 2564,
+    "schoolName": "갈산고등학교"
+  },
+  {
+    "schoolCode": 2565,
+    "schoolName": "배방고등학교"
+  },
+  {
+    "schoolCode": 2566,
+    "schoolName": "충남삼성고등학교"
+  },
+  {
+    "schoolCode": 2567,
+    "schoolName": "강경고등학교"
+  },
+  {
+    "schoolCode": 2568,
+    "schoolName": "공주고등학교"
+  },
+  {
+    "schoolCode": 2569,
+    "schoolName": "공주여자고등학교"
+  },
+  {
+    "schoolCode": 2570,
+    "schoolName": "금산고등학교"
+  },
+  {
+    "schoolCode": 2571,
+    "schoolName": "금산여자고등학교"
+  },
+  {
+    "schoolCode": 2572,
+    "schoolName": "논산고등학교"
+  },
+  {
+    "schoolCode": 2573,
+    "schoolName": "논산여자고등학교"
+  },
+  {
+    "schoolCode": 2574,
+    "schoolName": "당진고등학교"
+  },
+  {
+    "schoolCode": 2575,
+    "schoolName": "대천고등학교"
+  },
+  {
+    "schoolCode": 2576,
+    "schoolName": "덕산고등학교"
+  },
+  {
+    "schoolCode": 2577,
+    "schoolName": "대천여자고등학교"
+  },
+  {
+    "schoolCode": 2578,
+    "schoolName": "만리포고등학교"
+  },
+  {
+    "schoolCode": 2579,
+    "schoolName": "서산여자고등학교"
+  },
+  {
+    "schoolCode": 2580,
+    "schoolName": "천안불당고등학교"
+  },
+  {
+    "schoolCode": 2581,
+    "schoolName": "목천고등학교"
+  },
+  {
+    "schoolCode": 2582,
+    "schoolName": "부석고등학교"
+  },
+  {
+    "schoolCode": 2583,
+    "schoolName": "부여고등학교"
+  },
+  {
+    "schoolCode": 2584,
+    "schoolName": "부여여자고등학교"
+  },
+  {
+    "schoolCode": 2585,
+    "schoolName": "서산고등학교"
+  },
+  {
+    "schoolCode": 2586,
+    "schoolName": "온양여자고등학교"
+  },
+  {
+    "schoolCode": 2587,
+    "schoolName": "서천고등학교"
+  },
+  {
+    "schoolCode": 2588,
+    "schoolName": "서천여자고등학교"
+  },
+  {
+    "schoolCode": 2589,
+    "schoolName": "성환고등학교"
+  },
+  {
+    "schoolCode": 2590,
+    "schoolName": "안면고등학교"
+  },
+  {
+    "schoolCode": 2591,
+    "schoolName": "예산여자고등학교"
+  },
+  {
+    "schoolCode": 2592,
+    "schoolName": "온양고등학교"
+  },
+  {
+    "schoolCode": 2593,
+    "schoolName": "용남고등학교"
+  },
+  {
+    "schoolCode": 2594,
+    "schoolName": "웅천고등학교"
+  },
+  {
+    "schoolCode": 2595,
+    "schoolName": "정산고등학교"
+  },
+  {
+    "schoolCode": 2596,
+    "schoolName": "천안여자고등학교"
+  },
+  {
+    "schoolCode": 2597,
+    "schoolName": "천안중앙고등학교"
+  },
+  {
+    "schoolCode": 2598,
+    "schoolName": "공주금성여자고등학교"
+  },
+  {
+    "schoolCode": 2599,
+    "schoolName": "태안고등학교"
+  },
+  {
+    "schoolCode": 2600,
+    "schoolName": "합덕여자고등학교"
+  },
+  {
+    "schoolCode": 2601,
+    "schoolName": "홍성고등학교"
+  },
+  {
+    "schoolCode": 2602,
+    "schoolName": "천안두정고등학교"
+  },
+  {
+    "schoolCode": 2603,
+    "schoolName": "천안오성고등학교"
+  },
+  {
+    "schoolCode": 2604,
+    "schoolName": "홍성여자고등학교"
+  },
+  {
+    "schoolCode": 2605,
+    "schoolName": "천안월봉고등학교"
+  },
+  {
+    "schoolCode": 2606,
+    "schoolName": "천안쌍용고등학교"
+  },
+  {
+    "schoolCode": 2607,
+    "schoolName": "온양용화고등학교"
+  },
+  {
+    "schoolCode": 2608,
+    "schoolName": "천안신당고등학교"
+  },
+  {
+    "schoolCode": 2609,
+    "schoolName": "계룡고등학교"
+  },
+  {
+    "schoolCode": 2610,
+    "schoolName": "천안업성고등학교"
+  },
+  {
+    "schoolCode": 2611,
+    "schoolName": "건양대학교병설건양고등학교"
+  },
+  {
+    "schoolCode": 2612,
+    "schoolName": "광천고등학교"
+  },
+  {
+    "schoolCode": 2613,
+    "schoolName": "서해삼육고등학교"
+  },
+  {
+    "schoolCode": 2614,
+    "schoolName": "논산대건고등학교"
+  },
+  {
+    "schoolCode": 2615,
+    "schoolName": "삽교고등학교"
+  },
+  {
+    "schoolCode": 2616,
+    "schoolName": "대흥고등학교"
+  },
+  {
+    "schoolCode": 2617,
+    "schoolName": "복자여자고등학교"
+  },
+  {
+    "schoolCode": 2618,
+    "schoolName": "설화고등학교"
+  },
+  {
+    "schoolCode": 2619,
+    "schoolName": "서령고등학교"
+  },
+  {
+    "schoolCode": 2620,
+    "schoolName": "서야고등학교"
+  },
+  {
+    "schoolCode": 2621,
+    "schoolName": "송악고등학교"
+  },
+  {
+    "schoolCode": 2622,
+    "schoolName": "신평고등학교"
+  },
+  {
+    "schoolCode": 2623,
+    "schoolName": "온양한올고등학교"
+  },
+  {
+    "schoolCode": 2624,
+    "schoolName": "쌘뽈여자고등학교"
+  },
+  {
+    "schoolCode": 2625,
+    "schoolName": "대산고등학교"
+  },
+  {
+    "schoolCode": 2626,
+    "schoolName": "아산고등학교"
+  },
+  {
+    "schoolCode": 2627,
+    "schoolName": "연무고등학교"
+  },
+  {
+    "schoolCode": 2628,
+    "schoolName": "천안청수고등학교"
+  },
+  {
+    "schoolCode": 2629,
+    "schoolName": "예산고등학교"
+  },
+  {
+    "schoolCode": 2630,
+    "schoolName": "장항고등학교"
+  },
+  {
+    "schoolCode": 2631,
+    "schoolName": "서일고등학교"
+  },
+  {
+    "schoolCode": 2632,
+    "schoolName": "태안여자고등학교"
+  },
+  {
+    "schoolCode": 2633,
+    "schoolName": "천안고등학교"
+  },
+  {
+    "schoolCode": 2634,
+    "schoolName": "북일고등학교"
+  },
+  {
+    "schoolCode": 2635,
+    "schoolName": "북일여자고등학교"
+  },
+  {
+    "schoolCode": 2636,
+    "schoolName": "한일고등학교"
+  },
+  {
+    "schoolCode": 2637,
+    "schoolName": "호서고등학교"
+  },
+  {
+    "schoolCode": 2638,
+    "schoolName": "홍주고등학교"
+  },
+  {
+    "schoolCode": 2639,
+    "schoolName": "충남체육고등학교"
+  },
+  {
+    "schoolCode": 2640,
+    "schoolName": "충남과학고등학교"
+  },
+  {
+    "schoolCode": 2641,
+    "schoolName": "충남디자인예술고등학교"
+  },
+  {
+    "schoolCode": 2642,
+    "schoolName": "충남예술고등학교"
+  },
+  {
+    "schoolCode": 2643,
+    "schoolName": "충남외국어고등학교"
+  },
+  {
+    "schoolCode": 2644,
+    "schoolName": "공주생명과학고등학교"
+  },
+  {
+    "schoolCode": 2645,
+    "schoolName": "금산산업고등학교"
+  },
+  {
+    "schoolCode": 2646,
+    "schoolName": "서산중앙고등학교"
+  },
+  {
+    "schoolCode": 2647,
+    "schoolName": "주산산업고등학교"
+  },
+  {
+    "schoolCode": 2648,
+    "schoolName": "천안제일고등학교"
+  },
+  {
+    "schoolCode": 2649,
+    "schoolName": "청양고등학교"
+  },
+  {
+    "schoolCode": 2650,
+    "schoolName": "한국식품마이스터고등학교"
+  },
+  {
+    "schoolCode": 2651,
+    "schoolName": "홍성공업고등학교"
+  },
+  {
+    "schoolCode": 2652,
+    "schoolName": "논산공업고등학교"
+  },
+  {
+    "schoolCode": 2653,
+    "schoolName": "아산전자기계고등학교"
+  },
+  {
+    "schoolCode": 2654,
+    "schoolName": "부여전자고등학교"
+  },
+  {
+    "schoolCode": 2655,
+    "schoolName": "연무대기계공업고등학교"
+  },
+  {
+    "schoolCode": 2656,
+    "schoolName": "예산전자공업고등학교"
+  },
+  {
+    "schoolCode": 2657,
+    "schoolName": "서산공업고등학교"
+  },
+  {
+    "schoolCode": 2658,
+    "schoolName": "공주마이스터고등학교"
+  },
+  {
+    "schoolCode": 2659,
+    "schoolName": "장항공업고등학교"
+  },
+  {
+    "schoolCode": 2660,
+    "schoolName": "금산하이텍고등학교"
+  },
+  {
+    "schoolCode": 2661,
+    "schoolName": "천안공업고등학교"
+  },
+  {
+    "schoolCode": 2662,
+    "schoolName": "합덕제철고등학교"
+  },
+  {
+    "schoolCode": 2663,
+    "schoolName": "강경상업고등학교"
+  },
+  {
+    "schoolCode": 2664,
+    "schoolName": "광천제일고등학교"
+  },
+  {
+    "schoolCode": 2665,
+    "schoolName": "당진정보고등학교"
+  },
+  {
+    "schoolCode": 2666,
+    "schoolName": "대천여자상업고등학교"
+  },
+  {
+    "schoolCode": 2667,
+    "schoolName": "부여정보고등학교"
+  },
+  {
+    "schoolCode": 2668,
+    "schoolName": "충남인터넷고등학교"
+  },
+  {
+    "schoolCode": 2669,
+    "schoolName": "공주정보고등학교"
+  },
+  {
+    "schoolCode": 2670,
+    "schoolName": "논산여자상업고등학교"
+  },
+  {
+    "schoolCode": 2671,
+    "schoolName": "서천여자정보고등학교"
+  },
+  {
+    "schoolCode": 2672,
+    "schoolName": "예산예화여자고등학교"
+  },
+  {
+    "schoolCode": 2673,
+    "schoolName": "천안상업고등학교"
+  },
+  {
+    "schoolCode": 2674,
+    "schoolName": "천안여자상업고등학교"
+  },
+  {
+    "schoolCode": 2675,
+    "schoolName": "충남해양과학고등학교"
+  },
+  {
+    "schoolCode": 2676,
+    "schoolName": "병천고등학교"
+  },
+  {
+    "schoolCode": 2677,
+    "schoolName": "부안여자고등학교"
+  },
+  {
+    "schoolCode": 2678,
+    "schoolName": "전북대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 2679,
+    "schoolName": "원광정보예술고등학교"
+  },
+  {
+    "schoolCode": 2680,
+    "schoolName": "지평선고등학교"
+  },
+  {
+    "schoolCode": 2681,
+    "schoolName": "고산고등학교"
+  },
+  {
+    "schoolCode": 2682,
+    "schoolName": "고창고등학교"
+  },
+  {
+    "schoolCode": 2683,
+    "schoolName": "김제고등학교"
+  },
+  {
+    "schoolCode": 2684,
+    "schoolName": "군산고등학교"
+  },
+  {
+    "schoolCode": 2685,
+    "schoolName": "한들고등학교"
+  },
+  {
+    "schoolCode": 2686,
+    "schoolName": "김제여자고등학교"
+  },
+  {
+    "schoolCode": 2687,
+    "schoolName": "군산동고등학교"
+  },
+  {
+    "schoolCode": 2688,
+    "schoolName": "군산여자고등학교"
+  },
+  {
+    "schoolCode": 2689,
+    "schoolName": "남원고등학교"
+  },
+  {
+    "schoolCode": 2690,
+    "schoolName": "마령고등학교"
+  },
+  {
+    "schoolCode": 2691,
+    "schoolName": "남원여자고등학교"
+  },
+  {
+    "schoolCode": 2692,
+    "schoolName": "동계고등학교"
+  },
+  {
+    "schoolCode": 2693,
+    "schoolName": "부안고등학교"
+  },
+  {
+    "schoolCode": 2694,
+    "schoolName": "무풍고등학교"
+  },
+  {
+    "schoolCode": 2695,
+    "schoolName": "서림고등학교"
+  },
+  {
+    "schoolCode": 2696,
+    "schoolName": "산서고등학교"
+  },
+  {
+    "schoolCode": 2697,
+    "schoolName": "한별고등학교"
+  },
+  {
+    "schoolCode": 2698,
+    "schoolName": "설천고등학교"
+  },
+  {
+    "schoolCode": 2699,
+    "schoolName": "안천고등학교"
+  },
+  {
+    "schoolCode": 2700,
+    "schoolName": "순창제일고등학교"
+  },
+  {
+    "schoolCode": 2701,
+    "schoolName": "위도고등학교"
+  },
+  {
+    "schoolCode": 2702,
+    "schoolName": "안성고등학교"
+  },
+  {
+    "schoolCode": 2703,
+    "schoolName": "여산고등학교"
+  },
+  {
+    "schoolCode": 2704,
+    "schoolName": "이리고등학교"
+  },
+  {
+    "schoolCode": 2705,
+    "schoolName": "이리여자고등학교"
+  },
+  {
+    "schoolCode": 2706,
+    "schoolName": "인월고등학교"
+  },
+  {
+    "schoolCode": 2707,
+    "schoolName": "임실고등학교"
+  },
+  {
+    "schoolCode": 2708,
+    "schoolName": "전라고등학교"
+  },
+  {
+    "schoolCode": 2709,
+    "schoolName": "장수고등학교"
+  },
+  {
+    "schoolCode": 2710,
+    "schoolName": "이리남성여자고등학교"
+  },
+  {
+    "schoolCode": 2711,
+    "schoolName": "전주고등학교"
+  },
+  {
+    "schoolCode": 2712,
+    "schoolName": "전주솔내고등학교"
+  },
+  {
+    "schoolCode": 2713,
+    "schoolName": "전주여자고등학교"
+  },
+  {
+    "schoolCode": 2714,
+    "schoolName": "전주제일고등학교"
+  },
+  {
+    "schoolCode": 2715,
+    "schoolName": "정읍여자고등학교"
+  },
+  {
+    "schoolCode": 2716,
+    "schoolName": "정읍고등학교"
+  },
+  {
+    "schoolCode": 2717,
+    "schoolName": "진안제일고등학교"
+  },
+  {
+    "schoolCode": 2718,
+    "schoolName": "함열고등학교"
+  },
+  {
+    "schoolCode": 2719,
+    "schoolName": "한국전통문화고등학교"
+  },
+  {
+    "schoolCode": 2720,
+    "schoolName": "해리고등학교"
+  },
+  {
+    "schoolCode": 2721,
+    "schoolName": "군산제일고등학교"
+  },
+  {
+    "schoolCode": 2722,
+    "schoolName": "전주근영여자고등학교"
+  },
+  {
+    "schoolCode": 2723,
+    "schoolName": "고창북고등학교"
+  },
+  {
+    "schoolCode": 2724,
+    "schoolName": "전주기전여자고등학교"
+  },
+  {
+    "schoolCode": 2725,
+    "schoolName": "고창여자고등학교"
+  },
+  {
+    "schoolCode": 2726,
+    "schoolName": "김제서고등학교"
+  },
+  {
+    "schoolCode": 2727,
+    "schoolName": "남성고등학교"
+  },
+  {
+    "schoolCode": 2728,
+    "schoolName": "군산중앙여자고등학교"
+  },
+  {
+    "schoolCode": 2729,
+    "schoolName": "남원서진여자고등학교"
+  },
+  {
+    "schoolCode": 2730,
+    "schoolName": "동국대학교사범대학부속금산고등학교"
+  },
+  {
+    "schoolCode": 2731,
+    "schoolName": "덕암고등학교"
+  },
+  {
+    "schoolCode": 2732,
+    "schoolName": "동암고등학교"
+  },
+  {
+    "schoolCode": 2733,
+    "schoolName": "만경고등학교"
+  },
+  {
+    "schoolCode": 2734,
+    "schoolName": "백산고등학교"
+  },
+  {
+    "schoolCode": 2735,
+    "schoolName": "남원국악예술고등학교"
+  },
+  {
+    "schoolCode": 2736,
+    "schoolName": "상산고등학교"
+  },
+  {
+    "schoolCode": 2737,
+    "schoolName": "전주성심여자고등학교"
+  },
+  {
+    "schoolCode": 2738,
+    "schoolName": "성원고등학교"
+  },
+  {
+    "schoolCode": 2739,
+    "schoolName": "만경여자고등학교"
+  },
+  {
+    "schoolCode": 2740,
+    "schoolName": "배영고등학교"
+  },
+  {
+    "schoolCode": 2741,
+    "schoolName": "성일고등학교"
+  },
+  {
+    "schoolCode": 2742,
+    "schoolName": "세인고등학교"
+  },
+  {
+    "schoolCode": 2743,
+    "schoolName": "순창고등학교"
+  },
+  {
+    "schoolCode": 2744,
+    "schoolName": "백화여자고등학교"
+  },
+  {
+    "schoolCode": 2745,
+    "schoolName": "전주신흥고등학교"
+  },
+  {
+    "schoolCode": 2746,
+    "schoolName": "신태인고등학교"
+  },
+  {
+    "schoolCode": 2747,
+    "schoolName": "군산영광여자고등학교"
+  },
+  {
+    "schoolCode": 2748,
+    "schoolName": "전주영생고등학교"
+  },
+  {
+    "schoolCode": 2749,
+    "schoolName": "전주대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 2750,
+    "schoolName": "완산고등학교"
+  },
+  {
+    "schoolCode": 2751,
+    "schoolName": "영선고등학교"
+  },
+  {
+    "schoolCode": 2752,
+    "schoolName": "완주고등학교"
+  },
+  {
+    "schoolCode": 2753,
+    "schoolName": "우석고등학교"
+  },
+  {
+    "schoolCode": 2754,
+    "schoolName": "전북여자고등학교"
+  },
+  {
+    "schoolCode": 2755,
+    "schoolName": "원광고등학교"
+  },
+  {
+    "schoolCode": 2756,
+    "schoolName": "왕신여자고등학교"
+  },
+  {
+    "schoolCode": 2757,
+    "schoolName": "원광여자고등학교"
+  },
+  {
+    "schoolCode": 2758,
+    "schoolName": "유일여자고등학교"
+  },
+  {
+    "schoolCode": 2759,
+    "schoolName": "이일여자고등학교"
+  },
+  {
+    "schoolCode": 2760,
+    "schoolName": "인상고등학교"
+  },
+  {
+    "schoolCode": 2761,
+    "schoolName": "전북제일고등학교"
+  },
+  {
+    "schoolCode": 2762,
+    "schoolName": "전일고등학교"
+  },
+  {
+    "schoolCode": 2763,
+    "schoolName": "익산고등학교"
+  },
+  {
+    "schoolCode": 2764,
+    "schoolName": "전주중앙여자고등학교"
+  },
+  {
+    "schoolCode": 2765,
+    "schoolName": "정주고등학교"
+  },
+  {
+    "schoolCode": 2766,
+    "schoolName": "군산중앙고등학교"
+  },
+  {
+    "schoolCode": 2767,
+    "schoolName": "서영여자고등학교"
+  },
+  {
+    "schoolCode": 2768,
+    "schoolName": "전주한일고등학교"
+  },
+  {
+    "schoolCode": 2769,
+    "schoolName": "전주해성고등학교"
+  },
+  {
+    "schoolCode": 2770,
+    "schoolName": "푸른꿈고등학교"
+  },
+  {
+    "schoolCode": 2771,
+    "schoolName": "호남고등학교"
+  },
+  {
+    "schoolCode": 2772,
+    "schoolName": "태인고등학교"
+  },
+  {
+    "schoolCode": 2773,
+    "schoolName": "한국마사고등학교"
+  },
+  {
+    "schoolCode": 2774,
+    "schoolName": "함열여자고등학교"
+  },
+  {
+    "schoolCode": 2775,
+    "schoolName": "양현고등학교"
+  },
+  {
+    "schoolCode": 2776,
+    "schoolName": "무주고등학교"
+  },
+  {
+    "schoolCode": 2777,
+    "schoolName": "호남제일고등학교"
+  },
+  {
+    "schoolCode": 2778,
+    "schoolName": "전북체육고등학교"
+  },
+  {
+    "schoolCode": 2779,
+    "schoolName": "전북과학고등학교"
+  },
+  {
+    "schoolCode": 2780,
+    "schoolName": "전주예술고등학교"
+  },
+  {
+    "schoolCode": 2781,
+    "schoolName": "전북외국어고등학교"
+  },
+  {
+    "schoolCode": 2782,
+    "schoolName": "한국한방고등학교"
+  },
+  {
+    "schoolCode": 2783,
+    "schoolName": "김제농생명마이스터고등학교"
+  },
+  {
+    "schoolCode": 2784,
+    "schoolName": "남원용성고등학교"
+  },
+  {
+    "schoolCode": 2785,
+    "schoolName": "부안제일고등학교"
+  },
+  {
+    "schoolCode": 2786,
+    "schoolName": "한국치즈과학고등학교"
+  },
+  {
+    "schoolCode": 2787,
+    "schoolName": "한국경마축산고등학교"
+  },
+  {
+    "schoolCode": 2788,
+    "schoolName": "전주생명과학고등학교"
+  },
+  {
+    "schoolCode": 2789,
+    "schoolName": "정읍제일고등학교"
+  },
+  {
+    "schoolCode": 2790,
+    "schoolName": "전북기계공업고등학교"
+  },
+  {
+    "schoolCode": 2791,
+    "schoolName": "군산기계공업고등학교"
+  },
+  {
+    "schoolCode": 2792,
+    "schoolName": "삼례공업고등학교"
+  },
+  {
+    "schoolCode": 2793,
+    "schoolName": "오수고등학교"
+  },
+  {
+    "schoolCode": 2794,
+    "schoolName": "이리공업고등학교"
+  },
+  {
+    "schoolCode": 2795,
+    "schoolName": "장계공업고등학교"
+  },
+  {
+    "schoolCode": 2796,
+    "schoolName": "전주공업고등학교"
+  },
+  {
+    "schoolCode": 2797,
+    "schoolName": "줄포자동차공업고등학교"
+  },
+  {
+    "schoolCode": 2798,
+    "schoolName": "진안공업고등학교"
+  },
+  {
+    "schoolCode": 2799,
+    "schoolName": "칠보고등학교"
+  },
+  {
+    "schoolCode": 2800,
+    "schoolName": "강호항공고등학교"
+  },
+  {
+    "schoolCode": 2801,
+    "schoolName": "한국게임과학고등학교"
+  },
+  {
+    "schoolCode": 2802,
+    "schoolName": "군산상업고등학교"
+  },
+  {
+    "schoolCode": 2803,
+    "schoolName": "군산여자상업고등학교"
+  },
+  {
+    "schoolCode": 2804,
+    "schoolName": "전주상업정보고등학교"
+  },
+  {
+    "schoolCode": 2805,
+    "schoolName": "덕암정보고등학교"
+  },
+  {
+    "schoolCode": 2806,
+    "schoolName": "완산여자고등학교"
+  },
+  {
+    "schoolCode": 2807,
+    "schoolName": "진경여자고등학교"
+  },
+  {
+    "schoolCode": 2808,
+    "schoolName": "남원제일고등학교"
+  },
+  {
+    "schoolCode": 2809,
+    "schoolName": "학산고등학교"
+  },
+  {
+    "schoolCode": 2810,
+    "schoolName": "목포고등학교"
+  },
+  {
+    "schoolCode": 2811,
+    "schoolName": "목포여자고등학교"
+  },
+  {
+    "schoolCode": 2812,
+    "schoolName": "목포제일여자고등학교"
+  },
+  {
+    "schoolCode": 2813,
+    "schoolName": "여수고등학교"
+  },
+  {
+    "schoolCode": 2814,
+    "schoolName": "여수여자고등학교"
+  },
+  {
+    "schoolCode": 2815,
+    "schoolName": "순천고등학교"
+  },
+  {
+    "schoolCode": 2816,
+    "schoolName": "순천여자고등학교"
+  },
+  {
+    "schoolCode": 2817,
+    "schoolName": "나주고등학교"
+  },
+  {
+    "schoolCode": 2818,
+    "schoolName": "봉황고등학교"
+  },
+  {
+    "schoolCode": 2819,
+    "schoolName": "여천고등학교"
+  },
+  {
+    "schoolCode": 2820,
+    "schoolName": "부영여자고등학교"
+  },
+  {
+    "schoolCode": 2821,
+    "schoolName": "광양백운고등학교"
+  },
+  {
+    "schoolCode": 2822,
+    "schoolName": "광양고등학교"
+  },
+  {
+    "schoolCode": 2823,
+    "schoolName": "광양여자고등학교"
+  },
+  {
+    "schoolCode": 2824,
+    "schoolName": "여수화양고등학교"
+  },
+  {
+    "schoolCode": 2825,
+    "schoolName": "여남고등학교"
+  },
+  {
+    "schoolCode": 2826,
+    "schoolName": "담양고등학교"
+  },
+  {
+    "schoolCode": 2827,
+    "schoolName": "곡성고등학교"
+  },
+  {
+    "schoolCode": 2828,
+    "schoolName": "구례고등학교"
+  },
+  {
+    "schoolCode": 2829,
+    "schoolName": "고흥고등학교"
+  },
+  {
+    "schoolCode": 2830,
+    "schoolName": "녹동고등학교"
+  },
+  {
+    "schoolCode": 2831,
+    "schoolName": "보성고등학교"
+  },
+  {
+    "schoolCode": 2832,
+    "schoolName": "화순고등학교"
+  },
+  {
+    "schoolCode": 2833,
+    "schoolName": "장흥고등학교"
+  },
+  {
+    "schoolCode": 2834,
+    "schoolName": "장흥관산고등학교"
+  },
+  {
+    "schoolCode": 2835,
+    "schoolName": "강진고등학교"
+  },
+  {
+    "schoolCode": 2836,
+    "schoolName": "성전고등학교"
+  },
+  {
+    "schoolCode": 2837,
+    "schoolName": "해남고등학교"
+  },
+  {
+    "schoolCode": 2838,
+    "schoolName": "영암고등학교"
+  },
+  {
+    "schoolCode": 2839,
+    "schoolName": "영암낭주고등학교"
+  },
+  {
+    "schoolCode": 2840,
+    "schoolName": "영광고등학교"
+  },
+  {
+    "schoolCode": 2841,
+    "schoolName": "완도고등학교"
+  },
+  {
+    "schoolCode": 2842,
+    "schoolName": "완도금일고등학교"
+  },
+  {
+    "schoolCode": 2843,
+    "schoolName": "약산고등학교"
+  },
+  {
+    "schoolCode": 2844,
+    "schoolName": "도초고등학교"
+  },
+  {
+    "schoolCode": 2845,
+    "schoolName": "목상고등학교"
+  },
+  {
+    "schoolCode": 2846,
+    "schoolName": "문향고등학교"
+  },
+  {
+    "schoolCode": 2847,
+    "schoolName": "화순이양고등학교"
+  },
+  {
+    "schoolCode": 2848,
+    "schoolName": "무안고등학교"
+  },
+  {
+    "schoolCode": 2849,
+    "schoolName": "삼호고등학교"
+  },
+  {
+    "schoolCode": 2850,
+    "schoolName": "고금고등학교"
+  },
+  {
+    "schoolCode": 2851,
+    "schoolName": "노화고등학교"
+  },
+  {
+    "schoolCode": 2852,
+    "schoolName": "지명고등학교"
+  },
+  {
+    "schoolCode": 2853,
+    "schoolName": "하의고등학교"
+  },
+  {
+    "schoolCode": 2854,
+    "schoolName": "조도고등학교"
+  },
+  {
+    "schoolCode": 2855,
+    "schoolName": "순천제일고등학교"
+  },
+  {
+    "schoolCode": 2856,
+    "schoolName": "여수충무고등학교"
+  },
+  {
+    "schoolCode": 2857,
+    "schoolName": "중마고등학교"
+  },
+  {
+    "schoolCode": 2858,
+    "schoolName": "순천팔마고등학교"
+  },
+  {
+    "schoolCode": 2859,
+    "schoolName": "남악고등학교"
+  },
+  {
+    "schoolCode": 2860,
+    "schoolName": "광영고등학교"
+  },
+  {
+    "schoolCode": 2861,
+    "schoolName": "함평고등학교"
+  },
+  {
+    "schoolCode": 2862,
+    "schoolName": "문태고등학교"
+  },
+  {
+    "schoolCode": 2863,
+    "schoolName": "목포홍일고등학교"
+  },
+  {
+    "schoolCode": 2864,
+    "schoolName": "영흥고등학교"
+  },
+  {
+    "schoolCode": 2865,
+    "schoolName": "목포덕인고등학교"
+  },
+  {
+    "schoolCode": 2866,
+    "schoolName": "목포마리아회고등학교"
+  },
+  {
+    "schoolCode": 2867,
+    "schoolName": "목포정명여자고등학교"
+  },
+  {
+    "schoolCode": 2868,
+    "schoolName": "목포혜인여자고등학교"
+  },
+  {
+    "schoolCode": 2869,
+    "schoolName": "한영고등학교"
+  },
+  {
+    "schoolCode": 2870,
+    "schoolName": "여수중앙여자고등학교"
+  },
+  {
+    "schoolCode": 2871,
+    "schoolName": "순천매산고등학교"
+  },
+  {
+    "schoolCode": 2872,
+    "schoolName": "순천금당고등학교"
+  },
+  {
+    "schoolCode": 2873,
+    "schoolName": "순천효천고등학교"
+  },
+  {
+    "schoolCode": 2874,
+    "schoolName": "순천매산여자고등학교"
+  },
+  {
+    "schoolCode": 2875,
+    "schoolName": "순천강남여자고등학교"
+  },
+  {
+    "schoolCode": 2876,
+    "schoolName": "금성고등학교"
+  },
+  {
+    "schoolCode": 2877,
+    "schoolName": "광남고등학교"
+  },
+  {
+    "schoolCode": 2878,
+    "schoolName": "광양제철고등학교"
+  },
+  {
+    "schoolCode": 2879,
+    "schoolName": "여양고등학교"
+  },
+  {
+    "schoolCode": 2880,
+    "schoolName": "창평고등학교"
+  },
+  {
+    "schoolCode": 2881,
+    "schoolName": "벌교고등학교"
+  },
+  {
+    "schoolCode": 2882,
+    "schoolName": "벌교여자고등학교"
+  },
+  {
+    "schoolCode": 2883,
+    "schoolName": "예당고등학교"
+  },
+  {
+    "schoolCode": 2884,
+    "schoolName": "능주고등학교"
+  },
+  {
+    "schoolCode": 2885,
+    "schoolName": "화원고등학교"
+  },
+  {
+    "schoolCode": 2886,
+    "schoolName": "영암여자고등학교"
+  },
+  {
+    "schoolCode": 2887,
+    "schoolName": "함평학다리고등학교"
+  },
+  {
+    "schoolCode": 2888,
+    "schoolName": "해룡고등학교"
+  },
+  {
+    "schoolCode": 2889,
+    "schoolName": "장성고등학교"
+  },
+  {
+    "schoolCode": 2890,
+    "schoolName": "진도고등학교"
+  },
+  {
+    "schoolCode": 2891,
+    "schoolName": "순천복성고등학교"
+  },
+  {
+    "schoolCode": 2892,
+    "schoolName": "영산고등학교"
+  },
+  {
+    "schoolCode": 2893,
+    "schoolName": "옥과고등학교"
+  },
+  {
+    "schoolCode": 2894,
+    "schoolName": "한빛고등학교"
+  },
+  {
+    "schoolCode": 2895,
+    "schoolName": "영산성지고등학교"
+  },
+  {
+    "schoolCode": 2896,
+    "schoolName": "백제고등학교"
+  },
+  {
+    "schoolCode": 2897,
+    "schoolName": "한울고등학교"
+  },
+  {
+    "schoolCode": 2898,
+    "schoolName": "한국바둑고등학교"
+  },
+  {
+    "schoolCode": 2899,
+    "schoolName": "함평골프고등학교"
+  },
+  {
+    "schoolCode": 2900,
+    "schoolName": "전남체육고등학교"
+  },
+  {
+    "schoolCode": 2901,
+    "schoolName": "전남과학고등학교"
+  },
+  {
+    "schoolCode": 2902,
+    "schoolName": "진도국악고등학교"
+  },
+  {
+    "schoolCode": 2903,
+    "schoolName": "전남예술고등학교"
+  },
+  {
+    "schoolCode": 2904,
+    "schoolName": "전남외국어고등학교"
+  },
+  {
+    "schoolCode": 2905,
+    "schoolName": "호남원예고등학교"
+  },
+  {
+    "schoolCode": 2906,
+    "schoolName": "전남자연과학고등학교"
+  },
+  {
+    "schoolCode": 2907,
+    "schoolName": "전남생명과학고등학교"
+  },
+  {
+    "schoolCode": 2908,
+    "schoolName": "한국말산업고등학교"
+  },
+  {
+    "schoolCode": 2909,
+    "schoolName": "광양하이텍고등학교"
+  },
+  {
+    "schoolCode": 2910,
+    "schoolName": "장성하이텍고등학교"
+  },
+  {
+    "schoolCode": 2911,
+    "schoolName": "목포공업고등학교"
+  },
+  {
+    "schoolCode": 2912,
+    "schoolName": "순천공업고등학교"
+  },
+  {
+    "schoolCode": 2913,
+    "schoolName": "담양공업고등학교"
+  },
+  {
+    "schoolCode": 2914,
+    "schoolName": "해남공업고등학교"
+  },
+  {
+    "schoolCode": 2915,
+    "schoolName": "구림공업고등학교"
+  },
+  {
+    "schoolCode": 2916,
+    "schoolName": "영암전자과학고등학교"
+  },
+  {
+    "schoolCode": 2917,
+    "schoolName": "영광전자고등학교"
+  },
+  {
+    "schoolCode": 2918,
+    "schoolName": "고흥영주고등학교"
+  },
+  {
+    "schoolCode": 2919,
+    "schoolName": "고흥도화고등학교"
+  },
+  {
+    "schoolCode": 2920,
+    "schoolName": "순천전자고등학교"
+  },
+  {
+    "schoolCode": 2921,
+    "schoolName": "다향고등학교"
+  },
+  {
+    "schoolCode": 2922,
+    "schoolName": "전남기술과학고등학교"
+  },
+  {
+    "schoolCode": 2923,
+    "schoolName": "정남진산업고등학교"
+  },
+  {
+    "schoolCode": 2924,
+    "schoolName": "영광공업고등학교"
+  },
+  {
+    "schoolCode": 2925,
+    "schoolName": "진도실업고등학교"
+  },
+  {
+    "schoolCode": 2926,
+    "schoolName": "여수석유화학고등학교"
+  },
+  {
+    "schoolCode": 2927,
+    "schoolName": "여수공업고등학교"
+  },
+  {
+    "schoolCode": 2928,
+    "schoolName": "나주공업고등학교"
+  },
+  {
+    "schoolCode": 2929,
+    "schoolName": "한국항만물류고등학교"
+  },
+  {
+    "schoolCode": 2930,
+    "schoolName": "나주상업고등학교"
+  },
+  {
+    "schoolCode": 2931,
+    "schoolName": "벌교상업고등학교"
+  },
+  {
+    "schoolCode": 2932,
+    "schoolName": "병영상업고등학교"
+  },
+  {
+    "schoolCode": 2933,
+    "schoolName": "법성고등학교"
+  },
+  {
+    "schoolCode": 2934,
+    "schoolName": "송지고등학교"
+  },
+  {
+    "schoolCode": 2935,
+    "schoolName": "삼계고등학교"
+  },
+  {
+    "schoolCode": 2936,
+    "schoolName": "안좌고등학교"
+  },
+  {
+    "schoolCode": 2937,
+    "schoolName": "임자고등학교"
+  },
+  {
+    "schoolCode": 2938,
+    "schoolName": "고흥산업과학고등학교"
+  },
+  {
+    "schoolCode": 2939,
+    "schoolName": "목포여자상업고등학교"
+  },
+  {
+    "schoolCode": 2940,
+    "schoolName": "목포성신고등학교"
+  },
+  {
+    "schoolCode": 2941,
+    "schoolName": "여수정보과학고등학교"
+  },
+  {
+    "schoolCode": 2942,
+    "schoolName": "진성여자고등학교"
+  },
+  {
+    "schoolCode": 2943,
+    "schoolName": "순천효산고등학교"
+  },
+  {
+    "schoolCode": 2944,
+    "schoolName": "순천청암고등학교"
+  },
+  {
+    "schoolCode": 2945,
+    "schoolName": "목포중앙고등학교"
+  },
+  {
+    "schoolCode": 2946,
+    "schoolName": "신안해양과학고등학교"
+  },
+  {
+    "schoolCode": 2947,
+    "schoolName": "여수해양과학고등학교"
+  },
+  {
+    "schoolCode": 2948,
+    "schoolName": "완도수산고등학교"
+  },
+  {
+    "schoolCode": 2949,
+    "schoolName": "전남미용고등학교"
+  },
+  {
+    "schoolCode": 2950,
+    "schoolName": "전남보건고등학교"
+  },
+  {
+    "schoolCode": 2951,
+    "schoolName": "전남조리과학고등학교"
+  },
+  {
+    "schoolCode": 2952,
+    "schoolName": "율곡고등학교"
+  },
+  {
+    "schoolCode": 2953,
+    "schoolName": "사동고등학교"
+  },
+  {
+    "schoolCode": 2954,
+    "schoolName": "석적고등학교"
+  },
+  {
+    "schoolCode": 2955,
+    "schoolName": "가은고등학교"
+  },
+  {
+    "schoolCode": 2956,
+    "schoolName": "경산고등학교"
+  },
+  {
+    "schoolCode": 2957,
+    "schoolName": "경주여자고등학교"
+  },
+  {
+    "schoolCode": 2958,
+    "schoolName": "계림고등학교"
+  },
+  {
+    "schoolCode": 2959,
+    "schoolName": "구미고등학교"
+  },
+  {
+    "schoolCode": 2960,
+    "schoolName": "구미여자고등학교"
+  },
+  {
+    "schoolCode": 2961,
+    "schoolName": "군위고등학교"
+  },
+  {
+    "schoolCode": 2962,
+    "schoolName": "금성고등학교"
+  },
+  {
+    "schoolCode": 2963,
+    "schoolName": "금오고등학교"
+  },
+  {
+    "schoolCode": 2964,
+    "schoolName": "금천고등학교"
+  },
+  {
+    "schoolCode": 2965,
+    "schoolName": "포은고등학교"
+  },
+  {
+    "schoolCode": 2966,
+    "schoolName": "김천여자고등학교"
+  },
+  {
+    "schoolCode": 2967,
+    "schoolName": "김천중앙고등학교"
+  },
+  {
+    "schoolCode": 2968,
+    "schoolName": "동명고등학교"
+  },
+  {
+    "schoolCode": 2969,
+    "schoolName": "두호고등학교"
+  },
+  {
+    "schoolCode": 2970,
+    "schoolName": "봉화고등학교"
+  },
+  {
+    "schoolCode": 2971,
+    "schoolName": "경북일고등학교"
+  },
+  {
+    "schoolCode": 2972,
+    "schoolName": "사곡고등학교"
+  },
+  {
+    "schoolCode": 2973,
+    "schoolName": "상모고등학교"
+  },
+  {
+    "schoolCode": 2974,
+    "schoolName": "상주여자고등학교"
+  },
+  {
+    "schoolCode": 2975,
+    "schoolName": "선산고등학교"
+  },
+  {
+    "schoolCode": 2976,
+    "schoolName": "선주고등학교"
+  },
+  {
+    "schoolCode": 2977,
+    "schoolName": "성주고등학교"
+  },
+  {
+    "schoolCode": 2978,
+    "schoolName": "수비고등학교"
+  },
+  {
+    "schoolCode": 2979,
+    "schoolName": "안계고등학교"
+  },
+  {
+    "schoolCode": 2980,
+    "schoolName": "영덕고등학교"
+  },
+  {
+    "schoolCode": 2981,
+    "schoolName": "안동고등학교"
+  },
+  {
+    "schoolCode": 2982,
+    "schoolName": "안동여자고등학교"
+  },
+  {
+    "schoolCode": 2983,
+    "schoolName": "약목고등학교"
+  },
+  {
+    "schoolCode": 2984,
+    "schoolName": "북삼고등학교"
+  },
+  {
+    "schoolCode": 2985,
+    "schoolName": "영양고등학교"
+  },
+  {
+    "schoolCode": 2986,
+    "schoolName": "영주여자고등학교"
+  },
+  {
+    "schoolCode": 2987,
+    "schoolName": "영주제일고등학교"
+  },
+  {
+    "schoolCode": 2988,
+    "schoolName": "영천고등학교"
+  },
+  {
+    "schoolCode": 2989,
+    "schoolName": "영천여자고등학교"
+  },
+  {
+    "schoolCode": 2990,
+    "schoolName": "영해고등학교"
+  },
+  {
+    "schoolCode": 2991,
+    "schoolName": "예천여자고등학교"
+  },
+  {
+    "schoolCode": 2992,
+    "schoolName": "울진고등학교"
+  },
+  {
+    "schoolCode": 2993,
+    "schoolName": "죽변고등학교"
+  },
+  {
+    "schoolCode": 2994,
+    "schoolName": "의성여자고등학교"
+  },
+  {
+    "schoolCode": 2995,
+    "schoolName": "중모고등학교"
+  },
+  {
+    "schoolCode": 2996,
+    "schoolName": "인동고등학교"
+  },
+  {
+    "schoolCode": 2997,
+    "schoolName": "점촌고등학교"
+  },
+  {
+    "schoolCode": 2998,
+    "schoolName": "청송고등학교"
+  },
+  {
+    "schoolCode": 2999,
+    "schoolName": "포항고등학교"
+  },
+  {
+    "schoolCode": 3000,
+    "schoolName": "진보고등학교"
+  },
+  {
+    "schoolCode": 3001,
+    "schoolName": "포항여자고등학교"
+  },
+  {
+    "schoolCode": 3002,
+    "schoolName": "포항이동고등학교"
+  },
+  {
+    "schoolCode": 3003,
+    "schoolName": "현서고등학교"
+  },
+  {
+    "schoolCode": 3004,
+    "schoolName": "화령고등학교"
+  },
+  {
+    "schoolCode": 3005,
+    "schoolName": "효령고등학교"
+  },
+  {
+    "schoolCode": 3006,
+    "schoolName": "후포고등학교"
+  },
+  {
+    "schoolCode": 3007,
+    "schoolName": "경구고등학교"
+  },
+  {
+    "schoolCode": 3008,
+    "schoolName": "경산여자고등학교"
+  },
+  {
+    "schoolCode": 3009,
+    "schoolName": "경안고등학교"
+  },
+  {
+    "schoolCode": 3010,
+    "schoolName": "경일고등학교"
+  },
+  {
+    "schoolCode": 3011,
+    "schoolName": "경안여자고등학교"
+  },
+  {
+    "schoolCode": 3012,
+    "schoolName": "경주고등학교"
+  },
+  {
+    "schoolCode": 3013,
+    "schoolName": "경주화랑고등학교"
+  },
+  {
+    "schoolCode": 3014,
+    "schoolName": "근화여자고등학교"
+  },
+  {
+    "schoolCode": 3015,
+    "schoolName": "길원여자고등학교"
+  },
+  {
+    "schoolCode": 3016,
+    "schoolName": "김천고등학교"
+  },
+  {
+    "schoolCode": 3017,
+    "schoolName": "금오여자고등학교"
+  },
+  {
+    "schoolCode": 3018,
+    "schoolName": "대가야고등학교"
+  },
+  {
+    "schoolCode": 3019,
+    "schoolName": "대구가톨릭대학교사범대학부속무학고등학교"
+  },
+  {
+    "schoolCode": 3020,
+    "schoolName": "대동고등학교"
+  },
+  {
+    "schoolCode": 3021,
+    "schoolName": "대영고등학교"
+  },
+  {
+    "schoolCode": 3022,
+    "schoolName": "대창고등학교"
+  },
+  {
+    "schoolCode": 3023,
+    "schoolName": "도개고등학교"
+  },
+  {
+    "schoolCode": 3024,
+    "schoolName": "동지여자고등학교"
+  },
+  {
+    "schoolCode": 3025,
+    "schoolName": "동지고등학교"
+  },
+  {
+    "schoolCode": 3026,
+    "schoolName": "모계고등학교"
+  },
+  {
+    "schoolCode": 3027,
+    "schoolName": "무산고등학교"
+  },
+  {
+    "schoolCode": 3028,
+    "schoolName": "문경여자고등학교"
+  },
+  {
+    "schoolCode": 3029,
+    "schoolName": "문명고등학교"
+  },
+  {
+    "schoolCode": 3030,
+    "schoolName": "문창고등학교"
+  },
+  {
+    "schoolCode": 3031,
+    "schoolName": "문화고등학교"
+  },
+  {
+    "schoolCode": 3032,
+    "schoolName": "상주고등학교"
+  },
+  {
+    "schoolCode": 3033,
+    "schoolName": "선화여자고등학교"
+  },
+  {
+    "schoolCode": 3034,
+    "schoolName": "성의고등학교"
+  },
+  {
+    "schoolCode": 3035,
+    "schoolName": "우석여자고등학교"
+  },
+  {
+    "schoolCode": 3036,
+    "schoolName": "성의여자고등학교"
+  },
+  {
+    "schoolCode": 3037,
+    "schoolName": "성창여자고등학교"
+  },
+  {
+    "schoolCode": 3038,
+    "schoolName": "성희여자고등학교"
+  },
+  {
+    "schoolCode": 3039,
+    "schoolName": "세명고등학교"
+  },
+  {
+    "schoolCode": 3040,
+    "schoolName": "세화고등학교"
+  },
+  {
+    "schoolCode": 3041,
+    "schoolName": "순심고등학교"
+  },
+  {
+    "schoolCode": 3042,
+    "schoolName": "순심여자고등학교"
+  },
+  {
+    "schoolCode": 3043,
+    "schoolName": "선덕여자고등학교"
+  },
+  {
+    "schoolCode": 3044,
+    "schoolName": "신라고등학교"
+  },
+  {
+    "schoolCode": 3045,
+    "schoolName": "안강여자고등학교"
+  },
+  {
+    "schoolCode": 3046,
+    "schoolName": "안동중앙고등학교"
+  },
+  {
+    "schoolCode": 3047,
+    "schoolName": "영광고등학교"
+  },
+  {
+    "schoolCode": 3048,
+    "schoolName": "영광여자고등학교"
+  },
+  {
+    "schoolCode": 3049,
+    "schoolName": "영남삼육고등학교"
+  },
+  {
+    "schoolCode": 3050,
+    "schoolName": "성주여자고등학교"
+  },
+  {
+    "schoolCode": 3051,
+    "schoolName": "영덕여자고등학교"
+  },
+  {
+    "schoolCode": 3052,
+    "schoolName": "영동고등학교"
+  },
+  {
+    "schoolCode": 3053,
+    "schoolName": "영문고등학교"
+  },
+  {
+    "schoolCode": 3054,
+    "schoolName": "영양여자고등학교"
+  },
+  {
+    "schoolCode": 3055,
+    "schoolName": "영일고등학교"
+  },
+  {
+    "schoolCode": 3056,
+    "schoolName": "영주고등학교"
+  },
+  {
+    "schoolCode": 3057,
+    "schoolName": "영천성남여자고등학교"
+  },
+  {
+    "schoolCode": 3058,
+    "schoolName": "오상고등학교"
+  },
+  {
+    "schoolCode": 3059,
+    "schoolName": "오천고등학교"
+  },
+  {
+    "schoolCode": 3060,
+    "schoolName": "유성여자고등학교"
+  },
+  {
+    "schoolCode": 3061,
+    "schoolName": "의성고등학교"
+  },
+  {
+    "schoolCode": 3062,
+    "schoolName": "이서고등학교"
+  },
+  {
+    "schoolCode": 3063,
+    "schoolName": "진량고등학교"
+  },
+  {
+    "schoolCode": 3064,
+    "schoolName": "청도고등학교"
+  },
+  {
+    "schoolCode": 3065,
+    "schoolName": "청송여자고등학교"
+  },
+  {
+    "schoolCode": 3066,
+    "schoolName": "포항영신고등학교"
+  },
+  {
+    "schoolCode": 3067,
+    "schoolName": "포항제철고등학교"
+  },
+  {
+    "schoolCode": 3068,
+    "schoolName": "포항장성고등학교"
+  },
+  {
+    "schoolCode": 3069,
+    "schoolName": "포항중앙고등학교"
+  },
+  {
+    "schoolCode": 3070,
+    "schoolName": "포항동성고등학교"
+  },
+  {
+    "schoolCode": 3071,
+    "schoolName": "포항중앙여자고등학교"
+  },
+  {
+    "schoolCode": 3072,
+    "schoolName": "풍산고등학교"
+  },
+  {
+    "schoolCode": 3073,
+    "schoolName": "하양여자고등학교"
+  },
+  {
+    "schoolCode": 3074,
+    "schoolName": "한일여자고등학교"
+  },
+  {
+    "schoolCode": 3075,
+    "schoolName": "함창고등학교"
+  },
+  {
+    "schoolCode": 3076,
+    "schoolName": "현일고등학교"
+  },
+  {
+    "schoolCode": 3077,
+    "schoolName": "형곡고등학교"
+  },
+  {
+    "schoolCode": 3078,
+    "schoolName": "경북체육고등학교"
+  },
+  {
+    "schoolCode": 3079,
+    "schoolName": "경북과학고등학교"
+  },
+  {
+    "schoolCode": 3080,
+    "schoolName": "경산과학고등학교"
+  },
+  {
+    "schoolCode": 3081,
+    "schoolName": "김천예술고등학교"
+  },
+  {
+    "schoolCode": 3082,
+    "schoolName": "포항예술고등학교"
+  },
+  {
+    "schoolCode": 3083,
+    "schoolName": "경북외국어고등학교"
+  },
+  {
+    "schoolCode": 3084,
+    "schoolName": "김천생명과학고등학교"
+  },
+  {
+    "schoolCode": 3085,
+    "schoolName": "한국생명과학고등학교"
+  },
+  {
+    "schoolCode": 3086,
+    "schoolName": "경북식품과학마이스터고등학교"
+  },
+  {
+    "schoolCode": 3087,
+    "schoolName": "한국산림과학고등학교"
+  },
+  {
+    "schoolCode": 3088,
+    "schoolName": "용운고등학교"
+  },
+  {
+    "schoolCode": 3089,
+    "schoolName": "구미전자공업고등학교"
+  },
+  {
+    "schoolCode": 3090,
+    "schoolName": "경북기계금속고등학교"
+  },
+  {
+    "schoolCode": 3091,
+    "schoolName": "경주공업고등학교"
+  },
+  {
+    "schoolCode": 3092,
+    "schoolName": "경주디자인고등학교"
+  },
+  {
+    "schoolCode": 3093,
+    "schoolName": "금오공업고등학교"
+  },
+  {
+    "schoolCode": 3094,
+    "schoolName": "문경공업고등학교"
+  },
+  {
+    "schoolCode": 3095,
+    "schoolName": "상산전자고등학교"
+  },
+  {
+    "schoolCode": 3096,
+    "schoolName": "경북과학기술고등학교"
+  },
+  {
+    "schoolCode": 3097,
+    "schoolName": "안강전자고등학교"
+  },
+  {
+    "schoolCode": 3098,
+    "schoolName": "의성공업고등학교"
+  },
+  {
+    "schoolCode": 3099,
+    "schoolName": "경북드론고등학교"
+  },
+  {
+    "schoolCode": 3100,
+    "schoolName": "칠곡고등학교"
+  },
+  {
+    "schoolCode": 3101,
+    "schoolName": "한국원자력마이스터고등학교"
+  },
+  {
+    "schoolCode": 3102,
+    "schoolName": "포항여자전자고등학교"
+  },
+  {
+    "schoolCode": 3103,
+    "schoolName": "포항흥해공업고등학교"
+  },
+  {
+    "schoolCode": 3104,
+    "schoolName": "금호공업고등학교"
+  },
+  {
+    "schoolCode": 3105,
+    "schoolName": "상주공업고등학교"
+  },
+  {
+    "schoolCode": 3106,
+    "schoolName": "신라공업고등학교"
+  },
+  {
+    "schoolCode": 3107,
+    "schoolName": "경북하이텍고등학교"
+  },
+  {
+    "schoolCode": 3108,
+    "schoolName": "경북항공고등학교"
+  },
+  {
+    "schoolCode": 3109,
+    "schoolName": "영천전자고등학교"
+  },
+  {
+    "schoolCode": 3110,
+    "schoolName": "청송자동차고등학교"
+  },
+  {
+    "schoolCode": 3111,
+    "schoolName": "포항제철공업고등학교"
+  },
+  {
+    "schoolCode": 3112,
+    "schoolName": "감포고등학교"
+  },
+  {
+    "schoolCode": 3113,
+    "schoolName": "강구정보고등학교"
+  },
+  {
+    "schoolCode": 3114,
+    "schoolName": "구미정보고등학교"
+  },
+  {
+    "schoolCode": 3115,
+    "schoolName": "구미여자상업고등학교"
+  },
+  {
+    "schoolCode": 3116,
+    "schoolName": "봉양정보고등학교"
+  },
+  {
+    "schoolCode": 3117,
+    "schoolName": "평해정보고등학교"
+  },
+  {
+    "schoolCode": 3118,
+    "schoolName": "한국펫고등학교"
+  },
+  {
+    "schoolCode": 3119,
+    "schoolName": "경산여자상업고등학교"
+  },
+  {
+    "schoolCode": 3120,
+    "schoolName": "경주정보고등학교"
+  },
+  {
+    "schoolCode": 3121,
+    "schoolName": "명인정보고등학교"
+  },
+  {
+    "schoolCode": 3122,
+    "schoolName": "울릉고등학교"
+  },
+  {
+    "schoolCode": 3123,
+    "schoolName": "포항해양과학고등학교"
+  },
+  {
+    "schoolCode": 3124,
+    "schoolName": "경북생활과학고등학교"
+  },
+  {
+    "schoolCode": 3125,
+    "schoolName": "고령고등학교"
+  },
+  {
+    "schoolCode": 3126,
+    "schoolName": "포항과학기술고등학교"
+  },
+  {
+    "schoolCode": 3127,
+    "schoolName": "경북조리과학고등학교"
+  },
+  {
+    "schoolCode": 3128,
+    "schoolName": "경주여자정보고등학교"
+  },
+  {
+    "schoolCode": 3129,
+    "schoolName": "영주동산고등학교"
+  },
+  {
+    "schoolCode": 3130,
+    "schoolName": "삼성생활예술고등학교"
+  },
+  {
+    "schoolCode": 3131,
+    "schoolName": "선영여자고등학교"
+  },
+  {
+    "schoolCode": 3132,
+    "schoolName": "상지여자상업고등학교"
+  },
+  {
+    "schoolCode": 3133,
+    "schoolName": "경북간호고등학교"
+  },
+  {
+    "schoolCode": 3134,
+    "schoolName": "효청보건고등학교"
+  },
+  {
+    "schoolCode": 3135,
+    "schoolName": "경북세무고등학교"
+  },
+  {
+    "schoolCode": 3136,
+    "schoolName": "경상고등학교"
+  },
+  {
+    "schoolCode": 3137,
+    "schoolName": "산청고등학교"
+  },
+  {
+    "schoolCode": 3138,
+    "schoolName": "경상대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 3139,
+    "schoolName": "거제중앙고등학교"
+  },
+  {
+    "schoolCode": 3140,
+    "schoolName": "거창여자고등학교"
+  },
+  {
+    "schoolCode": 3141,
+    "schoolName": "아림고등학교"
+  },
+  {
+    "schoolCode": 3142,
+    "schoolName": "고성중앙고등학교"
+  },
+  {
+    "schoolCode": 3143,
+    "schoolName": "곤양고등학교"
+  },
+  {
+    "schoolCode": 3144,
+    "schoolName": "금남고등학교"
+  },
+  {
+    "schoolCode": 3145,
+    "schoolName": "김해가야고등학교"
+  },
+  {
+    "schoolCode": 3146,
+    "schoolName": "김해경원고등학교"
+  },
+  {
+    "schoolCode": 3147,
+    "schoolName": "김해고등학교"
+  },
+  {
+    "schoolCode": 3148,
+    "schoolName": "김해대청고등학교"
+  },
+  {
+    "schoolCode": 3149,
+    "schoolName": "김해분성여자고등학교"
+  },
+  {
+    "schoolCode": 3150,
+    "schoolName": "김해분성고등학교"
+  },
+  {
+    "schoolCode": 3151,
+    "schoolName": "김해삼문고등학교"
+  },
+  {
+    "schoolCode": 3152,
+    "schoolName": "김해여자고등학교"
+  },
+  {
+    "schoolCode": 3153,
+    "schoolName": "구산고등학교"
+  },
+  {
+    "schoolCode": 3154,
+    "schoolName": "남해제일고등학교"
+  },
+  {
+    "schoolCode": 3155,
+    "schoolName": "단성고등학교"
+  },
+  {
+    "schoolCode": 3156,
+    "schoolName": "대곡고등학교"
+  },
+  {
+    "schoolCode": 3157,
+    "schoolName": "덕산고등학교"
+  },
+  {
+    "schoolCode": 3158,
+    "schoolName": "마산가포고등학교"
+  },
+  {
+    "schoolCode": 3159,
+    "schoolName": "마산고등학교"
+  },
+  {
+    "schoolCode": 3160,
+    "schoolName": "마산용마고등학교"
+  },
+  {
+    "schoolCode": 3161,
+    "schoolName": "마산구암고등학교"
+  },
+  {
+    "schoolCode": 3162,
+    "schoolName": "마산내서여자고등학교"
+  },
+  {
+    "schoolCode": 3163,
+    "schoolName": "마산여자고등학교"
+  },
+  {
+    "schoolCode": 3164,
+    "schoolName": "명신고등학교"
+  },
+  {
+    "schoolCode": 3165,
+    "schoolName": "밀양고등학교"
+  },
+  {
+    "schoolCode": 3166,
+    "schoolName": "밀양여자고등학교"
+  },
+  {
+    "schoolCode": 3167,
+    "schoolName": "삼가고등학교"
+  },
+  {
+    "schoolCode": 3168,
+    "schoolName": "삼천포중앙고등학교"
+  },
+  {
+    "schoolCode": 3169,
+    "schoolName": "진주중앙고등학교"
+  },
+  {
+    "schoolCode": 3170,
+    "schoolName": "신등고등학교"
+  },
+  {
+    "schoolCode": 3171,
+    "schoolName": "안의고등학교"
+  },
+  {
+    "schoolCode": 3172,
+    "schoolName": "야로고등학교"
+  },
+  {
+    "schoolCode": 3173,
+    "schoolName": "김해삼방고등학교"
+  },
+  {
+    "schoolCode": 3174,
+    "schoolName": "김해제일고등학교"
+  },
+  {
+    "schoolCode": 3175,
+    "schoolName": "김해율하고등학교"
+  },
+  {
+    "schoolCode": 3176,
+    "schoolName": "양산고등학교"
+  },
+  {
+    "schoolCode": 3177,
+    "schoolName": "양산남부고등학교"
+  },
+  {
+    "schoolCode": 3178,
+    "schoolName": "옥종고등학교"
+  },
+  {
+    "schoolCode": 3179,
+    "schoolName": "김해임호고등학교"
+  },
+  {
+    "schoolCode": 3180,
+    "schoolName": "진교고등학교"
+  },
+  {
+    "schoolCode": 3181,
+    "schoolName": "의령고등학교"
+  },
+  {
+    "schoolCode": 3182,
+    "schoolName": "웅상고등학교"
+  },
+  {
+    "schoolCode": 3183,
+    "schoolName": "장유고등학교"
+  },
+  {
+    "schoolCode": 3184,
+    "schoolName": "진서고등학교"
+  },
+  {
+    "schoolCode": 3185,
+    "schoolName": "진양고등학교"
+  },
+  {
+    "schoolCode": 3186,
+    "schoolName": "진주고등학교"
+  },
+  {
+    "schoolCode": 3187,
+    "schoolName": "진영고등학교"
+  },
+  {
+    "schoolCode": 3188,
+    "schoolName": "진주여자고등학교"
+  },
+  {
+    "schoolCode": 3189,
+    "schoolName": "진해고등학교"
+  },
+  {
+    "schoolCode": 3190,
+    "schoolName": "진해여자고등학교"
+  },
+  {
+    "schoolCode": 3191,
+    "schoolName": "창원남산고등학교"
+  },
+  {
+    "schoolCode": 3192,
+    "schoolName": "창원명지여자고등학교"
+  },
+  {
+    "schoolCode": 3193,
+    "schoolName": "창원봉림고등학교"
+  },
+  {
+    "schoolCode": 3194,
+    "schoolName": "창원사파고등학교"
+  },
+  {
+    "schoolCode": 3195,
+    "schoolName": "창원신월고등학교"
+  },
+  {
+    "schoolCode": 3196,
+    "schoolName": "창원여자고등학교"
+  },
+  {
+    "schoolCode": 3197,
+    "schoolName": "창원용호고등학교"
+  },
+  {
+    "schoolCode": 3198,
+    "schoolName": "창원중앙고등학교"
+  },
+  {
+    "schoolCode": 3199,
+    "schoolName": "창원중앙여자고등학교"
+  },
+  {
+    "schoolCode": 3200,
+    "schoolName": "웅천고등학교"
+  },
+  {
+    "schoolCode": 3201,
+    "schoolName": "창원명곡고등학교"
+  },
+  {
+    "schoolCode": 3202,
+    "schoolName": "충무고등학교"
+  },
+  {
+    "schoolCode": 3203,
+    "schoolName": "통영고등학교"
+  },
+  {
+    "schoolCode": 3204,
+    "schoolName": "창원성민여자고등학교"
+  },
+  {
+    "schoolCode": 3205,
+    "schoolName": "통영여자고등학교"
+  },
+  {
+    "schoolCode": 3206,
+    "schoolName": "태봉고등학교"
+  },
+  {
+    "schoolCode": 3207,
+    "schoolName": "하동고등학교"
+  },
+  {
+    "schoolCode": 3208,
+    "schoolName": "함안고등학교"
+  },
+  {
+    "schoolCode": 3209,
+    "schoolName": "함양고등학교"
+  },
+  {
+    "schoolCode": 3210,
+    "schoolName": "서상고등학교"
+  },
+  {
+    "schoolCode": 3211,
+    "schoolName": "합포고등학교"
+  },
+  {
+    "schoolCode": 3212,
+    "schoolName": "합천고등학교"
+  },
+  {
+    "schoolCode": 3213,
+    "schoolName": "간디고등학교"
+  },
+  {
+    "schoolCode": 3214,
+    "schoolName": "거제고등학교"
+  },
+  {
+    "schoolCode": 3215,
+    "schoolName": "대성일고등학교"
+  },
+  {
+    "schoolCode": 3216,
+    "schoolName": "거창고등학교"
+  },
+  {
+    "schoolCode": 3217,
+    "schoolName": "거창중앙고등학교"
+  },
+  {
+    "schoolCode": 3218,
+    "schoolName": "거창대성고등학교"
+  },
+  {
+    "schoolCode": 3219,
+    "schoolName": "고성고등학교"
+  },
+  {
+    "schoolCode": 3220,
+    "schoolName": "경해여자고등학교"
+  },
+  {
+    "schoolCode": 3221,
+    "schoolName": "진주외국어고등학교"
+  },
+  {
+    "schoolCode": 3222,
+    "schoolName": "군북고등학교"
+  },
+  {
+    "schoolCode": 3223,
+    "schoolName": "김해중앙여자고등학교"
+  },
+  {
+    "schoolCode": 3224,
+    "schoolName": "남지고등학교"
+  },
+  {
+    "schoolCode": 3225,
+    "schoolName": "남해고등학교"
+  },
+  {
+    "schoolCode": 3226,
+    "schoolName": "남해해성고등학교"
+  },
+  {
+    "schoolCode": 3227,
+    "schoolName": "대아고등학교"
+  },
+  {
+    "schoolCode": 3228,
+    "schoolName": "마산제일고등학교"
+  },
+  {
+    "schoolCode": 3229,
+    "schoolName": "마산제일여자고등학교"
+  },
+  {
+    "schoolCode": 3230,
+    "schoolName": "밀양동명고등학교"
+  },
+  {
+    "schoolCode": 3231,
+    "schoolName": "마산중앙고등학교"
+  },
+  {
+    "schoolCode": 3232,
+    "schoolName": "밀성고등학교"
+  },
+  {
+    "schoolCode": 3233,
+    "schoolName": "마산무학여자고등학교"
+  },
+  {
+    "schoolCode": 3234,
+    "schoolName": "보광고등학교"
+  },
+  {
+    "schoolCode": 3235,
+    "schoolName": "영산고등학교"
+  },
+  {
+    "schoolCode": 3236,
+    "schoolName": "사천고등학교"
+  },
+  {
+    "schoolCode": 3237,
+    "schoolName": "삼랑진고등학교"
+  },
+  {
+    "schoolCode": 3238,
+    "schoolName": "삼천포고등학교"
+  },
+  {
+    "schoolCode": 3239,
+    "schoolName": "삼현여자고등학교"
+  },
+  {
+    "schoolCode": 3240,
+    "schoolName": "삼천포여자고등학교"
+  },
+  {
+    "schoolCode": 3241,
+    "schoolName": "성지여자고등학교"
+  },
+  {
+    "schoolCode": 3242,
+    "schoolName": "세종고등학교"
+  },
+  {
+    "schoolCode": 3243,
+    "schoolName": "양산제일고등학교"
+  },
+  {
+    "schoolCode": 3244,
+    "schoolName": "효암고등학교"
+  },
+  {
+    "schoolCode": 3245,
+    "schoolName": "양산여자고등학교"
+  },
+  {
+    "schoolCode": 3246,
+    "schoolName": "용남고등학교"
+  },
+  {
+    "schoolCode": 3247,
+    "schoolName": "원경고등학교"
+  },
+  {
+    "schoolCode": 3248,
+    "schoolName": "의령여자고등학교"
+  },
+  {
+    "schoolCode": 3249,
+    "schoolName": "진해세화여자고등학교"
+  },
+  {
+    "schoolCode": 3250,
+    "schoolName": "지리산고등학교"
+  },
+  {
+    "schoolCode": 3251,
+    "schoolName": "진주동명고등학교"
+  },
+  {
+    "schoolCode": 3252,
+    "schoolName": "진해중앙고등학교"
+  },
+  {
+    "schoolCode": 3253,
+    "schoolName": "진주제일여자고등학교"
+  },
+  {
+    "schoolCode": 3254,
+    "schoolName": "창녕대성고등학교"
+  },
+  {
+    "schoolCode": 3255,
+    "schoolName": "창녕여자고등학교"
+  },
+  {
+    "schoolCode": 3256,
+    "schoolName": "창녕고등학교"
+  },
+  {
+    "schoolCode": 3257,
+    "schoolName": "창선고등학교"
+  },
+  {
+    "schoolCode": 3258,
+    "schoolName": "창신고등학교"
+  },
+  {
+    "schoolCode": 3259,
+    "schoolName": "마산삼진고등학교"
+  },
+  {
+    "schoolCode": 3260,
+    "schoolName": "창원경일고등학교"
+  },
+  {
+    "schoolCode": 3261,
+    "schoolName": "창원경일여자고등학교"
+  },
+  {
+    "schoolCode": 3262,
+    "schoolName": "창원고등학교"
+  },
+  {
+    "schoolCode": 3263,
+    "schoolName": "창원남고등학교"
+  },
+  {
+    "schoolCode": 3264,
+    "schoolName": "창원대산고등학교"
+  },
+  {
+    "schoolCode": 3265,
+    "schoolName": "창원문성고등학교"
+  },
+  {
+    "schoolCode": 3266,
+    "schoolName": "철성고등학교"
+  },
+  {
+    "schoolCode": 3267,
+    "schoolName": "충렬여자고등학교"
+  },
+  {
+    "schoolCode": 3268,
+    "schoolName": "동원고등학교"
+  },
+  {
+    "schoolCode": 3269,
+    "schoolName": "칠원고등학교"
+  },
+  {
+    "schoolCode": 3270,
+    "schoolName": "하동여자고등학교"
+  },
+  {
+    "schoolCode": 3271,
+    "schoolName": "해성고등학교"
+  },
+  {
+    "schoolCode": 3272,
+    "schoolName": "명덕고등학교"
+  },
+  {
+    "schoolCode": 3273,
+    "schoolName": "거제제일고등학교"
+  },
+  {
+    "schoolCode": 3274,
+    "schoolName": "창원대암고등학교"
+  },
+  {
+    "schoolCode": 3275,
+    "schoolName": "창원토월고등학교"
+  },
+  {
+    "schoolCode": 3276,
+    "schoolName": "진해용원고등학교"
+  },
+  {
+    "schoolCode": 3277,
+    "schoolName": "김해영운고등학교"
+  },
+  {
+    "schoolCode": 3278,
+    "schoolName": "거제옥포고등학교"
+  },
+  {
+    "schoolCode": 3279,
+    "schoolName": "물금고등학교"
+  },
+  {
+    "schoolCode": 3280,
+    "schoolName": "창녕옥야고등학교"
+  },
+  {
+    "schoolCode": 3281,
+    "schoolName": "서창고등학교"
+  },
+  {
+    "schoolCode": 3282,
+    "schoolName": "범어고등학교"
+  },
+  {
+    "schoolCode": 3283,
+    "schoolName": "연초고등학교"
+  },
+  {
+    "schoolCode": 3284,
+    "schoolName": "합천여자고등학교"
+  },
+  {
+    "schoolCode": 3285,
+    "schoolName": "거제상문고등학교"
+  },
+  {
+    "schoolCode": 3286,
+    "schoolName": "김해수남고등학교"
+  },
+  {
+    "schoolCode": 3287,
+    "schoolName": "경남체육고등학교"
+  },
+  {
+    "schoolCode": 3288,
+    "schoolName": "경남과학고등학교"
+  },
+  {
+    "schoolCode": 3289,
+    "schoolName": "창원과학고등학교"
+  },
+  {
+    "schoolCode": 3290,
+    "schoolName": "경남예술고등학교"
+  },
+  {
+    "schoolCode": 3291,
+    "schoolName": "경남외국어고등학교"
+  },
+  {
+    "schoolCode": 3292,
+    "schoolName": "김해외국어고등학교"
+  },
+  {
+    "schoolCode": 3293,
+    "schoolName": "경남자영고등학교"
+  },
+  {
+    "schoolCode": 3294,
+    "schoolName": "김해생명과학고등학교"
+  },
+  {
+    "schoolCode": 3295,
+    "schoolName": "함양제일고등학교"
+  },
+  {
+    "schoolCode": 3296,
+    "schoolName": "거제공업고등학교"
+  },
+  {
+    "schoolCode": 3297,
+    "schoolName": "거창공업고등학교"
+  },
+  {
+    "schoolCode": 3298,
+    "schoolName": "경남항공고등학교"
+  },
+  {
+    "schoolCode": 3299,
+    "schoolName": "김해건설공업고등학교"
+  },
+  {
+    "schoolCode": 3300,
+    "schoolName": "한국나노마이스터고등학교"
+  },
+  {
+    "schoolCode": 3301,
+    "schoolName": "삼천포공업고등학교"
+  },
+  {
+    "schoolCode": 3302,
+    "schoolName": "진주기계공업고등학교"
+  },
+  {
+    "schoolCode": 3303,
+    "schoolName": "창녕슈퍼텍고등학교"
+  },
+  {
+    "schoolCode": 3304,
+    "schoolName": "창원기계공업고등학교"
+  },
+  {
+    "schoolCode": 3305,
+    "schoolName": "초계고등학교"
+  },
+  {
+    "schoolCode": 3306,
+    "schoolName": "경남자동차고등학교"
+  },
+  {
+    "schoolCode": 3307,
+    "schoolName": "마산공업고등학교"
+  },
+  {
+    "schoolCode": 3308,
+    "schoolName": "경진고등학교"
+  },
+  {
+    "schoolCode": 3309,
+    "schoolName": "창녕공업고등학교"
+  },
+  {
+    "schoolCode": 3310,
+    "schoolName": "창원공업고등학교"
+  },
+  {
+    "schoolCode": 3311,
+    "schoolName": "한일여자고등학교"
+  },
+  {
+    "schoolCode": 3312,
+    "schoolName": "거제여자상업고등학교"
+  },
+  {
+    "schoolCode": 3313,
+    "schoolName": "경남정보고등학교"
+  },
+  {
+    "schoolCode": 3314,
+    "schoolName": "선명여자고등학교"
+  },
+  {
+    "schoolCode": 3315,
+    "schoolName": "남해정보산업고등학교"
+  },
+  {
+    "schoolCode": 3316,
+    "schoolName": "신반정보고등학교"
+  },
+  {
+    "schoolCode": 3317,
+    "schoolName": "김해한일여자고등학교"
+  },
+  {
+    "schoolCode": 3318,
+    "schoolName": "사천여자고등학교"
+  },
+  {
+    "schoolCode": 3319,
+    "schoolName": "밀성제일고등학교"
+  },
+  {
+    "schoolCode": 3320,
+    "schoolName": "경남관광고등학교"
+  },
+  {
+    "schoolCode": 3321,
+    "schoolName": "경남로봇고등학교"
+  },
+  {
+    "schoolCode": 3322,
+    "schoolName": "경남해양과학고등학교"
+  },
+  {
+    "schoolCode": 3323,
+    "schoolName": "경남산업고등학교"
+  },
+  {
+    "schoolCode": 3324,
+    "schoolName": "진영제일고등학교"
+  },
+  {
+    "schoolCode": 3325,
+    "schoolName": "경남간호고등학교"
+  },
+  {
+    "schoolCode": 3326,
+    "schoolName": "제주대학교사범대학부설고등학교"
+  },
+  {
+    "schoolCode": 3327,
+    "schoolName": "대정고등학교"
+  },
+  {
+    "schoolCode": 3328,
+    "schoolName": "대정여자고등학교"
+  },
+  {
+    "schoolCode": 3329,
+    "schoolName": "서귀포고등학교"
+  },
+  {
+    "schoolCode": 3330,
+    "schoolName": "서귀포여자고등학교"
+  },
+  {
+    "schoolCode": 3331,
+    "schoolName": "세화고등학교"
+  },
+  {
+    "schoolCode": 3332,
+    "schoolName": "제주제일고등학교"
+  },
+  {
+    "schoolCode": 3333,
+    "schoolName": "제주중앙여자고등학교"
+  },
+  {
+    "schoolCode": 3334,
+    "schoolName": "한림고등학교"
+  },
+  {
+    "schoolCode": 3335,
+    "schoolName": "남녕고등학교"
+  },
+  {
+    "schoolCode": 3336,
+    "schoolName": "남주고등학교"
+  },
+  {
+    "schoolCode": 3337,
+    "schoolName": "대기고등학교"
+  },
+  {
+    "schoolCode": 3338,
+    "schoolName": "삼성여자고등학교"
+  },
+  {
+    "schoolCode": 3339,
+    "schoolName": "신성여자고등학교"
+  },
+  {
+    "schoolCode": 3340,
+    "schoolName": "오현고등학교"
+  },
+  {
+    "schoolCode": 3341,
+    "schoolName": "제주여자고등학교"
+  },
+  {
+    "schoolCode": 3342,
+    "schoolName": "애월고등학교"
+  },
+  {
+    "schoolCode": 3343,
+    "schoolName": "표선고등학교"
+  },
+  {
+    "schoolCode": 3344,
+    "schoolName": "제주과학고등학교"
+  },
+  {
+    "schoolCode": 3345,
+    "schoolName": "제주외국어고등학교"
+  },
+  {
+    "schoolCode": 3346,
+    "schoolName": "서귀포산업과학고등학교"
+  },
+  {
+    "schoolCode": 3347,
+    "schoolName": "한림공업고등학교"
+  },
+  {
+    "schoolCode": 3348,
+    "schoolName": "영주고등학교"
+  },
+  {
+    "schoolCode": 3349,
+    "schoolName": "제주여자상업고등학교"
+  },
+  {
+    "schoolCode": 3350,
+    "schoolName": "함덕고등학교"
+  },
+  {
+    "schoolCode": 3351,
+    "schoolName": "제주중앙고등학교"
+  },
+  {
+    "schoolCode": 3352,
+    "schoolName": "성산고등학교"
+  },
+  {
+    "schoolCode": 3353,
+    "schoolName": "제주고등학교"
+  },
+  {
+    "schoolCode": 3354,
+    "schoolName": "중문고등학교"
+  },
+  {
+    "schoolCode": 3355,
+    "schoolName": "한국뷰티고등학교"
+  }
+]

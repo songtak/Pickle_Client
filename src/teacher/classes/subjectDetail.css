@@ -1,0 +1,75 @@
+.detail_index{
+    width : 16%;
+    height : 450px;
+    float : left;
+}
+.detail_list{
+    width: 85%;
+    height : 500px;
+}
+.detail_icon{
+    width : 7%;
+    height : 7%;
+    opacity: 0.6;
+    float : right;
+    margin : 1.5rem;
+}
+.detail_align{
+    display: flex;
+    align-items: center;
+}
+.detail_border{
+    border : solid 1px #ced4da;
+}
+.detail_pointer{
+    cursor: pointer;
+}
+.detail_margin{
+    margin : 0.3rem;
+    padding : 0.2rem;
+}
+.detail_overflow{
+    overflow: scroll;
+}
+.detail_title{
+    width : 96%;
+    height : 7%;
+    margin : 0.5rem;
+}
+.detail_content{
+    width : 96%;
+    height : 50%;
+    margin : 0.5rem;
+
+}
+.subjectbox_container{
+    width : 100%
+}
+.detailno_container{
+    width : 18%;
+    background-color: yellow;
+}
+.detail_list{
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    width : 85%;
+    cursor: move;
+}
+.lessons_item_container{
+    width: 100%;
+    height: 35px;
+    background-color: white;
+    text-align: left;
+    border: 1px solid #184F90;
+    box-shadow: 0 0.5rem 1rem rgba(156, 136, 255, 0.2);
+    border-radius: 10px;
+    margin: 3px;
+    padding-inline-start: 0.2rem;
+    padding-top: 0.4rem;
+    font-size: larger;
+    overflow: hidden;
+}
+.sortable-chosen{
+    background-color: #9cc6f3;
+    cursor: pointer;
+}
