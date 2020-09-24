@@ -34,7 +34,7 @@ const NoticeDetail = ({history, match}) => {
         getTotal()
     }, [])
     const getTotal = () => {
-        axios.get(`http://localhost:5000/notice/detail/${match.params.id}`)
+        axios.get(`https://server.pickle2020.site/notice/detail/${match.params.id}`)
             .then(({data}) => {
                 let temp = data.notice
                 dispatch(getNotice(temp))
@@ -52,7 +52,7 @@ const NoticeDetail = ({history, match}) => {
     const onClickComment = e => {
         e.preventDefault()
         axios.post(
-            `http://localhost:5000/noticecomment/save`,
+            `https://server.pickle2020.site/noticecomment/save`,
             {userTableId: id, articleNo: match.params.id, commentContents: commentContents},
             {
                 'Content-type': 'application/json',
@@ -70,14 +70,14 @@ const NoticeDetail = ({history, match}) => {
             setIsPwFail(false)
             setIsPwOk(true)
             setTimeout(() =>
-                axios.get(`http://localhost:5000/notice/delete/${match.params.id}`)
+                axios.get(`https://server.pickle2020.site/notice/delete/${match.params.id}`)
                     .then(() => {
                         history.goBack()
                     }), 800)
         }
     }
     const onClickCommentDelete = commentNo => {
-        axios.get(`http://localhost:5000/noticecomment/delete/${commentNo}`)
+        axios.get(`https://server.pickle2020.site/noticecomment/delete/${commentNo}`)
             .then(() => {
                 getTotal()
             })
@@ -86,7 +86,7 @@ const NoticeDetail = ({history, match}) => {
         history.push(`/teacher/notice/modify/${match.params.id}`)
     }
     const onClickDownload = (id, fileName) => {
-        axios.get(`http://localhost:5000/file/download/${id}`, {
+        axios.get(`https://server.pickle2020.site/file/download/${id}`, {
             responseType: 'arraybuffer',
             headers: {
                 'Content-Type': 'application/json',

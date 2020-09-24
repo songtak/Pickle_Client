@@ -26,20 +26,20 @@ export const studentStreamingReducer = ( state = {classCode : "", studentList : 
 }
 
 const studentStreamingApis = () => dispatch => {
-    axios.get(`http://localhost:5000/streamings/student/100018001`)
+    axios.get(`https://server.pickle2020.site/streamings/student/100018001`)
         .then(({data})=>{
             dispatch(studentStreamingRequest(data))
         })
         .catch(error => {throw (error)})
 }
 const fileListApis = ()=>dispatch => {
-    axios.get(`http://localhost:5000/file/list/subject/1`)
+    axios.get(`https://server.pickle2020.site/file/list/subject/1`)
         .then(({data})=>{
             dispatch(studentStreamingGetFile(data))
         })
 }
 const fileDownloadApis = (fileId, fileName)=> {
-    axios.get(`http://localhost:5000/file/download/${fileId}`,{
+    axios.get(`https://server.pickle2020.site/file/download/${fileId}`,{
         responseType: 'arraybuffer',
         headers: {
             'Content-Type': 'application/json',
@@ -55,7 +55,7 @@ const fileDownloadApis = (fileId, fileName)=> {
     })
 }
 const studentAttendApis = ()=> dispatch =>{
-    axios.get(`http://localhost:5000/streamings/student/attend/100018001}`)
+    axios.get(`https://server.pickle2020.site/streamings/student/attend/100018001}`)
         .then(()=>{
           dispatch(studentStreamingAttend())
         })
@@ -76,7 +76,7 @@ export class studentStreaming extends React.Component {
         }
         this.localVideoRef = React.createRef();
         this.remoteVideoRef = React.createRef();
-        this.socket = io.connect('https://secret-dawn-11778.herokuapp.com/')
+        this.socket = io.connect('https://server.pickle2020.site:8443/')
         this.sendMessage = this.sendMessage.bind(this)
         this.handleOffer = this.handleOffer.bind(this)
         this.handleNewICECandidateMsg = this.handleNewICECandidateMsg.bind(this)

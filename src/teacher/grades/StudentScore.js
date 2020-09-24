@@ -83,7 +83,7 @@ const StudentScore = () => {
     const onClickGrade = value => {
         setTotalHomeClass([])
         setIsWarning(false)
-        axios.get(`http://localhost:5000/teacher/grade/input/homeClass/${schoolCode}/${value}`)
+        axios.get(`https://www.pickle2020.site/teacher/grade/input/homeClass/${schoolCode}/${value}`)
             .then(({data}) => {
                 setTotalHomeClass(data)
                 setTotalStudent([])
@@ -94,7 +94,7 @@ const StudentScore = () => {
     }
     const onClickHomeClass = value => {
         setIsWarning(false)
-        axios.get(`http://localhost:5000/teacher/grade/input/student/${schoolCode}/${grade}/${value}`)
+        axios.get(`https://www.pickle2020.site/teacher/grade/input/student/${schoolCode}/${grade}/${value}`)
             .then(({data}) => {
                 setTotalStudent(data)
                 setHomeClass(value)
@@ -110,7 +110,7 @@ const StudentScore = () => {
             setIsWarning(true)
         } else {
             setIsWarning(false)
-            axios.get(`http://localhost:5000/teacher/grade/one/${schoolCode.concat(grade, homeClass, student)}`)
+            axios.get(`https://server.pickle2020.site/teacher/grade/one/${schoolCode.concat(grade, homeClass, student)}`)
                 .then(({data}) => {
                     setTotalBar(data.barChart)
                     setTotalLine(data.lineChart)

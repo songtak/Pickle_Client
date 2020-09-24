@@ -16,7 +16,7 @@ const Attendance = ({match}) => {
 
     const detailTable = async(grade,ban,year) =>{
         axios
-            .get(`http://localhost:5000/tattendance/detaillist?cCurGrade=${grade}&cHomeClass=${ban}&year=${year}`)
+            .get(`https://server.pickle2020.site/tattendance/detaillist?cCurGrade=${grade}&cHomeClass=${ban}&year=${year}`)
             .then(res => {
                 setTable(res.data)
             })

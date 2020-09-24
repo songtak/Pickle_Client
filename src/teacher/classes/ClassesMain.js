@@ -59,7 +59,7 @@ const ClassesMain = ({match}) => {
     const getTimeFromServer = (period) =>{
         clear()
         axios
-            .get(`http://localhost:5000/tschedule/timer/${period.id}/${period.subjectCode}`)
+            .get(`https://server.pickle2020.site/tschedule/timer/${period.id}/${period.subjectCode}`)
             .then(res =>{
                 setTimerTime(res.data.time)
                 startTimer(res.data.time)
@@ -110,7 +110,7 @@ const ClassesMain = ({match}) => {
 
     const getData = (userCode) => {
         axios
-            .get(`http://localhost:5000/tsubject/detailList/${userCode}`)
+            .get(`https://server.pickle2020.site/tsubject/detailList/${userCode}`)
             .then(({data}) => {
                 setLessons(data.list)
                 dispatch(getLessonList(data.list))
@@ -120,7 +120,7 @@ const ClassesMain = ({match}) => {
             })
 
         axios
-            .get(`http://localhost:5000/tschedule/dndTimetable/${userCode}`)
+            .get(`https://server.pickle2020.site/tschedule/dndTimetable/${userCode}`)
             .then(res => {
                 const allSchedule = [];
                 const first = [];
@@ -141,7 +141,7 @@ const ClassesMain = ({match}) => {
                 setTimetable(allSchedule);
             })
         axios
-            .get(`http://localhost:5000/tsubject/basicInfo?cUserCode=${userCode}`)
+            .get(`https://server.pickle2020.site/tsubject/basicInfo?cUserCode=${userCode}`)
             .then(({data}) => {
                 setBasicInfo(data.map)
                 dispatch(getBasicInfo(data.map))

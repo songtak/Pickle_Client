@@ -14,7 +14,7 @@ const NoticeModify = ({history, match}) => {
     const [isMessageCategory, setIsMessageCategory] = useState(false)
     const detail = useSelector(state => state.tNoticeDetailReducer.payload, [])
     useEffect(() => {
-        axios.get(`http://localhost:5000/notice/getCategory`)
+        axios.get(`https://server.pickle2020.site/notice/getCategory`)
             .then(({data}) => {
                 setCategory([...category].concat(data))
             })
@@ -44,7 +44,7 @@ const NoticeModify = ({history, match}) => {
             setIsMessageCategory(a)
             setIsMessageContents(b)
             axios
-                .post(`http://localhost:5000/notice/update`,
+                .post(`https://server.pickle2020.site/notice/update`,
                     {title: title, password: password, contents: contents, category: select, id: match.params.id},
                     {
                         'Content-type': 'application/json',
@@ -66,7 +66,7 @@ const NoticeModify = ({history, match}) => {
     const postApis = articleNo => {
         const formData = new FormData()
         formData.append('file', file)
-        axios.post(`http://localhost:5000/file/upload/${articleNo}/null`, formData, {
+        axios.post(`https://server.pickle2020.site/file/upload/${articleNo}/null`, formData, {
             authorization: 'JWT fefege..',
             Accept: 'application/json',
             'Content-Type': 'multipart/form-data'

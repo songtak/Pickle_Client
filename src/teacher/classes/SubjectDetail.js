@@ -29,14 +29,14 @@ const SubjectDetail = ({history,match}) => {
 
     const getBasicInfo = () =>{
       axios
-      .get(`http://localhost:5000/tsubject/basicInfo?cUserCode=${localStorage.getItem("userCode")}`)
+      .get(`https://server.pickle2020.site/tsubject/basicInfo?cUserCode=${localStorage.getItem("userCode")}`)
       .then(({ data }) => {
           setBasicInfo(data.map)
       })
     }
     const getLessonList = () => {
         axios
-            .get(`http://localhost:5000/tsubject/detailList/${localStorage.getItem("userCode")}`)
+            .get(`https://server.pickle2020.site/tsubject/detailList/${localStorage.getItem("userCode")}`)
             .then(({data}) => {
                     setLessons(data.list)
                     
@@ -46,7 +46,7 @@ const SubjectDetail = ({history,match}) => {
 
     const updateList = async() =>{
       axios
-      .post(`http://localhost:5000/tsubject/updateList/${localStorage.getItem("userCode")}`,
+      .post(`https://server.pickle2020.site/tsubject/updateList/${localStorage.getItem("userCode")}`,
       { updatedList : lessons},
        {
         authorization: 'JWT fefege..',
@@ -60,7 +60,7 @@ const SubjectDetail = ({history,match}) => {
     
     const deleteOne = async() => {
       axios
-      .get(`http://localhost:5000/tsubject/deleteOne/${localStorage.getItem("userCode")}?lessonId=${lessonOne.id}`)
+      .get(`https://server.pickle2020.site/tsubject/deleteOne/${localStorage.getItem("userCode")}?lessonId=${lessonOne.id}`)
       .then( 
         setLessonOne({
           id : lessonOne.id,
@@ -85,7 +85,7 @@ const SubjectDetail = ({history,match}) => {
         lessonIds.push(lesson.id)
       })
       axios
-      .post(`http://localhost:5000/tsubject/deleteAll/${localStorage.getItem("userCode")}`,
+      .post(`https://server.pickle2020.site/tsubject/deleteAll/${localStorage.getItem("userCode")}`,
       {"list" : lessonIds},
       {
         authorization: 'JWT fefege..',
@@ -125,7 +125,7 @@ const SubjectDetail = ({history,match}) => {
   }
   const handleUpdate = async() =>{
     axios
-      .post(`http://localhost:5000/tsubject/updateOne`,
+      .post(`https://server.pickle2020.site/tsubject/updateOne`,
       {userCode : localStorage.getItem("userCode"), 
        lessonId : lessonOne.id,
        lessonNo : lessonOne.lessonNo,

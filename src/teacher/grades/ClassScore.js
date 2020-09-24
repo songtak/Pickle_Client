@@ -68,7 +68,7 @@ const ClassScore = () => {
     };
     const onClickGrade = value => {
         setTotalHomeClass([])
-        axios.get(`http://localhost:5000/teacher/grade/input/homeClass/${schoolCode}/${value}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/input/homeClass/${schoolCode}/${value}`)
             .then(({data}) => {
                 setTotalHomeClass(data)
                 setGrade(value)
@@ -76,7 +76,7 @@ const ClassScore = () => {
             })
     }
     const onClickFind = () => {
-        axios.get(`http://localhost:5000/teacher/grade/class/${schoolCode}/${grade}/${homeClass}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/class/${schoolCode}/${grade}/${homeClass}`)
             .then(({data}) => {
                 let barClass = []
                 let barChartClass = data.barChartClass

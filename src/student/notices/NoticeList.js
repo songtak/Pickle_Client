@@ -13,7 +13,7 @@ const NoticeList = ({match, history}) => {
     const [isVisible, setIsVisible] = useState(true)
     useEffect(() => {
         transPage('all', match.params.id - 1)
-        axios.get(`http://localhost:5000/notice/getCategory`)
+        axios.get(`https://server.pickle2020.site/notice/getCategory`)
             .then(({data}) => {
                 setCategory([...category].concat(data))
             })
@@ -21,7 +21,7 @@ const NoticeList = ({match, history}) => {
     const transPage = (selectedCate, currentPage) => {
         let value = selectedCate
         if (selectedCate === '' || selectedCate === '전체 보기') value = 'all'
-        axios.get(`http://localhost:5000/notice/list/${value}/${currentPage}`)
+        axios.get(`https://server.pickle2020.site/notice/list/${value}/${currentPage}`)
             .then(({data}) => {
                 setList(data.list)
                 setPager(data.pagination)

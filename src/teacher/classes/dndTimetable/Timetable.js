@@ -32,7 +32,7 @@ const Timetable = () => {
 
     const timetablewInfo = () =>{
         axios
-        .get(`http://localhost:5000/tschedule/dndTimetable/${userCode}`)
+        .get(`https://localhost:5000/tschedule/dndTimetable/${userCode}`)
         .then(res =>{
             dispatch(setTimetableReducer(res.data.list))
             setMonday(res.data.list.dndMon)
@@ -44,7 +44,7 @@ const Timetable = () => {
         .catch(err =>{throw(err)})
 
         axios
-            .get(`http://localhost:5000/tschedule/dndTimetable/${userCode}`)
+            .get(`https://localhost:5000/tschedule/dndTimetable/${userCode}`)
             .then(res => {
                 const allSchedule = [];
                 const first = [];
@@ -66,7 +66,7 @@ const Timetable = () => {
             })
 
         axios
-            .get(`http://localhost:5000/tsubject/basicInfo?cUserCode=${userCode}`)
+            .get(`https://localhost:5000/tsubject/basicInfo?cUserCode=${userCode}`)
             .then(res =>{
                 setBasicInfo(res.data.map)
             })
@@ -79,7 +79,7 @@ const Timetable = () => {
     const goDBDelete = (period) =>{
         setShowModal(false);
         axios
-            .post(`http://localhost:5000/tschedule/deleteOne/${userCode}`,
+            .post(`https://localhost:5000/tschedule/deleteOne/${userCode}`,
                 {id: period.id,
                     day : period.day,
                     period: period.period,
@@ -98,7 +98,7 @@ const Timetable = () => {
     const goDBCreate = (period) =>{
         setSelectedOne(period)
         axios
-            .post(`http://localhost:5000/tschedule/deleteOne/${userCode}`,
+            .post(`https://localhost:5000/tschedule/deleteOne/${userCode}`,
                 {id: period.id,
                     day : period.day,
                     period: period.period,
@@ -207,7 +207,7 @@ const Timetable = () => {
         })
 
         axios
-        .post(`http://localhost:5000/tschedule/updateSchedule/${userCode}`,
+        .post(`https://localhost:5000/tschedule/updateSchedule/${userCode}`,
         {payload:
             {mon : jmon,
             tue : jtue,

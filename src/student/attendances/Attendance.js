@@ -31,7 +31,7 @@ const Attendance = () => {
 
     useEffect(()=> {
         axios
-            .get(`http://localhost:5000/sattendance/${localStorage.getItem("userCode")}`)
+            .get(`https://server.pickle2020.site/sattendance/${localStorage.getItem("userCode")}`)
             .then(({data})=>{
                 setStudentAttendance(data.sAtte);
                 setStudentAttendanceSum(data.sAtteSum);

@@ -55,7 +55,7 @@ const Class = ({match}) => {
         const getDetailList= (e,subjectData) =>{
         setShowTitle(subjectData.value)
             axios
-                .get(`http://localhost:5000/ssubject/detailList/${subjectData.code}`)
+                .get(`https://server.pickle2020.site/ssubject/detailList/${subjectData.code}`)
                 .then(({data}) => {
                     setLessons(data.subjectDetail)
 
@@ -67,7 +67,7 @@ const Class = ({match}) => {
 
     const getDetailInfo= (e,subjectCode) =>{
         axios
-            .get(`http://localhost:5000/ssubject/detailList/${subjectCode}/info`)
+            .get(`https://server.pickle2020.site/ssubject/detailList/${subjectCode}/info`)
             .then(({data}) => {
                 setSubDetailInfo(data.subInfo)
             })
@@ -77,13 +77,9 @@ const Class = ({match}) => {
     }
 
 
-
-
-
-
     useEffect( ()=> {
         axios
-            .get(`http://localhost:5000/schedule/student/${userCode}`)
+            .get(`https://server.pickle2020.site/schedule/student/${userCode}`)
             .then(res => {
                 const schedules = res.data.student
                 const newSchedule = []

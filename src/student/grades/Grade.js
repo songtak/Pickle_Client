@@ -113,7 +113,7 @@ const Grade = () => {
 
 
     useEffect(()=>{
-        axios.get(`http://localhost:5000/student/grade/${localStorage.getItem("userCode")}`)//여기에 로컬 스토리지에서 유저코드 들고와서 넣기;
+        axios.get(`https://server.pickle2020.site/student/grade/${localStorage.getItem("userCode")}`)//여기에 로컬 스토리지에서 유저코드 들고와서 넣기;
             .then(({data})=>{
                 setMainScoreList(data.sgmainChart);
                 setUserScoreList(data.sguserScore);
@@ -451,7 +451,7 @@ const Grade = () => {
             tmpExamList[i]=selectExam[i].value;
         };
 
-        axios.post(`http://localhost:5000/student/grade/search/${localStorage.getItem("userCode")}`, {
+        axios.post(`https://localhost:5000/student/grade/search/${localStorage.getItem("userCode")}`, {
             examList: tmpExamList,//["11","12"...]
             subjectList: tmpSubjectList, //[11,23,27...]
         }).then(({data})=>{

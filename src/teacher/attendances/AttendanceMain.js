@@ -41,12 +41,12 @@ const AttendanceMain = ({match}) => {
     }
     const chartDatas = (grade,ban) => {
         axios
-            .get(`http://localhost:5000/tattendance/weeklychart/${grade}/${ban}?javaDate=${javaDate}`)
+            .get(`https://server.pickle2020.site/tattendance/weeklychart/${grade}/${ban}?javaDate=${javaDate}`)
             .then(res =>{
                 setWeeklyChart(res.data)
             })
         axios
-            .get(`http://localhost:5000/tattendance/singleday/${grade}/${ban}?javaDate=${javaDate}`)
+            .get(`https://server.pickle2020.site/tattendance/singleday/${grade}/${ban}?javaDate=${javaDate}`)
             .then(res =>{
                 setDailyChart(res.data)
             })

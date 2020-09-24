@@ -45,7 +45,7 @@ const Mock = () => {
         setTotalHomeClass([])
         setIsWarning(false)
         setIsCheck(true)
-        axios.get(`http://localhost:5000/teacher/grade/input/homeClass/${schoolCode}/${value}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/input/homeClass/${schoolCode}/${value}`)
             .then(({data}) => {
                 setTotalHomeClass(data)
                 setTotalStudent([])
@@ -59,7 +59,7 @@ const Mock = () => {
     const onClickHomeClass = value => {
         setIsWarning(false)
         setIsCheck(true)
-        axios.get(`http://localhost:5000/teacher/grade/input/student/${schoolCode}/${grade}/${value}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/input/student/${schoolCode}/${grade}/${value}`)
             .then(({data}) => {
                 setTotalStudent(data)
                 setHomeClass(value)
@@ -98,7 +98,7 @@ const Mock = () => {
         }
     }
     const getScore = () => {
-        axios.get(`http://localhost:5000/teacher/grade/mock/get/${schoolCode.concat(semesterCode, grade, homeClass, student)}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/mock/get/${schoolCode.concat(semesterCode, grade, homeClass, student)}`)
             .then(({data}) => {
                 if (data.length !== 0) {
                     let s = 0;

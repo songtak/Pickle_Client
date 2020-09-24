@@ -30,7 +30,7 @@ const InsertScore = () => {
     const [isScoreWarning, setIsScoreWarning] = useState(false)
     const [isCompleted, setIsCompleted] = useState(false)
     const getScore = () => {
-        axios.get(`http://localhost:5000/teacher/grade/get/${schoolCode.concat(semesterCode, grade, homeClass, student)}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/get/${schoolCode.concat(semesterCode, grade, homeClass, student)}`)
             .then(({data}) => {
                 if(data.length !== 0){
                     for(let i=0; i<data.length; i++){
@@ -65,7 +65,7 @@ const InsertScore = () => {
         setTotalHomeClass([])
         setIsWarning(false)
         setIsCheck(true)
-        axios.get(`http://localhost:5000/teacher/grade/input/homeClass/${schoolCode}/${value}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/input/homeClass/${schoolCode}/${value}`)
             .then(({data}) => {
                 setTotalHomeClass(data)
                 setTotalStudent([])
@@ -79,7 +79,7 @@ const InsertScore = () => {
     const onClickHomeClass = value => {
         setIsWarning(false)
         setIsCheck(true)
-        axios.get(`http://localhost:5000/teacher/grade/input/student/${schoolCode}/${grade}/${value}`)
+        axios.get(`https://server.pickle2020.site/teacher/grade/input/student/${schoolCode}/${grade}/${value}`)
             .then(({data}) => {
                 setTotalStudent(data)
                 setHomeClass(value)
@@ -142,7 +142,7 @@ const InsertScore = () => {
     }
     const onSubmit = () => {
         if(isScoreWarning === false){
-        axios.post(`http://localhost:5000/teacher/grade/input`,
+        axios.post(`http://server.pickle2020.site/teacher/grade/input`,
                 {kor: kor, eng: eng, mat: mat, phl: phl, eco: eco, his: his, bio: bio, phy: phy, for: fore, userInfo: schoolCode.concat(semesterCode, grade, homeClass, student)},
                 {
                     'Content-type': 'application/json',
