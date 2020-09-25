@@ -23,7 +23,7 @@ const Mypage = ({history}) => {
     const [selectedSchool, setSelectedSchool] = useState({})
     const [schools, setSchools] = useState(schoolsList)
     useEffect(() => {
-        axios.get(`http://localhost:5000/user/find/${localStorage.getItem("userCode")}`)
+        axios.get(`https://server.pickle2020.site/user/find/${localStorage.getItem("userCode")}`)
             .then(({data}) => {
                 setName(data.name)
                 setUserId(data.userId)
@@ -37,7 +37,7 @@ const Mypage = ({history}) => {
     }, [])
     const onSubmit = (userId, schoolCode, schoolName, curGrade, homeClass, phone, email) => {
         axios.post(
-            'http://localhost:5000/user/update',
+            'https://server.pickle2020.site/user/update',
             {
                 userCode: localStorage.getItem("userCode"),
                 userId: userId,
@@ -58,7 +58,7 @@ const Mypage = ({history}) => {
 
     const onChangePassword = value => {
         if (value.length != 0) {
-            axios.get(`http://localhost:5000/user/check/${localStorage.getItem("id")}/${value}`)
+            axios.get(`https://server.pickle2020.site/user/check/${localStorage.getItem("id")}/${value}`)
                 .then(({data}) => {
                     if (data === 'FAIL') {
                         setIsPwFail(true)
@@ -81,7 +81,7 @@ const Mypage = ({history}) => {
         }
     }
     const onClickUpdatePw = () => {
-        axios.get(`http://localhost:5000/user/update/${localStorage.getItem("id")}/${newUserPw}`)
+        axios.get(`https://server.pickle2020.site/user/update/${localStorage.getItem("id")}/${newUserPw}`)
             .then(() => {
                 setIsChanged(true)
                 setTimeout(() => {

@@ -9,7 +9,7 @@ const Notice = () => {
     const [position, setPosition] = useState("teacher")
     const user = useSelector(state => state.mainpageReducer.payload)
     useEffect(() => {
-        axios.get(`http://localhost:5000/notice/mainPage`)
+        axios.get(`https://server.pickle2020.site/notice/mainPage`)
             .then(({data}) => {
                 setList(data)
             })

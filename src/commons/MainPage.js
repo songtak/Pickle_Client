@@ -81,8 +81,8 @@ const MainPage = () => {
                     <label style={{color: "white", fontWeight : "bold", marginRight : "10%"}}>아이디</label>
                     <input type="text" className="input_idbox" value={sUserId}
                            onChange={e => setSUserId(e.target.value)}/>
-                    <br/>
-                    <br/>
+                   <br/>
+                   <br/>
                     <label style={{color: "white", fontWeight : "bold", marginRight : "10%"}}>패스워드</label>
                     <input type="text" className="input_idbox" style={{marginRight: "3%"}} value={sUserPw}
                            onChange={e => setSUserPw(e.target.value)}/>
@@ -106,26 +106,26 @@ const MainPage = () => {
                     </button>
                 </div>
                 {isTVisible &&
-                <div className='teacher_login_box'>
-                    <label style={{color: "white", fontWeight : "bold", marginRight : "10%"}}>아이디</label>
-                    <input type="text" className="input_idbox" value={tUserId}
-                           onChange={e => setTUserId(e.target.value)}/>
-                    <br/>
-                    <br/>
-                    <label style={{color: "white", fontWeight : "bold", marginRight : "10%"}}>패스워드</label>
-                    <input type="text" className="input_idbox" style={{marginRight: "3%"}} value={tUserPw}
-                           onChange={e => setTUserPw(e.target.value)}/>
-                    <br/>
-                    <br/>
-                    <button className="teacher_button" style={{width:"20%",height:"11%", fontSize:"small"}}
-                            onClick={() => onClickLogin(tUserId, tUserPw, 0, "/teacher", setIsTLogin)}>로그인</button>
-                    {isTLogin &&
-                    <div className="main-login">아이디와 비밀번호를 확인해 주십시오.</div>}
-                </div>
+                    <div className='teacher_login_box'>
+                        <label style={{color: "white", fontWeight : "bold", marginRight : "10%"}}>아이디</label>
+                        <input type="text" className="input_idbox" value={tUserId}
+                               onChange={e => setTUserId(e.target.value)}/>
+                        <br/>
+                        <br/>
+                        <label style={{color: "white", fontWeight : "bold", marginRight : "10%"}}>패스워드</label>
+                        <input type="text" className="input_idbox" style={{marginRight: "3%"}} value={tUserPw}
+                               onChange={e => setTUserPw(e.target.value)}/>
+                        <br/>
+                        <br/>
+                        <button className="teacher_button" style={{width:"20%",height:"11%", fontSize:"small"}}
+                                onClick={() => onClickLogin(tUserId, tUserPw, 0, "/teacher", setIsTLogin)}>로그인</button>
+                        {isTLogin &&
+                        <div className="main-login">아이디와 비밀번호를 확인해 주십시오.</div>}
+                    </div>
                 }
             </div>
         </div>
-        {/* <div id="main-title">
+       {/* <div id="main-title">
             <img src={main_logo}/><br/>
         </div>
         <div className="btn border-0 main-img" onClick={() => onClickVisible(true, false)}>

@@ -66,3 +66,113 @@
     color: red;
     padding: 20px;
 }
+.main_container{
+    height: 800px;
+    display: flex;
+}
+.main_divider_left{
+    width: 45%;
+    height: 100%;
+    background-color: #1b5836;
+    float : left;
+    z-index: 1;
+}
+.main_student_label{
+    width: 55%;
+    height: 13%;
+    margin-top: 5%;
+    border-right: 20px solid #00365A;
+    border-top: 120px solid  transparent;
+    background-color: #ffffff;
+    float: right;
+    position: fixed;
+    z-index:2;
+}
+.main_divider_right{
+    width: 55%;
+    height: 100%;
+    border-left: 100px solid #1b5836;
+    border-bottom: 800px solid  #00365A;
+    background-color: #0b2e13;
+    float: right;
+    z-index: 0;
+}
+.main_teacher_label{
+    width: 60%;
+    height: 13%;
+    margin-top: 44%;
+    border-left: 20px solid #1b5836;
+    border-bottom: 120px solid  transparent;
+    background-color: #ffffff;
+    float: right;
+    position: fixed;
+    left: 45%;
+    z-index:2;
+}
+.student_classification_div{
+    width : 17%;
+    height : 6%;
+    border : 2px solid #1c7430;
+    position: absolute;
+    top : 26%;
+    left: 5%;
+}
+.student_button{
+    width: 110%;
+    height: 100%;
+    margin-left: -17%;
+    margin-top: -5%;
+    background-color: #4bba64;
+    border: 2px solid #1c7430;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
+.student_button:hover{
+    background-color: rgba(36, 76, 41, 0.78);
+}
+.teacher_classification_div{
+    width : 17%;
+    height : 6%;
+    border : 2px solid #285c7f;
+    position: absolute;
+    top : 58%;
+    right: 5%;
+    z-index:2;
+}
+.teacher_button{
+    width: 100%;
+    height: 100%;
+    margin-right: -15%;
+    margin-top: 4%;
+    background-color: #4388b6;
+    border: 2px solid #285c7f;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
+.teacher_button:hover{
+    background-color: rgba(23, 54, 75, 0.71);
+}
+.student_login_box{
+    width: 33%;
+    height: 30%;
+    position: absolute;
+    top : 35%;
+    left : 7%;
+}
+.teacher_login_box{
+    width: 33%;
+    height: 30%;
+    position: absolute;
+    top : 35%;
+    right : 7%;
+}
+.input_idbox{
+    width: 40%;
+    height: 10%;
+    background-color: white;
+    border: #0a1d0f 1px solid;
+}
