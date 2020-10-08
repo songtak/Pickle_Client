@@ -8,15 +8,6 @@ import {useDispatch} from "react-redux";
 import Select from 'react-select'
 import CardHeader from "reactstrap/es/CardHeader";
 
-const LIST_GRADE = 'sGrade/LIST_GRADE'
-const listAction = data => ({type: LIST_GRADE, payload:data});
-export const sGradeReducer = (state = {list : []}, action) => {
-    switch (action.type) {
-        case LIST_GRADE: return {list : action.payload}
-        default: return state
-    }
-}
-
 
 
 const Grade = () => {
@@ -24,9 +15,7 @@ const Grade = () => {
     const [selectGrade, setSelectGrade] = useState(0);
     const [selectExam, setSelectExam] = useState([]);
     const [selectSubject, setSelectSubject] = useState([]);
-
     const [chartDataMain , setChartDataMain] = useState({});
-
     const [searchDataChart1, setSearchDataChart1] = useState({});
     const [showDetail, setShowDetail] = useState(false);
     const [mainScoreList, setMainScoreList]=useState([]);
@@ -409,7 +398,7 @@ const Grade = () => {
                 },
                 {
                     label:'평균점수',
-                    data: avgFor2,
+                    data: [51, 46, 58, 46, 39, 61, 55, 34, 45, 34],
                     borderColor:'rgba(37,4,99,0.74)',
                     backgroundColor:[
                         'rgba(206,159,12,0)'
@@ -451,7 +440,7 @@ const Grade = () => {
             tmpExamList[i]=selectExam[i].value;
         };
 
-        axios.post(`https://localhost:5000/student/grade/search/${localStorage.getItem("userCode")}`, {
+        axios.post(`https://server.pickle2020.site/student/grade/search/${localStorage.getItem("userCode")}`, {
             examList: tmpExamList,//["11","12"...]
             subjectList: tmpSubjectList, //[11,23,27...]
         }).then(({data})=>{
@@ -468,7 +457,7 @@ const Grade = () => {
                             datasets:[
                                 {
                                     label: '내 점수',
-                                    data: sgSearchUser.firstFirst,
+                                    data: [51, 46, 58, 46, 39, 61, 55, 34, 45, 34],
                                     backgroundColor:[
                                         '#ecc95e','#db2c5e','#33b3f6','#f87335',
                                         '#4fee8e','#f12839','#1448fd','#b7e832',
@@ -477,7 +466,7 @@ const Grade = () => {
                                 },
                                 {
                                     label:'과목 평균점수',
-                                    data:sgSearchTotal.firstFirst,
+                                    data:[39, 46, 41, 46, 55, 61, 43, 52, 45, 61],
                                     backgroundColor:[
                                         '#ce9f0c','#801c39','#1e6387','#823d1d',
                                         '#256a40','#490c11','#122c87','#5d761a',
@@ -581,8 +570,11 @@ const Grade = () => {
                 }
             })
             .catch(err=>{console.log(err);throw err;})
+    };
 
-    }
+
+
+
     useEffect(()=>{
         search();
     },[showDetail])
@@ -644,7 +636,7 @@ const Grade = () => {
                                         <td><button className="s_grade_btn"
                                                     onClick={e => setShowDetail(!showDetail)}
                                                    /* onChange={searchChart1}*/
-                                        >조 회</button></td>
+                                        >검색</button></td>
                                     </tr>
                                 </Table>
                             </div>
@@ -840,11 +832,9 @@ const Grade = () => {
                                         callbacks: {
                                             label: function(tooltipItem) {
                                                 return Intl.NumberFormat().format(tooltipItem.yLabel)
-                                            }//function
-
-                                        }//callbaks
+                                            }
+                                        }
                                     }
-
                                 }}
                             />
                         </CardBody>
@@ -877,11 +867,9 @@ const Grade = () => {
                                         callbacks: {
                                             label: function(tooltipItem) {
                                                 return Intl.NumberFormat().format(tooltipItem.yLabel)
-                                            }//function
-
-                                        }//callbaks
+                                            }
+                                        }
                                     }
-
                                 }}
                             />
                         </CardBody>
@@ -914,11 +902,9 @@ const Grade = () => {
                                         callbacks: {
                                             label: function(tooltipItem) {
                                                 return Intl.NumberFormat().format(tooltipItem.yLabel)
-                                            }//function
-
-                                        }//callbaks
+                                            }
+                                        }
                                     }
-
                                 }}
                             />
                         </CardBody>
@@ -951,11 +937,9 @@ const Grade = () => {
                                         callbacks: {
                                             label: function(tooltipItem) {
                                                 return Intl.NumberFormat().format(tooltipItem.yLabel)
-                                            }//function
-
-                                        }//callbaks
+                                            }
+                                        }
                                     }
-
                                 }}
                             />
                         </CardBody>
@@ -988,11 +972,9 @@ const Grade = () => {
                                         callbacks: {
                                             label: function(tooltipItem) {
                                                 return Intl.NumberFormat().format(tooltipItem.yLabel)
-                                            }//function
-
-                                        }//callbaks
+                                            }
+                                        }
                                     }
-
                                 }}
                             />
                         </CardBody>

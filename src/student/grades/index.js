@@ -1,7 +1,6 @@
 import React, { Suspense } from 'react';
 import { Redirect, Route, Switch } from 'react-router-dom';
 
-export {sGradeReducer} from './Grade'
 
 const Grade = React.lazy(() => import('./Grade'));
 

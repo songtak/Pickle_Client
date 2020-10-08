@@ -11,20 +11,6 @@ import {NavLink} from "react-router-dom";
 import Countdown from "react-countdown"
 
 
-const lessonListType = {GET_LESSONLIST: 'class/GET_LESSONLIST'}
-const timetableType = {GET_TIMETABLE: 'class/GET_TIMETABLE'}
-
-export const sClassesReducer = (state = {}, action) => {
-    switch (action.type) {
-        case lessonListType.GET_LESSONLIST :
-            return {...state, lessonList: action.lessonList}
-        case timetableType.GET_TIMETABLE :
-            return {...state, timetable: action.timetable}
-        default :
-            return state
-    }
-}
-
 
 const Class = ({match}) => {
     function create() {window.open("/studentstreaming")}
@@ -273,12 +259,6 @@ const Class = ({match}) => {
                    </Col>}
                </Row>
            </div>
-
-
-
-
-
-
         </>
     );
 }

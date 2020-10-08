@@ -1,12 +1,34 @@
 import React, {useState, useEffect, useRef} from 'react';
 import {Table} from 'reactstrap'
 import PerfectScrollbar from 'react-perfect-scrollbar'
+
 import moment from 'moment'
+
 import {useDispatch} from 'react-redux'
 import {NavLink} from 'react-router-dom'
 import axios from 'axios'
+
 import './classesMain.css'
 
+const lessonListType = {GET_LESSONLIST: 'class/GET_LESSONLIST'}
+const timetableType = {GET_TIMETABLE: 'class/GET_TIMETABLE'}
+const basicInfoType = {GET_BASICINFO: 'class/GET_BASICINFO'}
+
+export const getLessonList = action => ({type: lessonListType.GET_LESSONLIST, lessonList: action.lessonList})
+export const getTimetable = action => ({type: timetableType.GET_TIMETABLE, timetable: action.timetable})
+export const getBasicInfo = action => ({type: basicInfoType.GET_BASICINFO, basicInfo: action})
+export const tClassesReducer = (state = {}, action) => {
+    switch (action.type) {
+        case lessonListType.GET_LESSONLIST:
+            return {...state, lessonList: action.lessonList}
+        case timetableType.GET_TIMETABLE:
+            return {...state, timetable: action.timetable}
+        case basicInfoType.GET_BASICINFO:
+            return {...state, basicInfo: action}
+        default:
+            return state
+    }
+}
 
 const ClassesMain = ({match}) => {
     const [userCode, setUserCode] = useState(localStorage.getItem("userCode"))
@@ -70,7 +92,7 @@ const ClassesMain = ({match}) => {
         let timerId = setTimeout(() => { clearInterval(timerId); alert('정지'); }, 2000);
         clearTimeout(timerId)
         setTimerTime('')
-         setTimerDay('00')
+        setTimerDay('00')
         setTimerHour('00')
         setTimerMinute('00')
         setTimerSecond('00')
@@ -91,6 +113,7 @@ const ClassesMain = ({match}) => {
             .get(`https://server.pickle2020.site/tsubject/detailList/${userCode}`)
             .then(({data}) => {
                 setLessons(data.list)
+                dispatch(getLessonList(data.list))
             })
             .catch(error => {
                 throw (error)
@@ -121,6 +144,7 @@ const ClassesMain = ({match}) => {
             .get(`https://server.pickle2020.site/tsubject/basicInfo?cUserCode=${userCode}`)
             .then(({data}) => {
                 setBasicInfo(data.map)
+                dispatch(getBasicInfo(data.map))
             })
     }
     return (

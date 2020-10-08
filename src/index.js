@@ -19,7 +19,6 @@ import {mainpageReducer} from "./commons/MainPage"
 import {teacherStreamingReducer} from "./teacher/streamings"
 import {studentStreamingReducer} from "./student/streamings"
 import {tNoticeDetailReducer} from './teacher/notices'
-import {tClassesReducer} from './teacher/classes/ClassesMain'
 import {tTimetableReducer} from './teacher/classes/dndTimetable/Timetable'
 
 const App = React.lazy(() => import('./App'));
@@ -30,7 +29,6 @@ const rootReducer = combineReducers({
     teacherStreamingReducer,
     studentStreamingReducer,
     tNoticeDetailReducer,
-    tClassesReducer,
     tTimetableReducer,
 })
 
